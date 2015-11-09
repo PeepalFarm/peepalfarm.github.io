@@ -24,10 +24,10 @@ The help we need ranges from daily tasks - like dog walks, housekeeping, farm wo
 Ready to join us?
 ----------
 
-**Who we need**
+[**Who we need**](#who-need "Who we need")
 
-**How to get here**
+[**How to get here**](#directions "Directions")
 
-**Guidlines and Suggestions**
+[**Guidlines and Suggestions**](#rules "Rules")
 
-**FAQ**
+[**FAQ**](#FAQ "FAQ")

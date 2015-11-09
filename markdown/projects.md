@@ -1,39 +1,27 @@
 ---
-Title:   Projects
+Title: Projects
+published: true
 ---
+
 [//]: # (comments)
 
-PROJECTX
 
-Badmash Peepal Farm is an **organic farm** and **stray animal recovery
-center** for large and small animals in Dhanotu village, near
-Dharamsala, Himachal Pradesh. We promote sustainable living and offer
-a work exchange program where people from all around the world can  for vegan meals and accommodation.
-
-Our main priority is the health and upkeep of the animals we
-treat and rehabilitate. **We aim to alleviate the suffering of any
-animal that requires aid.** Many of the animals were brought in having
-sustained serious injuries, mostly due to accidents and abuse.
-
- The farm is a work in progress and so far we have been able to
-harvest some herbs and vegetables from our expanding
-garden. In the future we aim to be totally self sustainable.
-
-See pictures of life on the farm
----------
-(http://www.fb.com/groups/badmashpeepal/photos/ )
-
-The help we need ranges from daily tasks - like dog walks, housekeeping, farm work, assistance with animal treatments, and spending time with the animals - to skilled work - like art, media and outreach, hecktivism, permaculture, carpentry, or sustainable building. 
-
-**Read a review of the work by one of our volunteers** (https://180daysofindia.wordpress.com/2015/09/22/badmash-peepal-farm/)
-
-Ready to join us?
+Present
+=========
+Badmash Peepal Farm
 ----------
+Our farm and community space near Dharamsala, at the foothills of the Himalayas, where culture jammers, hactivists and change-makers can either help us run our welfare programs for stray animals or propose and implement a project to help animals in another way.
 
-**Who we need**
+ABC Co-operative
+----------
+The ABC Co-operative connects stray dog feeders, ambulances, vets, post-op care centers, and donors to sterilize stray dogs, area-by-area.
 
-**How to get here**
+Past
+=========
+Friends of ARK
+----------
+For 12 years Avis, founder of Animal Rescue Kerala, built and managed an incredible shelter in Kovalam. However she became ill, and wished to return to her home in the UK. We assisted in re-homing dogs and searching for an organization to continue ABC in her facility.
 
-**Guidlines and Suggestions**
-
-**FAQ**
+Friends of IACC
+----------
+FoIACC was our very first project. IACC was founded by a group of people in 2005, but for many years had been taken care of by only one person, Lorraine. There were too many animals at the shelter for one person to manage, and Lorraine was exhausted from overwork. We decided to help her fix the place up and find help, and we found a new person to replace Lorraine in managing the center.

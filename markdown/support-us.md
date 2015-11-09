@@ -34,6 +34,6 @@ Supplies
 
 Work with us:
 ==========
-1) [**Work online**] (link "online work") to help us fundraise, promote, and create media (contact)
+1) [**Work online**]( #online-work "online work" ) to help us fundraise, promote, and create media (contact)
 
-2) [**Work exchange**](#who-we-need "who we need") program in Himachal (link to positions or BPF)
+2) [**Work exchange**](#who-we-need "who we need") program in Himachal

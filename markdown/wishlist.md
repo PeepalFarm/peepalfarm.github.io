@@ -7,6 +7,7 @@ Wishlist
 * Laptops
 * Cell Phones
 * Cameras
+* Large standard shipping crates (airline approved)
 * Collapsible crates
 * Metal Buckets
 * Heating lamp with bulbs

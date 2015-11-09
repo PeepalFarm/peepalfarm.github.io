@@ -3,18 +3,11 @@
 ABOUT
 
 Badmash Peepal Farm is an **organic farm** and **stray animal recovery
-center** for large and small animals in Dhanotu village, near
-Dharamsala, Himachal Pradesh. We promote sustainable living and offer
-a work exchange program where people from all around the world can  for vegan meals and accommodation.
+center** for large and small animals near Dharamsala, Himachal Pradesh. We promote sustainable living and offer a program where people from all around the world can work in exchange for vegan meals and accommodation.
 
-Our main priority is the health and upkeep of the animals we
-treat and rehabilitate. **We aim to alleviate the suffering of any
-animal that requires aid.** Many of the animals were brought in having
-sustained serious injuries, mostly due to accidents and abuse.
+Our main priority is the health of the animals we treat and rehabilitate. **We aim to alleviate the suffering of any animal that requires aid.** Many of the animals were brought in having sustained serious injuries, mostly due to accidents and abuse.
 
- The farm is a work in progress and so far we have been able to
-harvest some herbs and vegetables from our expanding
-garden. In the future we aim to be totally self sustainable.
+In the future we aim to be totally self sustainable. The farm is a work in progress and so far we have been able to harvest some herbs and vegetables from our expanding garden.
 
 
  [See pictures of life on the farm](http://www.fb.com/groups/badmashpeepal/photos/ "Facebook group")

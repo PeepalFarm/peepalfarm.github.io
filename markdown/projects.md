@@ -3,8 +3,6 @@ Title: Projects
 published: true
 ---
 
-[//]: # (comments)
-
 
 Present
 =========

@@ -26,9 +26,9 @@ Button
 
 Supplies
 ----------
-[**Supplies we always need.**] (link "supplies") We always need things like medical, cleaning, dog, and office supplies.
+[**Supplies we always need.**] ( #supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.
 
-[**Our Wishlist.**] (link "wishlist") Equipment and supplies which will last.
+[**Our Wishlist.**] ( #wishlist "wishlist" ) Equipment and supplies which will last.
 
 
 
@@ -36,4 +36,4 @@ Work with us:
 ==========
 1) [**Work online**] (link "online work") to help us fundraise, promote, and create media (contact)
 
-2) [**Work exchange**] (link "positions") program in Himachal (link to positions or BPF)
+2) [**Work exchange**] (#who-we-need "who we need") program in Himachal (link to positions or BPF)

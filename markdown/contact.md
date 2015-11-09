@@ -7,6 +7,6 @@ Contact
 
 **Getting here**
 
-*[Badmash Peepal Farm, Dhanotu] (link “Badmash Peepal Directions”)
+* [Badmash Peepal Farm, Dhanotu] (link “Badmash Peepal Directions”)
 
-*Please WhatsApp to arrange a visit to our Post-Op Center in Delhi
+* Please WhatsApp to arrange a visit to our Post-Op Center in Delhi

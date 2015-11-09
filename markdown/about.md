@@ -16,13 +16,12 @@ sustained serious injuries, mostly due to accidents and abuse.
 harvest some herbs and vegetables from our expanding
 garden. In the future we aim to be totally self sustainable.
 
-See pictures of life on the farm
+ [See pictures of life on the farm](http://www.fb.com/groups/badmashpeepal/photos/ "Facebook group")
 ---------
-(http://www.fb.com/groups/badmashpeepal/photos/ )
 
 The help we need ranges from daily tasks - like dog walks, housekeeping, farm work, assistance with animal treatments, and spending time with the animals - to skilled work - like art, media and outreach, hecktivism, permaculture, carpentry, or sustainable building. 
 
-**Read a review of the work by one of our volunteers** (https://180daysofindia.wordpress.com/2015/09/22/badmash-peepal-farm/)
+[**Read a review of the work by one of our volunteers**] (https://180daysofindia.wordpress.com/2015/09/22/badmash-peepal-farm/ "Lawrence blog")
 
 Ready to join us?
 ----------

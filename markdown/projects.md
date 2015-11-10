@@ -1,8 +1,5 @@
-<!--
----
-Title: Projects
----
--->
+Projects
+-----------
 
 [//]: # (comments)
 

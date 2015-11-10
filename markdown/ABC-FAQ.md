@@ -54,11 +54,11 @@ We do not charge any fees for our services. We rely on donations to keep operati
 
 **Can I visit the post-op care center?**
 
-Yes! Please WhatsApp in advance to make an appointment.
+Yes! Please [contact us]( #contact "contact" ) in advance to make an appointment.
 
 **How do I get started?**
 
-To get started, WhatsApp 9999 429 144.
+To get started, [contact us.]( #contact "contact" )
 
 
 

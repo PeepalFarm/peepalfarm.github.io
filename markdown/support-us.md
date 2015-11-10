@@ -1,7 +1,7 @@
-Donate: 
+Support us 
 =========
 </br></br>
-Monetary
+Monetary Donations
 ----------
 * Rs 1000 or $15 can buy 4 rabies vaccinations for stray dogs
 * Rs 2000 or $30 can sterilize one female stray dog (in a hygenic and humane way)
@@ -25,7 +25,7 @@ Button
 **4) By cash in person** WhatsApp +91 9999 429 144 to find out how.
 </br></br></br>
 
-Supplies
+Supplies Donations
 ----------
 [**Supplies we always need.**]( #supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.
 

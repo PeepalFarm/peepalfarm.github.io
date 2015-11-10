@@ -1,6 +1,10 @@
----
-description: YAML front matter
----
+title: The Page Title
 
+content:
+++++++++++++++++++++++++++++++++++++
 
-## begin markdown
+## A markdown title
+
+And a paragraph containing **bold** text.
+
+++++++++++++++++++++++++++++++++++++

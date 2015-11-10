@@ -1,3 +1,7 @@
+<!---
+Title: Projects
+--->
+
 [//]: # (comments)
 
 Present
@@ -19,7 +23,3 @@ For 12 years Avis, founder of Animal Rescue Kerala, built and managed an incredi
 Friends of IACC
 ----------
 FoIACC was our very first project. IACC was founded by a group of people in 2005, but for many years had been taken care of by only one person, Lorraine. There were too many animals at the shelter for one person to manage, and Lorraine was exhausted from overwork. We decided to help her fix the place up and find help, and we found a new person to replace Lorraine in managing the center.
-
----
-Title: Projects
----

@@ -7,7 +7,7 @@ We believe that until the number of homes equals the number of dogs, their popul
 
 
 
-[**Read our comic!**](link "comic")
+[**Read our comic!**]
 
 
 
@@ -19,7 +19,7 @@ We believe that until the number of homes equals the number of dogs, their popul
 
 
 
-We provide coordination as well as a tangible infrastructure of ambulances, drivers, dog handlers, and a post op facility. 
+We provide coordination as well as a tangible infrastructure of an ambulance, driver, dog handler, and a post op facility. 
 
 
 
@@ -34,14 +34,6 @@ We provide coordination as well as a tangible infrastructure of ambulances, driv
 
 
 
-**Contact us** to join the ABC Co-op. 
+[**Contact us**]( #contact "contact ) to join the ABC Co-op. 
 
-More questions? **Read our FAQ**
-
-
-
-
-
-Links - media## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+More questions? [**Read our FAQ**]( #abc-faq "ABC FAQ" )

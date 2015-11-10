@@ -1,6 +1,6 @@
 Donate: 
 =========
-</br></br></br></br>
+</br></br>
 Monetary
 ----------
 * Rs 1000 or $15 can buy 4 rabies vaccinations for stray dogs

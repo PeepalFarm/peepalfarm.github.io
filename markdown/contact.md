@@ -1,9 +1,9 @@
 Contact
 ==========
 
-**WhatsApp**  + 91 9999 429 144 for sterilizations requests in Delhi, Dhanotu, or nearby villages
+**WhatsApp**  + 91 9999 429 144 for sterilizations requests
 
-**E-mail** tails@worldlywags.org
+**E-mail** farm@badmashpeepal.org
 
 **Getting here**
 

@@ -17,10 +17,10 @@ Plane
 ==========
 From Guggal airport take a bus or taxi towards Chambi Pul. At the intersection in Chambi, turn right (do not cross the bridge). If you are taking the bus, get down at Chambi and take a bus uphill towards Chari.
 
-Continue uphill past the Home Gaurd center. When you see the bus shelter on the left (next to the temple) turn right. The road goes almost parallel to the highway for a while, then there is a fork in the road. Turn left at the fork and look for a door with Shiva and a cow painted on it. That is us! If you have any problems you can [Contact us]( #contact "Contact" ) or just ask anyone for "animal place".
+Continue uphill past the Home Gaurd center. When you see the Dhanotu bus shelter on the left (next to the temple) turn right. The road goes almost parallel to the highway for a while, then there is a fork in the road. Turn left at the fork and look for a door with Shiva and a cow painted on it. That is us! If you have any problems you can [Contact us]( #contact "Contact" ) or just ask anyone for "animal place".
 
 Train
 ==========
 From the train station in Pathankot, take a taxi towards Dharamsala. You will pass Shahpur and then Rait, then after you cross the next bridge (at Chambi) take the immediate left to go uphill. 
 
-Continue uphill past the Home Gaurd center. When you see the bus shelter on the left (next to the temple) turn right. The road goes almost parallel to the highway for a while, then there is a fork in the road. Turn left at the fork and look for a door with Shiva and a cow painted on it. That is us! If you have any problems you can [Contact us]( #contact "Contact" ) or just ask anyone for "animal place".
+Continue uphill past the Home Gaurd center. When you see the Dhanotu bus shelter on the left (next to the temple) turn right. The road goes almost parallel to the highway for a while, then there is a fork in the road. Turn left at the fork and look for a door with Shiva and a cow painted on it. That is us! If you have any problems you can [Contact us]( #contact "Contact" ) or just ask anyone for "animal place".

@@ -1,6 +1,3 @@
----
-Title: Projects
----
 
 [//]: # (comments)
 

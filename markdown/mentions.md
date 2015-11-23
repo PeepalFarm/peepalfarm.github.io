@@ -4,3 +4,4 @@
 * image from prakash
 * https://180daysofindia.wordpress.com/2015/09/22/badmash-peepal-farm/
 * http://lilianleahy.com/uncategorized/painting-for-a-stray-animal-recovery-center-dharamsala/?fb_ref=Default
+* http://www.care2.com/causes/calf-left-on-road-gets-rescued-by-pair-feeding-stray-dogs.html

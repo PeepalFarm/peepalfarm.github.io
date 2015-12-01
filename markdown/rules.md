@@ -9,7 +9,7 @@ Rules
 
 4) Please plan on arriving at the farm either between 9:30 am - 12:30 pm or 2:00 pm -5:30 pm on a Monday. Also please confirm your arrival time the day before.
 
-5) Volunteers are requested to work 36 hours per week. If you wish to work fewer hours, or are unable to work for any reason while you are here, we will ask for the same amount you would pay if you were staying and eating outside. We also ask day volunteers for Rs 100 if they are taking lunch with us.
+5) Volunteers are requested to work 36 hours per week. (6 hour days, 6 days per week)
 
 6) Volunteers must sign out in the book before leaving the property (yes, even on your day off). That way we know where you are, when you plan to return, and can find you if you fall off a cliff somewhere. Because we care!
 

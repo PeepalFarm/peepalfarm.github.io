@@ -38,14 +38,16 @@
 
 
 	function loadMarkdown(fn) {
-		$.get(fn, function( data ) {
+		
+		var jqxhr = $.get(fn, function( data ) {
+				
 			var md = metaMarked(data);
 			console.log(md.meta);
 			var content_holder=document.getElementById('content');
 			content_holder.innerHTML = md.html;
 		
-			window.scrollTo(0, 0);
-			$('nav ul').blur(); // tried for mobile, not working
+			//window.scrollTo(0, 0); // not needed as we are not using hash tags
+			//$('nav ul').blur(); // tried for mobile, not working
 			
 			if (md.meta) {
 				if (md.meta["Title"]!==undefined) {
@@ -79,6 +81,10 @@
 			}
 			
 		});
+		
+		jqxhr.fail(function() {
+			document.getElementById('content').innerHTML = "<p>This page does not exist.</p><p><a href=\"javascript:window.location.href='//github.com/"+user_name+"/"+repo_name+"/new/master/markdown?filename='+window.location.search.substr(1)+'.md';\">Create this page</a></p>";
+		});
 	}	
 						
 			
@@ -86,14 +92,20 @@
 		
 		var req=$(obj).attr("href");
 		
-		if (req=="/") {
-				md=md_path+index_md;
-		} else {
-				md=md_path+req.substr(1)+".md";
-		}	
-		loadMarkdown(md);
+		if (req.substring(0,1)==="?" || req==="/") {
+			window.event.preventDefault ? window.event.preventDefault() : window.event.returnValue = false;
+			window.history.pushState("", "", req); 
+		
+			if (req=="/") {
+					md=md_path+index_md;
+			} else {
+					md=md_path+req.substr(1)+".md";
+			}	
+			
+			loadMarkdown(md);
+		}
 						
-		//window.history.pushState("object or string", "Title", org_req);
+		
 		
 	}	
 

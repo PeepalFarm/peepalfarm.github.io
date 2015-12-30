@@ -1,7 +1,11 @@
----
-Title: Photo Galleries
----
+<!--
+Title: Adoptions
+Scripts: 
+- //s.imgur.com/min/embed.js
+- //s.imgur.com/min/embed.js
+-->
 
-<div style="margin: 0 auto;padding:0; padding-left:40px;">
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/BKtda"></blockquote>
-</div>
+
+	<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/BKtda"></blockquote></center>
+	<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/BKtda"></blockquote><center>
+	

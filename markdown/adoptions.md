@@ -1,7 +1,13 @@
----
-Title:   Dogs for Adoption
----
-[//]: # (comments)
+<!--
+Title: Adoptions
 
-<a href="https://www.pinterest.com/badmashpeepal/dogs-needing-spay-and-neuter/"   data-pin-do="embedBoard" data-pin-scale-height="400" data-pin-scale-width="200"></a>
-		
+# we need to include imgur script as many times as many galleries we want to embed!
+Scripts: 
+- //s.imgur.com/min/embed.js
+- //s.imgur.com/min/embed.js
+-->
+
+
+<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/BKtda"></blockquote></center>
+<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/BKtda"></blockquote><center>
+	

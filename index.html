@@ -3,26 +3,19 @@
 todo
 --
 http://www.dev-metal.com/fix-ugly-font-rendering-google-chrome/
+fb link?
+logo
 
-social links
---
-https://facebook.com/worldlywags/
-https://twitter.com/badmashpeepal/
-https://instagram.com/badmashpeepal/
-
-embed in "blog"
------
-facebook posts
-instagram
- youtube 
-  
-  twitter
-  medium posts
    
 embed in pages
 ----   
 google maps
+youtube vids
 
+
+posts
+--
+gist
 
 permalink | like  | share?
 
@@ -37,21 +30,17 @@ header, nav, article, footer, aside and section elements give meaning to content
 
 		- getskeleton.com
 		- http://www.callmenick.com/tutorials/create-an-animated-resizing-header-on-scroll
-		- ..
 
-if we want to take the lazy mode and skip running the file generator, just change / to # in the nav bar
-if we switch to html file generator:
+if we switch mode to html file generator instead of single file app:
+	
 	read html template in a var
 	for each *.md in markdown folder using https://github.com/michael/github { 
 		replace markdown file holder text in the var with content of markdown
 		change title in var with title from markdown
 		write out html using https://github.com/michael/github
 	}
-dont make live without running the file gen, else google will index content with broken links!
 
 
-
-http://googlewebmastercentral.blogspot.in/2015/10/deprecating-our-ajax-crawling-scheme.html	
 		
 -->
 <!--
@@ -64,16 +53,12 @@ ethical adblocker
 	clicking on those ads so the advertisers see that it's not in their interest to advertise on these sites and just the sites which are
 	spending time creating quality content.
 
-
-adesh website aboput bikers
-
 classifieds app/website for traveleres?
 	
 
 obsessedwithorlando89@gmail.com? 
 vijay
 
-worldlywags@gmail should forward to tails
 
 ---
 
@@ -185,6 +170,9 @@ Gruik (php, too complex for me to install, does not have all the features)
 		var site_title="Badmash Peepal";
 		var md_path="/markdown/";
 		var index_md="about.md";
+		var user_name='BadmashPeepal';
+		var repo_name='badmashpeepal.github.io';
+		var md='';
 		
 		var didScroll;
 		var lastScrollTop = 0;
@@ -193,9 +181,10 @@ Gruik (php, too complex for me to install, does not have all the features)
 		// Hide Header on on scroll down
 		$(document).ready(function() {
 			
-			if (window.location.hash) {
+			// window.location.hash
+			if (window.location.search) {
 				// Fragment exists
-				md=md_path+window.location.hash.substr(1)+".md";
+				md=md_path+window.location.search.substr(1)+".md";
 			} else {
 				md=md_path+index_md;
 			}	
@@ -204,6 +193,7 @@ Gruik (php, too complex for me to install, does not have all the features)
 			$(window).scroll(function(event){
 				didScroll = true;
 			});
+
 
 			$(document).on('click', "a" , function() {			
 				processClicks(this);				
@@ -247,12 +237,12 @@ Gruik (php, too complex for me to install, does not have all the features)
 					
 					-->
 					<li class="current" id="menu">MENU</li>
-					<li><a href="#about">ABOUT</a></li>
-					<li><a href="#projects">OUR WORK</a></li>
-					<li><a href="#support-us">DONATE</a></li>
-					<li><a href="#support-us">VOLUNTEER</a></li>
-					<li><a href="#contact">CONTACT</a></li>
-					<li><a href="#adoptions">ADOPTIONS</a></li>
+					<li><a href="?about">ABOUT</a></li>
+					<li><a href="?projects">OUR WORK</a></li>
+					<li><a href="?support-us">DONATE</a></li>
+					<li><a href="?support-us">VOLUNTEER</a></li>
+					<li><a href="?contact">CONTACT</a></li>
+					<li><a href="?adoptions">ADOPTIONS</a></li>
 					<!-- <li><a href="/#blog">BLOG</a></li>
 					<li><a href="/#downloads">DOWNLOADS</a></li>
 					<li><a href="/#galleries">EYE CANDY</a></li> 
@@ -290,8 +280,8 @@ Gruik (php, too complex for me to install, does not have all the features)
 	<footer>
 		<div id="info-bar">
 			<div class="container clearfix">
-				<span class="all-tutorials"><a href="http://www.facebook.com/worldlywags">Facebook</a></span> |
-				<span class="back-to-tutorial"><a href="http://www.instagram.com/badmashpeepal">Instagram</a></span>
+				<p></p><span><a href="http://www.facebook.com/worldlywags">Facebook</a></span> | <span><a href="http://www.instagram.com/badmashpeepal">Instagram</a></span></p>
+				<p><a href="javascript:window.location.href='//github.com/'+user_name+'/'+repo_name+'/blob/master'+md">Edit markdown for this page</a></p>
 			</div>
 		</div>
 	</footer><!-- /footer -->

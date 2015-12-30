@@ -9,7 +9,7 @@ Our main priority is the health of the animals we treat and rehabilitate. **We a
 
 In the future we aim to be totally self sustainable. The farm is a work in progress and so far we have been able to harvest some herbs and vegetables from our expanding garden.
 
-[See pictures of life on the farm](http://www.fb.com/groups/badmashpeepal/photos/ "Facebook group")
+[**See pictures of life on the farm](http://www.fb.com/groups/badmashpeepal/photos/ "Facebook group")
 
 The help we need ranges from daily tasks - like dog walks, housekeeping, farm work, assistance with animal treatments, and spending time with the animals - to skilled work - like art, media and outreach, hacktivism, permaculture, carpentry, or sustainable building. 
 

@@ -60,7 +60,7 @@
 			//$('nav ul').blur(); // tried for mobile, not working
 			
 			
-			$("#edit").html('<a href="//github.com/'+user_name+'/'+repo_name+'/blob/master'+fn+'">Edit markdown for this page</a>"');
+			$("#edit").html('<a href="//github.com/'+user_name+'/'+repo_name+'/blob/master/'+fn+'">Edit markdown for this page</a>"');
 			$("#edit").show();
 			
 			if (md.meta) {

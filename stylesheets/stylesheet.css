@@ -188,7 +188,7 @@ body {
 	.nav li {
 		display: none; /* hide all <li> items */
 		margin: 0 auto;
-		padding: 5px;
+		padding: 8px;
 		
 	}
 	.nav .current {
@@ -201,14 +201,14 @@ body {
 	.nav ul:hover li {
 		display: block;
 	}
-	/*
+	
 	.nav ul:focus li {
 		display: block;
 	}
 	.nav ul:active li {
 		display: block;
 	}
-	*/
+	
 	
 }
 

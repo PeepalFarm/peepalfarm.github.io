@@ -5,14 +5,6 @@ We believe that until the number of homes equals the number of dogs, their popul
 ----------
 
 
-
-
-[**Read our comic!**]
-
-
-
-
-
 **The ABC Co-operative connects people and organizations to create a distributed network.** No single individual or organization is completely responsible for it to function, making it scalable and sustainable. This means linking dog caretakers, veterinarians, transportation, donors, and foster homes to complete the entire process of sterilization. 
 
 
@@ -34,6 +26,4 @@ We provide coordination as well as a tangible infrastructure of an ambulance, dr
 
 
 
-[**Contact us**]( #contact "contact ) to join the ABC Co-op. 
-
-More questions? [**Read our FAQ**]( #ABC-FAQ "ABC FAQ" )
+[**Contact us**]( ?contact "contact ) to join the ABC Co-op.

@@ -14,7 +14,7 @@
 		if (str.slice(0, yaml_begin.length) !== yaml_begin) return;
 		
 		
-		console.log(str.substr(str.indexOf(yaml_begin)+yaml_begin.length, str.indexOf(yaml_end)-(yaml_end.length+1)));
+		//console.log(str.substr(str.indexOf(yaml_begin)+yaml_begin.length, str.indexOf(yaml_end)-(yaml_end.length+1)));
 		
 		return {
 				yaml : str.substr(str.indexOf(yaml_begin)+yaml_begin.length, str.indexOf(yaml_end)-(yaml_end.length+1)),
@@ -37,12 +37,22 @@
 
 
 
-	function loadMarkdown(fn) {
+	function loadMarkdown(req,pushstate) {
+
+		if (pushstate) {
+			window.history.pushState({ url: req }, "", req); 
+		}
 		
+		if (req=="/") {
+				fn=md_path+index_md; //file name
+		} else {
+				fn=md_path+req.substr(1)+".md";
+		}
+			
 		var jqxhr = $.get(fn, function( data ) {
 				
 			var md = metaMarked(data);
-			console.log(md.meta);
+			//console.log(md.meta);
 			var content_holder=document.getElementById('content');
 			content_holder.innerHTML = md.html;
 		
@@ -82,8 +92,11 @@
 			
 		});
 		
-		jqxhr.fail(function() {
-			document.getElementById('content').innerHTML = "<p>This page does not exist.</p><p><a href=\"javascript:window.location.href='//github.com/"+user_name+"/"+repo_name+"/new/master/markdown?filename='+window.location.search.substr(1)+'.md';\">Create this page</a></p>";
+		jqxhr.fail(function(e) {
+			if (e.status=="404") {
+				document.getElementById('content').innerHTML = "<p><center>404. This page does not exist.</p><p><a href=\"javascript:window.location.href='//github.com/"+user_name+"/"+repo_name+"/new/master?filename='+fn;\">Create this page</a></center></p>";
+				$("#edit").hide();
+			}	
 		});
 	}	
 						
@@ -94,15 +107,9 @@
 		
 		if (req.substring(0,1)==="?" || req==="/") {
 			window.event.preventDefault ? window.event.preventDefault() : window.event.returnValue = false;
-			window.history.pushState("", "", req); 
-		
-			if (req=="/") {
-					md=md_path+index_md;
-			} else {
-					md=md_path+req.substr(1)+".md";
-			}	
+				
 			
-			loadMarkdown(md);
+			loadMarkdown(req,true);
 		}
 						
 		

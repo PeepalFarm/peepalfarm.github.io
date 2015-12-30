@@ -2,6 +2,7 @@
 
 todo
 --
+edit makrdown to not show for non existent pages
 http://www.dev-metal.com/fix-ugly-font-rendering-google-chrome/
 fb link?
 logo
@@ -168,7 +169,7 @@ Gruik (php, too complex for me to install, does not have all the features)
 	<script>
 
 		var site_title="Badmash Peepal";
-		var md_path="/markdown/";
+		var md_path="markdown/";
 		var index_md="about.md";
 		var user_name='BadmashPeepal';
 		var repo_name='badmashpeepal.github.io';
@@ -180,16 +181,23 @@ Gruik (php, too complex for me to install, does not have all the features)
       
 		// Hide Header on on scroll down
 		$(document).ready(function() {
-			
+				
 			// window.location.hash
 			if (window.location.search) {
 				// Fragment exists
-				md=md_path+window.location.search.substr(1)+".md";
+				req=window.location.search;
 			} else {
-				md=md_path+index_md;
+				req="/";
 			}	
-			loadMarkdown(md);
+			loadMarkdown(req,true);
 			
+			$(window).on("popstate", function (e) {
+			  if (e.originalEvent.state) {
+				alert(e.originalEvent.state.url);
+				loadMarkdown(e.originalEvent.state.url,false);
+			  }
+			});
+
 			$(window).scroll(function(event){
 				didScroll = true;
 			});
@@ -281,7 +289,7 @@ Gruik (php, too complex for me to install, does not have all the features)
 		<div id="info-bar">
 			<div class="container clearfix">
 				<p></p><span><a href="http://www.facebook.com/worldlywags">Facebook</a></span> | <span><a href="http://www.instagram.com/badmashpeepal">Instagram</a></span></p>
-				<p><a href="javascript:window.location.href='//github.com/'+user_name+'/'+repo_name+'/blob/master'+md">Edit markdown for this page</a></p>
+				<p id="edit"><a href="javascript:window.location.href='//github.com/'+user_name+'/'+repo_name+'/blob/master'+md">Edit markdown for this page</a></p>
 			</div>
 		</div>
 	</footer><!-- /footer -->

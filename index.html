@@ -1,5 +1,32 @@
 <!--
 
+todo
+--
+http://www.dev-metal.com/fix-ugly-font-rendering-google-chrome/
+
+social links
+--
+https://facebook.com/worldlywags/
+https://twitter.com/badmashpeepal/
+https://instagram.com/badmashpeepal/
+
+embed in "blog"
+-----
+facebook posts
+instagram
+ youtube 
+  
+  twitter
+  medium posts
+   
+embed in pages
+----   
+google maps
+
+
+permalink | like  | share?
+
+
 iphone touch from github?
 
 
@@ -12,7 +39,8 @@ header, nav, article, footer, aside and section elements give meaning to content
 		- http://www.callmenick.com/tutorials/create-an-animated-resizing-header-on-scroll
 		- ..
 
-html file generator:
+if we want to take the lazy mode and skip running the file generator, just change / to # in the nav bar
+if we switch to html file generator:
 	read html template in a var
 	for each *.md in markdown folder using https://github.com/michael/github { 
 		replace markdown file holder text in the var with content of markdown
@@ -21,7 +49,7 @@ html file generator:
 	}
 dont make live without running the file gen, else google will index content with broken links!
 
-if we want to take the lazy mode and skip running the file generator, just change / to # in the nav bar
+
 
 http://googlewebmastercentral.blogspot.in/2015/10/deprecating-our-ajax-crawling-scheme.html	
 		
@@ -93,12 +121,20 @@ Gruik (php, too complex for me to install, does not have all the features)
 <html lang="en">
 <head>
 
+	<!-- pinterest -->..
+	<meta name="p:domain_verify" content="01b2481b96c42625730c9249fb72e4eb"/> 
+    
+    
 	<!-- Basic Page Needs
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 	<meta charset="utf-8">
-	<title>BADMASH PEEPAL</title>
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+	<!-- schema.org
+	-------------------------------------------------- -->
 	<meta name="description" content="">
 	<meta name="author" content="">
+
 
 	<!-- Mobile Specific Metas
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -113,6 +149,8 @@ Gruik (php, too complex for me to install, does not have all the features)
 
 	<!-- CSS
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
+
 	<link rel="stylesheet" href="/stylesheets/normalize.css"> <!-- A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line modern standards. It precisely targets only the styles that need normalizing. -->
 
 
@@ -133,9 +171,12 @@ Gruik (php, too complex for me to install, does not have all the features)
 
 	<!-- Javascript
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-	<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js" ></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> 
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> 
 	<!-- <script src="/js/jquery.min.js"></script>  -->
+	
+	<script src="/javascripts/js-yaml.js"></script>
+	
 	<script src="/javascripts/marked.js"></script>
 	<script src="/javascripts/main.js"></script>
 
@@ -143,26 +184,22 @@ Gruik (php, too complex for me to install, does not have all the features)
 
 		var site_title="Badmash Peepal";
 		var md_path="/markdown/";
+		var index_md="about.md";
 		
 		var didScroll;
 		var lastScrollTop = 0;
 		var delta = 0;
       
 		// Hide Header on on scroll down
-		$( document ).ready(function() {
+		$(document).ready(function() {
 			
-			
-			//if (window.location.pathname=="/") {
 			if (window.location.hash) {
-				// Fragment exists, lazy mode with a single html file
-				loadMarkdown(md_path+window.location.hash.substr(1)+".md");
+				// Fragment exists
+				md=md_path+window.location.hash.substr(1)+".md";
 			} else {
-				loadMarkdown(md_path+"about"+".md");
+				md=md_path+index_md;
 			}	
-			//} else {
-				// wont be used
-			//	content_holder.innerHTML = marked(content_holder.innerHTML);
-			//}	
+			loadMarkdown(md);
 			
 			$(window).scroll(function(event){
 				didScroll = true;
@@ -187,30 +224,51 @@ Gruik (php, too complex for me to install, does not have all the features)
 		<script src="http://css3-mediaqueries-js.googlecode.com/files/css3-mediaqueries.js"></script>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-
+	<title>BADMASH PEEPAL</title>
 
 </head>
 
 
 <body>
-	
 	<header>
 		<div class="container">
 			<h1 id="logo">
 				BADMASH PEEPAL
 			</h1>
 			
-			<nav class="nav" id="nav">
+			<!-- <i class="fa fa-facebook fa-2x" title="Facebook"></i> -->
+			
+			<nav class="nav" id="nav" onclick="void(0);">
 				<ul id="navlist">
+					<!--
+					
+					logo?
+					social media links?
+					
+					-->
 					<li class="current" id="menu">MENU</li>
-					<li><a href="/#about">ABOUT</a></li>
-					<li><a href="/#projects">PROJECTS</a></li>
-					<li><a href="/#support-us">SUPPORT US</a></li>
-					<li><a href="/#contact">CONTACT</a></li>
-					<li><a href="/#adoptions">ADOPTIONS</a></li>
-					<li><a href="/#blog">BLOG</a></li>
+					<li><a href="#about">ABOUT</a></li>
+					<li><a href="#projects">OUR WORK</a></li>
+					<li><a href="#support-us">DONATE</a></li>
+					<li><a href="#support-us">VOLUNTEER</a></li>
+					<li><a href="#contact">CONTACT</a></li>
+					<li><a href="#adoptions">ADOPTIONS</a></li>
+					<!-- <li><a href="/#blog">BLOG</a></li>
 					<li><a href="/#downloads">DOWNLOADS</a></li>
-					<li><a href="/#galleries">GALLERIES</a></li>
+					<li><a href="/#galleries">EYE CANDY</a></li> 
+					resources
+					media mentions
+					social media
+					
+					getting here
+					before getting here
+						expectations
+							what to do aroun here?	
+						what to pack
+					after getting here
+						orientation
+						buses?
+					-->
 				</ul>
 			</nav>
 		</div>
@@ -219,21 +277,21 @@ Gruik (php, too complex for me to install, does not have all the features)
 	<!-- Primary Page Layout –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 	<div id="wrapper">
 			
-		<div class="box">
+		<section id="main_content">
 			
 			<article id="content" class="markdown-body">
 					<!-- markdown file -->
 			</article>
 			
-		</div>
+		</section>
 			
 	</div><!-- /#wrapper -->
 
 	<footer>
 		<div id="info-bar">
 			<div class="container clearfix">
-				<span class="all-tutorials"><a href="http://www.callmenick.com/tutorials">&larr; all tutorials</a></span>
-				<span class="back-to-tutorial"><a href="http://www.callmenick.com/tutorials/create-an-animated-resizing-header-on-scroll">back to the tutorial</a></span>
+				<span class="all-tutorials"><a href="http://www.facebook.com/worldlywags">Facebook</a></span> |
+				<span class="back-to-tutorial"><a href="http://www.instagram.com/badmashpeepal">Instagram</a></span>
 			</div>
 		</div>
 	</footer><!-- /footer -->

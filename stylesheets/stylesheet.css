@@ -10,15 +10,9 @@ body {
   margin: 0 auto; 
   margin-top:140px;
 }
-/*
-body {
-	background-image: url("../img/backgroundimage.jpg");
-  background-size: cover;
-  
-}
-*/
 
-.box {
+
+#main_content {
    margin: 0 auto;
    max-width: 620px;
    padding: 10px;
@@ -148,7 +142,11 @@ header nav a {
 
 @media screen and (max-width: 800px) {
 
-.box {
+body {
+	cursor: pointer; /* apple css fix  https://css-tricks.com/forums/topic/click-function-for-hover-states-on-touch-devices/#post-174426 */
+}
+
+#wrapper {
 	margin-top:100px;
 }
 
@@ -163,6 +161,7 @@ header nav a {
 			font-size: 35px;
 			height: 35px;
 			line-height: 35px;
+			padding:0;
 		}
 		header nav a {
 			height: 15px;
@@ -192,6 +191,8 @@ header nav a {
 		
 		text-decoration: none;
 		color: #222; 
+		
+		cursor: pointer;
 		
 	}
 
@@ -226,6 +227,12 @@ header nav a {
 	
 	/* on nav hover */
 	.nav ul:hover li {
+		display: block;
+	}
+	.nav ul:focus li {
+		display: block;
+	}
+	.nav ul:active li {
 		display: block;
 	}
 	

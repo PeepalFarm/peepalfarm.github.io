@@ -2,6 +2,7 @@
 -------------------------------------------------------------- */
 
 body {
+
 	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }	
 
@@ -81,21 +82,18 @@ header h1 {
 
 
 header nav {
-		display: block;
-		float: none;
-		height: 20px;
 		text-align: center;
 		margin: 0 auto; 
-
+		padding-top:10px;
 	}
 	header nav ul {
-		margin: 0;
-		padding: 0;
+			margin: 0;
+			padding: 0;
 		}
 		header nav ul li {
-			list-style: none;
-			display: inline-block;
-			*display:inline; /* ie7 */
+				list-style: none;
+				display: inline-block;
+				*display:inline; /* ie7 */
 			}
 
 header nav a {
@@ -121,17 +119,12 @@ header nav a {
 			}
 
   header.smaller {
-    height: 70px; 
+		height: 70px; 
 	}
     header.smaller #logo {
-      display:none; 
-    }
-	header.smaller nav {
-		height: 70px; 
+			display:none; 
 		}
-		header.smaller nav a {
-			line-height: 70px; 
-			}
+		
 
 #menu {
 	display: none;

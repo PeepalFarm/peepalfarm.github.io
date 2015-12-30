@@ -197,10 +197,11 @@ body {
 		color: #666;
 	}
 	
-	/* on nav hover 
+	/* on nav hover */
 	.nav ul:hover li {
 		display: block;
 	}
+	/*
 	.nav ul:focus li {
 		display: block;
 	}

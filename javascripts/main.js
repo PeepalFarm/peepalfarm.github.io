@@ -59,6 +59,10 @@
 			//window.scrollTo(0, 0); // not needed as we are not using hash tags
 			//$('nav ul').blur(); // tried for mobile, not working
 			
+			
+			$("#edit").html('<a href="//github.com/'+user_name+'/'+repo_name+'/blob/master'+fn+'">Edit markdown for this page</a>"');
+			$("#edit").show();
+			
 			if (md.meta) {
 				if (md.meta["Title"]!==undefined) {
 					document.title=site_title+" - "+md.meta["Title"]
@@ -94,7 +98,7 @@
 		
 		jqxhr.fail(function(e) {
 			if (e.status=="404") {
-				document.getElementById('content').innerHTML = "<p><center>404. This page does not exist.</p><p><a href=\"javascript:window.location.href='//github.com/"+user_name+"/"+repo_name+"/new/master?filename='+fn;\">Create this page</a></center></p>";
+				document.getElementById('content').innerHTML = '<p><center>404. This page does not exist.</p><p><a href="//github.com/'+user_name+'/'+repo_name+'/new/master?filename='+fn+'">Create this page</a></center></p>';
 				$("#edit").hide();
 			}	
 		});

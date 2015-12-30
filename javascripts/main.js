@@ -127,7 +127,8 @@
 						
 		var st = $(this).scrollTop();
 
-		if (st == 0) {
+		// instead of == 0
+		if (st < 30) {
 		// we have scrolled all the way up
 		
 			$('header').removeClass('nav-up').removeClass('smaller');  

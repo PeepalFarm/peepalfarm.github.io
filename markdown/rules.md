@@ -7,7 +7,7 @@ Rules
 
 3) No swearing or aggressive language.
 
-4) Please plan on arriving at the farm either between 9:30 am - 12:30 pm or 2:00 pm -5:30 pm on a Monday. Also please confirm your arrival time the day before.
+4) Please plan on arriving at the farm either between 10:00 am - 12:00 pm or 2:00 pm - 4:00 pm. Also please confirm your arrival time the day before.
 
 5) Volunteers are requested to work 36 hours per week. (6 hour days, 6 days per week)
 

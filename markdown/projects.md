@@ -5,8 +5,8 @@ Projects
 
 Present
 -----------
-### [Badmash Peepal Farm](?about "About" )
-Our farm and community space near Dharamsala, at the foothills of the Himalayas, where culture jammers, hactivists and change-makers can either help us run our welfare programs for stray animals or propose and implement a project to help animals in another way.
+### [Badmash Peepal Farm](?farm "Badmash Peepal Farm" )
+Our farm, stray animal recovery center and community space near Dharamsala, at the foothills of the Himalayas.
 
 ### [ABC Co-operative](?ABC-Cooperative "ABC Co-operative" )
 The ABC Co-operative connects stray dog feeders, ambulances, vets, post-op care centers, and donors to sterilize stray dogs, area-by-area.

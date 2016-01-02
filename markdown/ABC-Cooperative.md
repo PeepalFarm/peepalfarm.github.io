@@ -26,4 +26,4 @@ We provide coordination as well as a tangible infrastructure of an ambulance, dr
 
 
 
-[**Contact us**]( ?contact "contact ) to join the ABC Co-op.
+[**Contact us**]( ?contact "contact" ) to join the ABC Co-op.

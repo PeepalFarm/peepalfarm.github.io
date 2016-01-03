@@ -4,7 +4,7 @@ Scripts:
 - //s.imgur.com/min/embed.js
 -->
 
-![photo756377654343608414.jpg] /markdown/photo756377654343608414.jpg)
+![photo756377654343608414.jpg](/markdown/photo756377654343608414.jpg)
 
 > Cows are abandoned. 
 > Cows get in fields. 

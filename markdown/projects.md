@@ -8,7 +8,7 @@ Present
 ### [Badmash Peepal Farm](?farm "Badmash Peepal Farm" )
 Our farm, stray animal recovery center and community space near Dharamsala, at the foothills of the Himalayas.
 
-### [ABC Co-operative](?ABC-Cooperative "ABC Co-operative" )
+### [ABC Co-operative](?abc-cooperative "ABC Co-operative" )
 The ABC Co-operative connects stray dog feeders, ambulances, vets, post-op care centers, and donors to sterilize stray dogs, area-by-area.
 
 -------------------------

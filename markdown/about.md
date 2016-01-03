@@ -2,27 +2,14 @@
 Title: About us
 -->
 
+Like the miscreant Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work. We are humans helping animals. We are Badmash Peepal.
+
 About us
 ==========
-We are humans helping animals.
 
-Badmash Peepal Farm is an **organic farm** and **stray animal recovery
-center** for large and small animals near Dharamsala, Himachal Pradesh. We promote sustainable living and offer a program where people from around the world can work in exchange for vegan meals and accommodation.
+We run a [stray dog sterilization program](?abc-coperative) in New Delhi and a stray animal recovery center for large and small animals in our natural, organic farm - "[Badmash Peepal Farm](?farm)" - near Dharamsala. The farm also doubles as a collaborative community space to work towards altering people's perception and behavior towards stray animals. 
 
-Our main priority is the health of the animals we treat and rehabilitate. **We are committed to alleviating the suffering of any animal that requires aid.** Many of the animals were brought in having sustained serious injuries, mostly due to accidents and abuse.
+We promote a simple, compassionate and sustainable living and have opened our home to people from all around the world who want to live purposefully and do good work without having to think about food and accommodation. We started building the farm mid-December, 2014. We officially 
 
-In the future we aim to be totally self sustainable. The farm is a work in progress and so far we have been able to harvest some herbs and vegetables from our expanding garden.
-
-[**See pictures of life on the farm**](https://www.facebook.com/groups/badmashpeepal/photos/?filter=albums "Facebook group")
-
-The help we need ranges from daily tasks - like dog walks, housekeeping, farm work, assistance with animal treatments, and spending time with the animals - to skilled work - like art, media and outreach, hacktivism, permaculture, carpentry, or sustainable building. 
-
-[**Read a review of the work, by one of our volunteers**](https://180daysofindia.wordpress.com/2015/09/22/badmash-peepal-farm/ "Lawrence blog")
-
-
-Ready to join us?
-===========
-
-[**How to get here**](?directions "Directions")
-
-[**Guidlines and Suggestions**](?rules "Rules")
+**Philosophy**
+We believe that every action has a suffering footprint, especially any consumption. So we believe in mindful consumption and living purposefully. We have set our purpose to do good, and we believe in "alleviating physical pain" as an objective good which does not have any perceivable side effects.

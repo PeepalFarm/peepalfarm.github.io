@@ -17,6 +17,10 @@ body {
    padding: 10px;
 }
 
+#main_content img {
+	width: 100%;
+}
+
 
 #social-icons {
 	padding-top:5px;
@@ -136,7 +140,7 @@ header.nav-up {
   
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
 
 body {
 	cursor: pointer; /* apple css fix  https://css-tricks.com/forums/topic/click-function-for-hover-states-on-touch-devices/#post-174426 */
@@ -188,8 +192,7 @@ body {
 	.nav li {
 		display: none; /* hide all <li> items */
 		margin: 0 auto;
-		padding: 8px;
-		
+		padding: 8px;		
 	}
 	.nav .current {
 		display: block; /* show only current <li> item */

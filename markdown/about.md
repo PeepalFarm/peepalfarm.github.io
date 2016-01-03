@@ -2,7 +2,7 @@
 Title: About us
 -->
 
-_>Like the miscreant Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work. We are humans helping animals. We are Badmash Peepal.
+>_Like the miscreant Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work. We are humans helping animals. We are Badmash Peepal.
 
 About us
 ==========

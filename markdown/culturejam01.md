@@ -6,9 +6,9 @@ Scripts:
 
 ![photo756377654343608414.jpg](/markdown/photo756377654343608414.jpg)
 
-> <i>Cows are abandoned.</i>
-> <i>Cows get in fields.</i>
-> <i>Cows get beaten.</i>
+> <i>Cows are abandoned.</i><br/>
+> <i>Cows get in fields.</i><br/>
+> <i>Cows get beaten.</i><br/>
 > <i>Cows get healed. **By us.**</i>
 
 This is what we deal with. And frankly, we are a little tired of it. So, we decided that we need to change how farmers act towards stray cows.

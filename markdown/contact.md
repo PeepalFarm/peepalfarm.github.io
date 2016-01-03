@@ -32,7 +32,7 @@ Contact
 
 **Facebook**
 
-> <div id="fb-root"></div>
+> <div id="fb-root">http://fb.com/worldlywags</div>
 
 **Medium**
 

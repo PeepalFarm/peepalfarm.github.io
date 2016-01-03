@@ -21,5 +21,5 @@ Contact
 > Village Dhanotu, Teshil Shahpur  
 > District Kangra, Himachal Pradesh 176208
 
-**Elsewhere**
-<a class="m-profile" href="https://medium.com/@badmashpeepal">Badmash Peepal</a>
+**Medium**
+> <a class="m-profile" href="https://medium.com/@badmashpeepal">Badmash Peepal</a>

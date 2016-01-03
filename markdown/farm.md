@@ -2,6 +2,8 @@
 Title: Badmash Peepal Farm
 -->
 
+![badmash peepal farm]({{site.baseurl}}/images/header-bp.jpg)
+
 Badmash Peepal Farm
 ==========
 Badmash Peepal Farm is an **organic farm** and **stray animal recovery

@@ -9,7 +9,7 @@ Present
 Our farm, stray animal recovery center and community space near Dharamsala, at the foothills of the Himalayas.
 
 ### [ABC Co-operative](?abc-cooperative "ABC Co-operative" )
-The ABC Co-operative connects stray dog feeders, ambulances, vets, post-op care centers, and donors to sterilize stray dogs, area-by-area.
+Our stray dog sterilization program in Delhi which works to create puppy free pockets in Delhi with the help of community, so the areas we sterilize stay sterilized.
 
 -------------------------
 

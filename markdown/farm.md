@@ -2,6 +2,7 @@
 Title: Badmash Peepal Farm
 -->
 
+![header-bp.jpg]({{site.baseurl}}/markdown/header-bp.jpg)
 ![badmash peepal farm]({{site.baseurl}}/images/header-bp.jpg)
 
 Badmash Peepal Farm

@@ -1,16 +1,27 @@
 Wishlist
 ==========
+
+Farm
+----
+* Chaff cutter
+
+Clinic and OT
+----
 * Refrigerator
 * Autoclave
 * Surgical lights
 * Surgical/Exam tables
-* Laptops
-* Cell Phones
-* Cameras
 * Large standard shipping crates (airline approved)
 * Collapsible crates
 * Metal Buckets
 * Heating lamp with bulbs
 * Kong Toys and other Tough toys
+
+Community Space
+----
+* Telescope
+* Laptop/Smart phone/Tablet
+* Printer
+* Books
 
 Want to donate something smaller? Check [supplies we need]( #supplies "supplies" )

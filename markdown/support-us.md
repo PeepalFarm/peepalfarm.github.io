@@ -1,6 +1,18 @@
-Support us 
+Work with us:
+==========
+1) [**Work from anywhere**]( ?contact "contact" ) to help us fundraise, promote, and culture jam!
+
+2) [**Work on the farm**]( ?farm) to help animals in various ways!
+
+Donate to us:
 =========
-</br>
+Supplies Donations
+----------
+[**Supplies we always need.**]( ?supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.
+
+[**Our Wishlist.**]( ?wishlist "wishlist" ) Equipment and supplies which will last.
+
+
 Monetary Donations
 ----------
 * Rs 1000 or $15 can buy 4 rabies vaccinations for stray dogs
@@ -10,28 +22,13 @@ Monetary Donations
 
 **1) By bank transfer:**
 
-  > Bank Name: Axis Bank Ltd.
-  > Account Name: Bharti Foundation
-  > Account Number: 913020030856591
-  > IFS Code: UTIB0000066
+> Bank Name: Axis Bank Ltd.<br/>
+> Account Name: Bharti Foundation<br/>
+> Account Number: 913020030856591<br/>
+> IFS Code: UTIB0000066<br/>
 
 **2) By [Paypal](http://badmashpeepal.org/?support-us)**
 
 **3) By check** made out to Bharti Foundation
 
 **4) By cash in person** WhatsApp +91 9999 429 144 to find out how.
-</br></br></br>
-
-Supplies Donations
-----------
-[**Supplies we always need.**]( ?supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.
-
-[**Our Wishlist.**]( ?wishlist "wishlist" ) Equipment and supplies which will last.
-</br></br></br></br>
-
-
-Work with us:
-==========
-1) [**Work from anywhere**]( ?contact "contact" ) to help us fundraise, promote, and culture jam!
-
-2) [**Work on the farm**]( ?farm) to help animals in various ways!

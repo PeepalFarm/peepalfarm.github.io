@@ -1,6 +1,8 @@
 Supplies
 ==========
 
+Medical
+----
 * Betadine solution
 * Cotton
 * Vet Wrap
@@ -16,8 +18,27 @@ Supplies
 * Sterile Water for Injections
 * Heartgaurd Dewormers
 * Pyrantel Pamoate Dewormers (puppy and adult)
+* Carpofen
+* Ivermectin
+
+Utility
+-----
 * Stretchy children’s sweaters
 * Towels
 * Duct tape
+
+Food
+-----
+* Rice bran
+* Bananas
+* Jaggery
+* Barley
+* Black chickpeas
+* Chana daal
+* Arhar daal
+* Moong daal
+* Green grass
+* Straw
+
 
 Want to donate something bigger? Check out our [wishlist]( #wishlist "wishlist" )

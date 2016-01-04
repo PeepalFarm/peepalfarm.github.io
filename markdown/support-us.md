@@ -10,15 +10,13 @@ Monetary Donations
 
 **1) By bank transfer:**
 
-Bank Details
-Bank Name: Axis Bank Ltd.
-Account Name: Bharti Foundation
-Account Number: 913020030856591
-IFS Code: UTIB0000066
+> Bank Details
+> Bank Name: Axis Bank Ltd.
+> Account Name: Bharti Foundation
+> Account Number: 913020030856591
+> IFS Code: UTIB0000066
 
-**2) By Paypal**
-
-Button
+**2) By [Paypal](http://badmashpeepal.org/?support-us)**
 
 **3) By check** made out to Bharti Foundation
 
@@ -27,14 +25,14 @@ Button
 
 Supplies Donations
 ----------
-[**Supplies we always need.**]( #supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.
+[**Supplies we always need.**]( ?supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.
 
-[**Our Wishlist.**]( #wishlist "wishlist" ) Equipment and supplies which will last.
+[**Our Wishlist.**]( ?wishlist "wishlist" ) Equipment and supplies which will last.
 </br></br></br></br>
 
 
 Work with us:
 ==========
-1) [**Work online**]( #contact "contact" ) to help us fundraise, promote, and create media (contact)
+1) [**Work from anywhere**]( ?contact "contact" ) to help us fundraise, promote, and culture jam!
 
-2) [**Work exchange**](#who-we-need "who we need") program in Himachal
+2) [**Work on the farm**]( ?farm) to help animals in various ways!

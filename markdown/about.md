@@ -9,7 +9,7 @@ Title: About us
 About us
 ==========
 
-We run a [stray dog sterilization program](?abc-coperative) in New Delhi and a stray animal recovery center for large and small animals in our natural, organic farm - "[Badmash Peepal Farm](?farm)" - near Dharamsala. The farm also doubles as a collaborative community space to work towards altering people's perception and behavior towards stray animals. 
+We run a [stray dog sterilization program](?abc-cooperative) in New Delhi and a stray animal recovery center for large and small animals in our natural, organic farm - "[Badmash Peepal Farm](?farm)" - near Dharamsala. The farm also doubles as a collaborative community space to work towards altering people's perception and behavior towards stray animals. 
 
 We promote a simple, compassionate and sustainable living and have opened our home to people from all around the world who want to live purposefully and do good work without having to think about food and accommodation. We started building the farm mid-December, 2014. We officially 
 

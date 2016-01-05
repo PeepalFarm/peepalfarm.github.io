@@ -11,6 +11,7 @@ About us
 
 ![badmash peepal header image](/markdown/E-COVER-WEBSITE.jpg)
 
+
 We run a [stray dog sterilization program](?p=abc-cooperative) in New Delhi and a stray animal recovery center for large and small animals in our natural, organic farm - "[Badmash Peepal Farm](?p=farm)" - near Dharamsala. The farm also doubles as a collaborative community space to work towards altering people's perception and behavior towards stray animals. 
 
 We promote a simple, compassionate and sustainable living and have opened our home to people from all around the world who want to live purposefully and do good work without having to think about food and accommodation. We started building the farm mid-December, 2014. 

@@ -26,7 +26,7 @@ Contact
 
 **Snail Mail**
 
-> [Badmash Peepal Farm]( ?directions )  
+> [Badmash Peepal Farm]( ?p=directions )  
 > Village Dhanotu, Teshil Shahpur  
 > District Kangra, Himachal Pradesh 176208
 

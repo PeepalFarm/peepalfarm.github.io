@@ -27,7 +27,7 @@ Monetary Donations
 > Account Number: 913020030856591<br/>
 > IFS Code: UTIB0000066<br/>
 
-**2) By [Paypal](http://badmashpeepal.org/?p=support-us)**
+**2) By [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5KY9ZVVLPVTDQ "paypal")**
 
 **3) By check** made out to Bharti Foundation
 

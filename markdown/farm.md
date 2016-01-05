@@ -22,6 +22,6 @@ The help we need ranges from daily tasks - like dog walks, housekeeping, farm wo
 Ready to join us?
 ===========
 
-[**How to get here**](?directions "Directions")
+[**How to get here**](?p=directions "Directions")
 
-[**Guidlines and Suggestions**](?rules "Rules")
+[**Guidlines and Suggestions**](?p=rules "Rules")

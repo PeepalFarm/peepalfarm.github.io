@@ -48,7 +48,7 @@
 		} else {
 				// parse the value of p
 				if (getURLParameter("p",req)) {
-					fn=md_path+getURLParameter("p",req)+".md";	
+					fn=md_path+getURLParameter("p",req)+".md";
 				} else {
 					fn=md_path+index_md; // some garbage querystring came with index page load request, does not have p. load home page
 				}		
@@ -62,8 +62,8 @@
 			var content_holder=document.getElementById('content');
 			content_holder.innerHTML = md.html;
 		
-			//window.scrollTo(0, 0); // not needed as we are not using hash tags
-			//$('nav ul').blur(); // tried for mobile, not working
+			window.scrollTo(0, 0); 
+			$('#nav').blur(); // tried for mobile, not working
 			
 			
 			$("#edit").html('<a href="//prose.io/#'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit on Prose.IO</a> | <a href="//github.com/'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit on Github</a>"');
@@ -119,7 +119,6 @@
 		if (req==="/" || (req.indexOf("/",1)<0 && getURLParameter("p",req)!=null )  ) { 
 		// so it is within app link
 			window.event.preventDefault ? window.event.preventDefault() : window.event.returnValue = false;
-			window.scrollTo(0, 0);
 			loadContent(req,true);
 			ga('send', 'pageview', req);
 		} else {

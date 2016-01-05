@@ -41,4 +41,4 @@ Food
 * Straw
 
 
-Want to donate something bigger? Check out our [wishlist]( #wishlist "wishlist" )
+Want to donate something bigger? Check out our [wishlist]( ?p=wishlist "wishlist" )

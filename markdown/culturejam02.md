@@ -12,4 +12,4 @@ In India, while dogs are dying on street, majority of people insist on buying a 
 
 We are also making a short film about this. We won't crowdfund for its promotion, but crowdsource it! If you have helped a desi dog, [let us know](?p=contact "contact us"). If you know someone who has helped a desi dog, share this with them. This is your chance to get engaged! It's time to take ‪#‎desilogdesidog‬ to the next level.
 
-<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/oloqp"></blockquote></center>
+<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/oIcqp"></blockquote></center>

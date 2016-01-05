@@ -24,4 +24,4 @@ Community Space
 * Printer
 * Books
 
-Want to donate something smaller? Check [supplies we need]( #supplies "supplies" )
+Want to donate something smaller? Check [supplies we need]( ?p=supplies "supplies" )

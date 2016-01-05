@@ -37,7 +37,7 @@
 
 
 
-	function loadMarkdown(req,pushstate) {
+	function loadContent(req,pushstate) {
 
 		if (pushstate) {
 			window.history.pushState({ url: req }, "", req); 
@@ -46,7 +46,13 @@
 		if (req=="/") {
 				fn=md_path+index_md; //file name
 		} else {
-				fn=md_path+req.substr(1)+".md";
+				// parse the value of p
+				if (getURLParameter("p",req)) {
+					fn=md_path+getURLParameter("p",req)+".md";	
+				} else {
+					fn=md_path+index_md; // some garbage querystring came with index page load request, does not have p. load home page
+				}		
+				
 		}
 			
 		var jqxhr = $.get(fn, function( data ) {
@@ -108,20 +114,21 @@
 			
 	function processClicks(obj) {
 		
-		var req=$(obj).attr("href");
-		
-		if (req.substring(0,1)==="?" || req==="/") {
+		var req=$(obj).attr("href");		
+					
+		if (req==="/" || (req.indexOf("/",1)<0 && getURLParameter("p",req)!=null )  ) { 
+		// so it is within app link
 			window.event.preventDefault ? window.event.preventDefault() : window.event.returnValue = false;
-				
-			
-			loadMarkdown(req,true);
-		}
+			window.scrollTo(0, 0);
+			loadContent(req,true);
+			ga('send', 'pageview', req);
+		} else {
+			// alert("slipped!");
+		}	
 						
-		
-		
 	}	
-
-
+	
+	
 
 	function hasScrolled() {
 		var navbar_height = $('header').outerHeight();
@@ -157,4 +164,9 @@
 			$('header').removeClass('nav-up');
 		}
 		lastScrollTop = st;
+	}
+
+	//http://stackoverflow.com/questions/11582512/how-to-get-url-parameters-with-javascript/11582513#11582513	
+	function getURLParameter(name,searchstring) {
+		return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(searchstring)||[,""])[1].replace(/\+/g, '%20'))||null
 	}

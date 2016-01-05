@@ -104,6 +104,7 @@
 		var index_md="about.md";
 		var user_name='BadmashPeepal';
 		var repo_name='badmashpeepal.github.io';
+		var analytics_id='UA-70789123-1';
 		var md='';
 		
 		var didScroll;
@@ -113,26 +114,17 @@
 		// Hide Header on on scroll down
 		$(document).ready(function() {
 				
-			// window.location.hash
-			if (window.location.search) {
-				// Fragment exists
-				req=window.location.search;
-			} else {
-				req="/";
-			}	
-			loadMarkdown(req,true);
+			loadContent ("/"+window.location.search ,true);
 			
 			$(window).on("popstate", function (e) {
 			  if (e.originalEvent.state) {
-				
-				loadMarkdown(e.originalEvent.state.url,false);
+				loadContent(e.originalEvent.state.url,false);
 			  }
 			});
 
 			$(window).scroll(function(event){
 				didScroll = true;
 			});
-
 
 			$(document).on('click', "a" , function() {			
 				processClicks(this);				
@@ -187,10 +179,10 @@
 					-->
 					<li class="current" id="menu"><i class="fa fa-bars"></i></li>
 					<li><a href="/">ABOUT</a></li>
-					<li><a href="?projects">OUR WORK</a></li>
-					<li><a href="?support-us">DONATE</a></li>
+					<li><a href="?p=projects">OUR WORK</a></li>
+					<li><a href="?p=support-us">DONATE</a></li>
 					<!-- <li><a href="?support-us">VOLUNTEER</a></li> -->
-					<li><a href="?contact">CONTACT</a></li>
+					<li><a href="?p=contact">CONTACT</a></li>
 					<!-- <li><a href="?adoptions">ADOPTIONS</a></li> -->
 					<!-- <li><a href="/#blog">BLOG</a></li>
 					<li><a href="/#downloads">DOWNLOADS</a></li>
@@ -234,6 +226,15 @@
 		</div>
 	</footer><!-- /footer -->
 	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+	  ga('create', analytics_id, 'auto');
+	  ga('send', 'pageview');
+
+	</script>
 </body>
 </html>

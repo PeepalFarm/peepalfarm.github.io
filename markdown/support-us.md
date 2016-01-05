@@ -1,16 +1,16 @@
-Work with us:
-==========
-1) [**Work from anywhere**]( ?contact "contact" ) to help us fundraise, promote, and culture jam!
-
-2) [**Work on the farm**]( ?farm) to help animals in various ways!
-
-Donate to us:
+Donate
 =========
+Time 
+------
+**1) [**Work from anywhere**]( ?p=contact "contact" ) to help us fundraise, promote, and culture jam!
+
+**2) [**Work on the farm**]( ?p=farm) to help animals in various ways!
+
 Supplies Donations
 ----------
-[**Supplies we always need.**]( ?supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.
+[**Supplies we always need.**]( ?p=supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.
 
-[**Our Wishlist.**]( ?wishlist "wishlist" ) Equipment and supplies which will last.
+[**Our Wishlist.**]( ?p=wishlist "wishlist" ) Equipment and supplies which will last.
 
 
 Monetary Donations

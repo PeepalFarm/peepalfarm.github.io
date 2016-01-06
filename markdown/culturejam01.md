@@ -22,7 +22,8 @@ It does not have to stay in our little village. This should spread all over Indi
 
 Media Links 
 ---
-*[Facebook](https://www.facebook.com/worldlywags/posts/1025847224120182)
-*[This Team Just Came up with an Ingenious Way of Preventing Cow Abuse](http://www.thebetterindia.com/41739/badmash-peepal-stray-cows-gunny-sacks-krishna/)
+> * [Facebook](https://www.facebook.com/worldlywags/posts/1025847224120182)
+
+> * [This Team Just Came up with an Ingenious Way of Preventing Cow Abuse](http://www.thebetterindia.com/41739/badmash-peepal-stray-cows-gunny-sacks-krishna/)
 
 <center><blockquote class="imgur-embed-pub" lang="en" data-id="a/RYsIN"></blockquote></center>

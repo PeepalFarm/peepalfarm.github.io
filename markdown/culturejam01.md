@@ -20,10 +20,9 @@ Today it begins. We have put sweaters made out of gunny sacks on them. The marki
 
 It does not have to stay in our little village. This should spread all over India and only you can help spread it. This should become trendy, and you can be the trend setter. Either pick up a paintbrush and some sacks, or **SHARE** this ‪culture jam‬ with other hactivists.
 
+<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/RYsIN"></blockquote></center>
+
 Media Links 
 ---
-> * [Facebook](https://www.facebook.com/worldlywags/posts/1025847224120182)
-
-> * [This Team Just Came up with an Ingenious Way of Preventing Cow Abuse](http://www.thebetterindia.com/41739/badmash-peepal-stray-cows-gunny-sacks-krishna/)
-
-<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/RYsIN"></blockquote></center>
+> * [Facebook](https://www.facebook.com/worldlywags/posts/1025847224120182) <br/>
+> * [This team just came up with an ingenious way of preventing cow abuse](http://www.thebetterindia.com/41739/badmash-peepal-stray-cows-gunny-sacks-krishna/)

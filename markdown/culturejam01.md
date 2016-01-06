@@ -5,6 +5,8 @@ Scripts:
 -->
 ![photo756377654343608414.jpg](/markdown/photo756377654343608414.jpg)
 
+_Jan 03, 2016
+
 Saving cows with the help of Lord Krishna, Gunny Sacks and Potassium permanganate! Culture Jam #01
 ======
 

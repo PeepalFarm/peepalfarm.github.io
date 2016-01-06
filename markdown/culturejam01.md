@@ -1,5 +1,5 @@
 <!--
-Title: Culture jamming for Cows 01
+Title: Saving cows with the help of Lord Krishna, Gunny Sacks and Potassium permanganate!
 Scripts: 
 - //s.imgur.com/min/embed.js
 -->

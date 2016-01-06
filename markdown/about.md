@@ -2,6 +2,11 @@
 Title: About us
 -->
 
+We are sorry to interrupt your progam!
+=====
+<i>January 5, 2016</i> - **Before proceeding, support our culture jams for [cows](https://www.facebook.com/worldlywags/posts/1025847224120182) and [dogs](https://www.facebook.com/worldlywags/posts/1026809744023930)**!
+
+
 ><i>Like the miscreant Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work. We are humans helping animals.</i>
 
 >****<i>We are Badmash Peepal.</i>****

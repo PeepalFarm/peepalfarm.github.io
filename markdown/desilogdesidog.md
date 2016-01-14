@@ -6,7 +6,7 @@ Scripts:
 
 -->
 
-> Before getting into what, why and how of this, we'll like to emphasize that this effort is not owned by any individual or an organization. All the artwork and slogans are [copyleft] (https://en.wikipedia.org/wiki/Copyleft).
+> _Before getting into what, why and how of this, we'll like to emphasize that this effort is not owned by any individual or an organization. All the artwork and slogans are [copyleft](https://en.wikipedia.org/wiki/Copyleft)_.
 
 ![qobm0bb.jpg](/images/qobm0bb.jpg)
 

@@ -26,12 +26,16 @@ CALL TO ACTION
 -------
 
 * You decide your involvement. Whether you want to create art, manage events, do one to one communication, get products created, write articles, create online videos, cartoons, comics...etc. etc.
-* [Let us know] (/?p=contact) what you'd like to undertake, what you end up doing, any questions, suggestions and comments! 
-* [DOWNLOAD] (//dl.badmashpeepal.org/) the "Desi Log Desi Dog" images to create your own stickers, T-shirts, fliers, stencils, or anything else you can think of. You can use the phrase with a different image. You can use the image by itself. Get creative! Graffiti, merchandise, giveaways, letter writing ... anything to get the message out there.
-* If you run with this solo, [let us know] (/?p=contact) what you end up doing! 
+
+* [Let us know](/?p=contact) what you'd like to undertake, what you end up doing, any questions, suggestions and comments! 
+
+* [DOWNLOAD](//dl.badmashpeepal.org/) the "Desi Log Desi Dog" images to create your own stickers, T-shirts, fliers, stencils, or anything else you can think of. You can use the phrase with a different image. You can use the image by itself. Get creative! Graffiti, merchandise, giveaways, letter writing... Anything to get the message out there.
+
+* If you run with this solo, [let us know](/?p=contact) what you end up doing! 
 
 EFFORTS SO FAR
-----
+-------
+
 > Offline
 >> * [Grafitti] ( /?p=culturejam02 ) 
 >> * Merchandise (Stickers, T-shirts etc.) 

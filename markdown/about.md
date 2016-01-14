@@ -16,7 +16,8 @@ We run a **[stray dog sterilization program](?p=abc-cooperative)** in New Delhi 
 
 We promote a simple, compassionate and sustainable living and have opened our home to people from all around the world who want to live purposefully and do good work without having to worry about food and accommodation. 
 
-**Philosophy**
+***Philosophy***
+
 We believe that every action has a suffering footprint, especially any consumption. So we believe in mindful consumption and living purposefully. We have set our purpose to do good, and we believe in "alleviating physical pain" as an objective good which does not have any perceivable side effects.
 
 <!--

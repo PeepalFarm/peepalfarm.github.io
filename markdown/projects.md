@@ -6,10 +6,23 @@ Projects
 Present
 -----------
 ### [Badmash Peepal Farm](?p=farm "Badmash Peepal Farm" )
-Our farm, stray animal recovery center and community space near Dharamsala, at the foothills of the Himalayas.
+Farm, stray animal recovery center, community space and hactivism central in Himalayan foothills, near Dharamsala.
 
 ### [ABC Co-operative](?p=abc-cooperative "ABC Co-operative" )
-Our stray dog sterilization program in Delhi which works to create puppy free pockets in Delhi with the help of community, so the areas we sterilize stay sterilized.
+Stray dog sterilization program in Delhi which works to create puppy free pockets in Delhi with the help of community, so the areas we sterilize stay sterilized.
+
+### [Desi Log Desi Dog]( /?p=desilogdesidog )
+Promoting adoption of Indian dogs by permeating the popular culture.
+
+<!--
+### [Holy Cow]( ?p=holycow)
+
+### Treat on Street
+Helping stray animals on the streer
+
+### Activists for Animals
+Network
+-->
 
 -------------------------
 

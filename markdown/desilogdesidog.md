@@ -36,14 +36,15 @@ CALL TO ACTION
 EFFORTS SO FAR
 -------
 
-> Offline
->> * [Grafitti] ( /?p=culturejam02 ) 
->> * Merchandise (Stickers, T-shirts etc.) 
+* Offline
+> * [Grafitti]( /?p=culturejam02 )
+> * Merchandise (Stickers, T-shirts etc.) 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/u74z0"></blockquote>
 
-> Online
->> * [Tweeting on popular hashtags] ( /?p=culturejam03 )
->> * Changing Facebook Profile image and Cover photo to Desi Log Desi Dog artwork.
+* Online
+> * [Tweeting on popular hashtags]( /?p=culturejam03 )
+> * Changing Facebook Profile image and Cover photo to Desi Log Desi Dog artwork.
+
 
 <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0; width: 88px;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></center>
 

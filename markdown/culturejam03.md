@@ -1,7 +1,7 @@
 <!--
 Title: Believe in #MakeInIndia? Adopt dogs Made in India! #desilogdesidog
 
-Scripts
+Scripts:
 - //platform.twitter.com/widgets.js
 
 -->

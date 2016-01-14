@@ -10,15 +10,15 @@ Scripts:
 
 ![qobm0bb.jpg](/images/qobm0bb.jpg)
 
-WHAT _is the problem_
+WHAT _is the problem?_
 -----
 > We want people to think of adopting desi dogs (Indian dogs, mostly stray, commonly refered to as 'street dogs") as an option when they want to get a dog. Apart from of trying to get people to see how adopting desi dogs is the compassionate thing to do (awareness), we are trying to make desi dogs permeate the popular culture (culture jamming).
 
-WHY _should we care_
+WHY _should we care?_
 -----
 > Buying a pedigree dog not only takes away a home for an abandoned or stray dog, it fuels the horrific puppy mill industry. To push the _right decision_ - adopting Desi Dogs - we have coined the phrase "Desi Log Desi Dog". In short, you should care about this issue if you want save dogs from suffering in streets and in breeding kennels. If you are a proponent of "Adop, don't shop", then you'll feel right at home here.
 
-HOW _can we fix it_
+HOW _can we fix it?_
 -------
 > We want "Desi Log Desi Dog" to be as popular as "Thanda yaani Coca Cola", but without the billion dollar budget. We want it to be on people's minds when they get a dog. We want anyone who considers themselves Desi to choose a Desi dog. Since most of us have such short attention spans, it's only when someone encounters this image multiple times, it will make them feel it's everywhere! We are broke. We can't advertise on metro stations, magazines, TV and radio. So we will start with walls - _offline_ and _online_.
 

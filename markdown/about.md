@@ -9,12 +9,16 @@ Title: About us
 About us
 ==========
 
-![badmash peepal header image](/markdown/E-COVER-WEBSITE.jpg)
+![](/markdown/E-COVER-WEBSITE.jpg)
 
 
-We run a [stray dog sterilization program](?p=abc-cooperative) in New Delhi and a stray animal recovery center for large and small animals in our natural, organic farm - "[Badmash Peepal Farm](?p=farm)" - near Dharamsala. The farm also doubles as a collaborative community space to work towards altering people's perception and behavior towards stray animals. 
+We run a **[stray dog sterilization program](?p=abc-cooperative)** in New Delhi and a **stray animal recovery center** for large and small animals in our natural, **organic farm** - "[Badmash Peepal Farm](?p=farm)" - near Dharamsala. The farm also doubles as a collaborative community space to work towards altering people's perception and behavior towards stray animals. Basically, we are a group of loosely knit creatively maladjusted people doing short term animal welfare via direct impact, and long term animal rights work via hactivism.
 
-We promote a simple, compassionate and sustainable living and have opened our home to people from all around the world who want to live purposefully and do good work without having to think about food and accommodation. We started building the farm mid-December, 2014. 
+We promote a simple, compassionate and sustainable living and have opened our home to people from all around the world who want to live purposefully and do good work without having to worry about food and accommodation. 
 
 **Philosophy**
 We believe that every action has a suffering footprint, especially any consumption. So we believe in mindful consumption and living purposefully. We have set our purpose to do good, and we believe in "alleviating physical pain" as an objective good which does not have any perceivable side effects.
+
+<!--
+History
+-->

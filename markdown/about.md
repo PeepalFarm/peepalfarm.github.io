@@ -19,7 +19,7 @@ We run a **[stray dog sterilization program](/?p=abc-cooperative)** in New Delhi
 
 [View our past and current initiatives](/?p=projects).
 
-***Philosophy***
+## Philosophy
 
 We believe that every action has a suffering footprint, especially any consumption. So we believe in mindful consumption and living purposefully. We have set our purpose to do good, and we believe in "alleviating physical pain" as an objective net good.
 

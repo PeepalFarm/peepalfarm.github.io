@@ -14,8 +14,8 @@ Stray dog sterilization program in New Delhi, India which works to create puppy 
 ### [Desi Log Desi Dog]( /?p=desilogdesidog )
 Promoting adoption of Indian stray dogs by permeating the popular culture.
 
-### [Meri Gai]( ?p=merigai)
-Efforts to improve the quality of life for cows and bulls abandoned by the dairy industry in India.
+### [These are our cows]( ?p=ourcows)
+Promoting compassion for cows and bulls abandoned by the dairy industry in India.
 
 <!--
 

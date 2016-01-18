@@ -1,9 +1,10 @@
 <!--
 Title: Badmash Peepal Farm
 -->
+![Farm Image](/images/header-bp.jpg)
+
 Badmash Peepal Farm
 ==========
-![Farm Image](/images/header-bp.jpg)
 
 Badmash Peepal Farm is an **organic farm** and **stray animal recovery
 center** for large and small animals near Dharamsala, Himachal Pradesh. We promote sustainable living and offer a program where people from around the world can work in exchange for vegan meals and accommodation.

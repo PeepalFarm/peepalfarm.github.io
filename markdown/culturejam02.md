@@ -8,6 +8,8 @@ Scripts:
 
 ![Graffiti promoting adoption of stray dogs](/markdown/23.JPG)
 
+> Jan 04, 2016
+
 Street Art for Street Dogs.
 =====
 

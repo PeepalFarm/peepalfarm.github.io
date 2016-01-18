@@ -4,7 +4,7 @@ Scripts:
 - //s.imgur.com/min/embed.js
 -->
 
-> <i>This is part our [Our Cow](/?p=ourcow) initiative.</i> An effort to improve the quality of life for abandoned cows and bulls in India.
+> <i>This is a part of "[These are Our Cows](/?p=ourcows)" initiative.</i> An effort to improve the quality of life for abandoned cows and bulls in India.
 
 ![photo756377654343608414.jpg](/markdown/photo756377654343608414.jpg)
 

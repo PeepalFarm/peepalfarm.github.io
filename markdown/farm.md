@@ -6,7 +6,7 @@ Title: Badmash Peepal Farm
 Badmash Peepal Farm
 ==========
 
-"[Badmash Peepal Farm](?/p=directions "Directions")" is a natural, organic farm which is a home to recovering injured stray animals and creatively maladjusted people who want to do animal welfare and animal rights. 
+Badmash Peepal Farm is a natural, organic farm in Himalayan foothills, near Dharamsala, India. It is home to recovering injured stray animals and creatively maladjusted people who want to do animal welfare and animal rights. 
 
 We promote a simple, compassionate and sustainable lifestyle. The farm is open to people who want to live purposefully and do good work without having to worry about food or accommodation. 
 

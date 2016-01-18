@@ -1,4 +1,8 @@
-[//]: # (comments)
+<!--
+
+Title: Our initiatives to help animals and other people who help animals.
+
+-->
 
 Projects
 =========
@@ -14,7 +18,7 @@ Stray dog sterilization program in New Delhi, India which works to create puppy 
 ### [Desi Log Desi Dog]( /?p=desilogdesidog )
 Promoting adoption of Indian stray dogs by permeating the popular culture.
 
-### [These are our cows]( ?p=ourcows)
+### [These are Our Cows]( ?p=ourcows)
 Promoting compassion for cows and bulls abandoned by the dairy industry in India.
 
 <!--

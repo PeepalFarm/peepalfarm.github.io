@@ -3,11 +3,14 @@ Title: Saving cows with the help of Lord Krishna, Gunny Sacks and Potassium perm
 Scripts: 
 - //s.imgur.com/min/embed.js
 -->
+
+> <i>This is part our [Our Cow](/?p=ourcow) initiative.</i> An effort to improve the quality of life for abandoned cows and bulls in India.
+
 ![photo756377654343608414.jpg](/markdown/photo756377654343608414.jpg)
 
 > Jan 03, 2016
 
-Saving cows with the help of Lord Krishna, Gunny Sacks and Potassium permanganate! Culture Jam #01
+Saving cows with the help of Lord Krishna, Gunny Sacks and Potassium permanganate!
 ======
 
 > <i>Cows are abandoned.</i><br/>

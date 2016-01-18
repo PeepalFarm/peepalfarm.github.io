@@ -4,7 +4,7 @@ Scripts:
 - //s.imgur.com/min/embed.js
 -->
 
-> <i>This is part our [Desi Log Desi Dog](/?p=desilogdesidog) initiative.</i>
+> <i>This is part our [Desi Log Desi Dog](/?p=desilogdesidog) initiative.</i> An effort to promote adoption of stray dogs in India.
 
 ![Graffiti promoting adoption of stray dogs](/markdown/23.JPG)
 

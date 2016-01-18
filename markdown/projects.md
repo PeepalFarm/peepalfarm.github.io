@@ -14,8 +14,8 @@ Stray dog sterilization program in Delhi which works to create puppy free pocket
 ### [Desi Log Desi Dog]( /?p=desilogdesidog )
 Promoting adoption of Indian dogs by permeating the popular culture.
 
-### [Holy Cow?]( ?p=holycow)
-Efforts to improve the quality of life cows and bulls abandoned by the dairy industry.
+### [Meri Gai]( ?p=merigai)
+Efforts to improve the quality of life for cows and bulls abandoned by the dairy industry.
 
 <!--
 

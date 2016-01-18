@@ -6,23 +6,17 @@ Title: Badmash Peepal Farm
 Badmash Peepal Farm
 ==========
 
-Badmash Peepal Farm is an **organic farm** and **stray animal recovery
-center** for large and small animals near Dharamsala, Himachal Pradesh. We promote sustainable living and offer a program where people from around the world can work in exchange for vegan meals and accommodation.
+"[Badmash Peepal Farm](?/p=directions "Directions")" is a natural, organic farm which is a home to recovering injured stray animals and creatively maladjusted people who want to do animal welfare and animal rights. 
 
-Our main priority is the health of the animals we treat and rehabilitate. **We are committed to alleviating the suffering of any animal that requires aid.** Many of the animals were brought in having sustained serious injuries, mostly due to accidents and abuse.
+We promote a simple, compassionate and sustainable lifestyle. The farm is open to people who want to live purposefully and do good work without having to worry about food or accommodation. 
 
-In the future we aim to be totally self sustainable. The farm is a work in progress and so far we have been able to harvest some herbs and vegetables from our expanding garden.
+We are fostering a collaborative community of independent people who work towards improving the current situation for animals; whether it's directly working with animals, doing culture jams or simply doing human welfare coupled with fostering compassion for animals. 
 
-[**See pictures of life on the farm**](https://www.facebook.com/groups/badmashpeepal/photos/?filter=albums "Facebook group")
+If you want to be part of our community for a month or longer, [check out the kind of work we do and the skills we are seeking](/?p=farmers).
 
-The help we need ranges from daily tasks - like dog walks, housekeeping, farm work, assistance with animal treatments, and spending time with the animals - to skilled work - like art, media and outreach, hacktivism, permaculture, carpentry, or sustainable building. 
+[Click here for directions and timings for day visits](?p=directions#day). Please [contact us](/?p=contact) us to schedule a visit.
 
-[**Read a review of the work, by one of our volunteers**](https://180daysofindia.wordpress.com/2015/09/22/badmash-peepal-farm/ "Lawrence blog")
+## Learn more
 
-
-Ready to join us?
-===========
-
-[**How to get here**](?p=directions "Directions")
-
-[**Guidlines and Suggestions**](?p=rules "Rules")
+* [Check the pictures of life on the farm](https://www.facebook.com/groups/badmashpeepal/photos/ "Facebook group photos")
+* [Read a review of the farm](https://180daysofindia.wordpress.com/2015/09/22/badmash-peepal-farm/)

@@ -10,7 +10,7 @@ Badmash Peepal Farm is a natural, organic farm in Himalayan foothills, near Dhar
 
 We promote a simple, compassionate and sustainable lifestyle. The farm is open to people who want to live purposefully and do good work without having to worry about food or accommodation. 
 
-We are fostering a collaborative community of independent people who work towards improving the current situation for animals; whether it's directly working with animals, doing culture jams or simply doing human welfare coupled with fostering compassion for animals. 
+We are fostering a collaborative community of independent people who work towards improving the current situation for animals; whether it's directly working with animals, doing hacktivism or doing human welfare coupled with fostering compassion for animals. 
 
 If you want to be part of our community for a month or longer, [check out the kind of work we do and the skills we are seeking](/?p=farmers).
 

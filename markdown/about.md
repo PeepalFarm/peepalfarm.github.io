@@ -8,7 +8,8 @@ Title: About us
 
 ![](/markdown/E-COVER-WEBSITE.jpg)
 
-### About us
+About us
+======
 
 We are a group of loosely knit, creatively maladjusted people doing short term animal welfare via **direct impact**, and long term animal rights work via **hacktivism**. 
 

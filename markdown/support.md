@@ -22,9 +22,6 @@ Monetary Donations
 > * Transporation expenses
 > * Animal welfare staff salary
 
-**We DO not use donations to fund our fundraising efforts or management expenses!**
-
-
 **1) By bank transfer:**
 
 > Bank Name: Axis Bank Ltd.<br/>
@@ -34,6 +31,6 @@ Monetary Donations
 
 **2) By [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5KY9ZVVLPVTDQ "paypal")**
 
-**3) By check** made out to Bharti Foundation
+**3) [Mail](/?p=directions) a check** made out to "Bharti Foundation"
 
-**4) By cash in person** WhatsApp +91 9999 429 144 to find out how.
+<i>**We DO not use donations to fund our fundraising efforts or management expenses!**</i>

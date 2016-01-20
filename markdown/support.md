@@ -15,10 +15,15 @@ Supplies Donations
 
 Monetary Donations
 ----------
-* Rs 1000 or $15 can buy 4 rabies vaccinations for stray dogs
-* Rs 2000 or $30 can sterilize one female stray dog (in a hygenic and humane way)
-* Rs 3000 or $45 can care for a cow, mule, donkey, or horse for 1 month.
-* Rs 3000 or $45 can care for a dog for 1 month.
+100% of your donations go towards:
+
+> * Medicines
+> * Food
+> * Transporation expenses
+> * Animal welfare staff salary
+
+**We DO not use donations to fund our fundraising efforts or management expenses!**
+
 
 **1) By bank transfer:**
 

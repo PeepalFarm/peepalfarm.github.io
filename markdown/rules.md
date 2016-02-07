@@ -11,7 +11,7 @@ Rules
 
 5) Guests work 36 hours per week (6 hour days, 6 days per week).
 
-6) Volunteers must sign out in the book before leaving the property (yes, even on your day off). That way we know where you are, when you plan to return, and can find you if you fall off a cliff somewhere. Because we care!
+6) Guests must sign out in the book before leaving the property (yes, even on your day off). That way we know where you are, when you plan to return, and can find you if you fall off a cliff somewhere. Because we care!
 
 7) The kitchen facilities are off-limits to anyone who isn’t a resident or Veeru, our chef. We have a hot water kettle and filtered water available all day in the community room and outside the kitchen.
 

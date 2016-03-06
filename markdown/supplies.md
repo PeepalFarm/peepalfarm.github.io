@@ -4,7 +4,7 @@ Supplies
 Medical
 ----
 * Betadine solution
-* * Melonex Inj.
+* Melonex Inj.
 * Cotton
 * Vet Wrap
 * Gauze (4" rolls)

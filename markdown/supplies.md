@@ -4,6 +4,7 @@ Supplies
 Medical
 ----
 * Betadine solution
+* * Melonex Inj.
 * Cotton
 * Vet Wrap
 * Gauze (4" rolls)
@@ -11,7 +12,6 @@ Medical
 * D'Mag Spray
 * Neosporin Powder
 * Negasunt Powder
-* Melonex Inj.
 * 20 ml Syringes
 * 22 G Needles
 * Intacef Inj. (3g)
@@ -23,6 +23,8 @@ Medical
 
 Utility
 -----
+* Small and Medium-sized collars (used are fine!)
+* Leashes (used are fine!)
 * Stretchy children’s sweaters
 * Towels
 * Duct tape

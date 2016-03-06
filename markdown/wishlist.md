@@ -22,6 +22,7 @@ Community Space
 * Telescope
 * Laptop/Smart phone/Tablet
 * Printer
+* Scanner
 * Books
 
 Want to donate something smaller? Check [supplies we need]( ?p=supplies "supplies" )

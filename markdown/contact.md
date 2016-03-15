@@ -16,8 +16,7 @@ Contact
 **Want to Volunteer at Badmash Peepal Farm?** 
 > Fill out: https://goo.gl/9kJYdv
 
-
-
+</br>
 Anything Else? 
 +++++++++++
 

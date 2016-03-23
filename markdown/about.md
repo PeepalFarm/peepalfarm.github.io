@@ -6,7 +6,7 @@ Title: About us
 
 >****<i>We are Badmash Peepal.</i>****
 
-![](/markdown/E-COVER-WEBSITE.jpg)
+![](/images/siteheader.jpg)
 
 About us
 ======

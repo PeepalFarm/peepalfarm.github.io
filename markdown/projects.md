@@ -8,7 +8,7 @@ Our Work
 =========
 
 ### [Stray Animal Recovery Center]
-<!--(/?p=recovery)-->
+<!-- [Stray Animal Recovery Center](/?p=recovery)-->
 
 ### [Desi Log Desi Dog]( /?p=desilogdesidog )
 Promoting adoption of Indian stray dogs by permeating the popular culture.

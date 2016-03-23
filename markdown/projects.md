@@ -7,7 +7,7 @@ Title: Our initiatives to help animals and other people who help animals.
 Our Work
 =========
 
-### [Stray Animal Recovery Center]
+### Stray Animal Recovery Center
 <!-- [Stray Animal Recovery Center](/?p=recovery)-->
 
 ### [Desi Log Desi Dog]( /?p=desilogdesidog )

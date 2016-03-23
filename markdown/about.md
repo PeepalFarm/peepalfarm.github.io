@@ -13,11 +13,7 @@ About us
 
 We are a group of loosely knit, creatively maladjusted people doing short term animal welfare via **direct impact**, and long term animal rights work via **hacktivism**. 
 
-We run a **[stray dog sterilization program](/?p=abc-cooperative)** in New Delhi and a **[stray animal recovery center](/?p=farm#animals)** for large and small animals in our farm near Dharamsala." 
-
-"**[Badmash Peepal Farm]( /?p=farm)**" is a home built to accommodate recovering injured stray animals, creatively maladjusted people who want to help do animal welfare and animal rights, and a natural, organic farm to provide a little bit for for all of us.
-
-[View our past and current initiatives](/?p=projects).
+"**[Badmash Peepal Farm]( /?p=farm)**" is a home built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to help do animal welfare and animal rights, and an organic farm to provide a little bit for for all of us.
 
 ## Philosophy
 

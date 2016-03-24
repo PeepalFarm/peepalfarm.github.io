@@ -17,14 +17,17 @@ Want to Volunteer at Badmash Peepal Farm?
 
 Anything Else? 
 ----------
+**E-mail**  (preferred)
+
+> farm@badmashpeepal.org
+
+**Landline**  
+	
+> +91 189 2277009
 
 **WhatsApp**  
 	
 > +91 9999 429 144
-
-**E-mail**  
-
-> farm@badmashpeepal.org
 
 **Snail Mail**
 
@@ -34,7 +37,7 @@ Anything Else?
 
 **Facebook**
 
-> <div class="fb-page" data-href="https://www.facebook.com/badmashpeepal/" data-tabs="messages" data-width="400" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/worldlywags/"><a href="https://www.facebook.com/worldlywags/">Badmash Peepal</a></blockquote></div></div>
+> <div class="fb-page" data-href="https://www.facebook.com/badmashpeepal/" data-tabs="messages" data-width="400" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/badmashpeepal/"><a href="https://www.facebook.com/badmashpeepal/">Badmash Peepal</a></blockquote></div></div>
 
 **Twitter**
 

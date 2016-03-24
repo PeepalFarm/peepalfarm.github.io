@@ -9,6 +9,7 @@ Our Work
 
 ### Stray Animal Recovery Center
 <!-- [Stray Animal Recovery Center](/?p=recovery)-->
+<div class="fb-page" data-href="https://www.facebook.com/bhartifoundation.info/" data-tabs="timeline" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bhartifoundation.info/"><a href="https://www.facebook.com/bhartifoundation.info/">Bharti Foundation</a></blockquote></div></div>
 
 ### [Desi Log Desi Dog]( /?p=desilogdesidog )
 Promoting adoption of Indian stray dogs by permeating the popular culture.

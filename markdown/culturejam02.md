@@ -18,7 +18,3 @@ In India, while dogs are dying on street, majority of people insist on buying a 
 "[Desi Log Desi Dog](/?p=desilogdesidog)" literally translates to "Local people Local dog", which is what we are using to promote people to adopt, and not shop for a dog. Afterall, you can't buy a friend! 
 
 <center><blockquote class="imgur-embed-pub" lang="en" data-id="a/oIcqp"></blockquote></center>
-
-Media Links 
----
-> * [Facebook](https://www.facebook.com/worldlywags/posts/1026809744023930) 

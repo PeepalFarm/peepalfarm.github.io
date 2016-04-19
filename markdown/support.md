@@ -17,9 +17,9 @@ Monetary Donations
 ----------
 100% of your donations go towards:
 
-> * Medicines
-> * Food
-> * Transporation expenses
+> * Medicines for animals
+> * Food for animals
+> * Transporation expenses for rescues
 > * Animal welfare staff salary
 
 **1) By bank transfer:**

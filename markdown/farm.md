@@ -12,7 +12,7 @@ We promote a simple, compassionate and sustainable lifestyle. The farm is open t
 
 We are fostering a community of independent people who work towards improving the current situation for animals; whether it's directly working with animals, doing hacktivism or doing human welfare coupled with fostering compassion for animals. 
 
-If you want to be part of our community for a month or longer, [check out the kind of work we do and the skills we are seeking](/?p=farmers).
+If you want to be part of our community for a month or longer, check out our [work exchange](/?p=workexchange) program or take a look the [open positions](/?p=positions)! 
 
 [Click here for directions and timings for day visits](?p=directions#day). Please [contact us](/?p=contact) us to schedule a visit.
 

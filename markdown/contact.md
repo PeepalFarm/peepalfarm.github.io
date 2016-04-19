@@ -10,7 +10,7 @@ Scripts:
 Contact
 ==========
 
-Work Exchange @ Badmash Peepal Farm?
+[Work Exchange](/?p=workexchnage) @ Badmash Peepal Farm?
 ----------
 
 > Fill out: https://goo.gl/9kJYdv
@@ -24,7 +24,7 @@ Visiting the farm or sending supplies?
 
 Anything Else? 
 ----------
-Check the FAQ(/?p=faq) first!
+Check the [FAQ](/?p=faq) first!
 
 **E-mail**  (preferred)
 

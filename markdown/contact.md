@@ -10,7 +10,7 @@ Scripts:
 Contact
 ==========
 
-[Work Exchange](/?p=workexchnage) @ Badmash Peepal Farm?
+[Work Exchange](/?p=workexchange) @ Badmash Peepal Farm?
 ----------
 
 > Fill out: https://goo.gl/9kJYdv

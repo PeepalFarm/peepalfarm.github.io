@@ -24,6 +24,8 @@ Visiting the farm or sending supplies?
 
 Anything Else? 
 ----------
+Check the FAQ(/?p=faq) first!
+
 **E-mail**  (preferred)
 
 > farm@badmashpeepal.org

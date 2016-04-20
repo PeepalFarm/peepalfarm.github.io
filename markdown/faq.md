@@ -30,3 +30,6 @@ The nearest cell phone tower is still pretty far, so the signal is spotty but no
 
 ## Do you have western toilets
 Yes. 
+
+## Are we allowed to cook our own food?
+No. We do have an electric kettle available to you for boiling water.

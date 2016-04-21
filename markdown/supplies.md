@@ -21,7 +21,10 @@ Medical
 * Heartgaurd Dewormers
 * Pyrantel Pamoate Dewormers (puppy and adult)
 * Carpofen
-* Ivermectin
+* Ivermectin Inj.
+* Neomec
+* Cephalexin 250mg
+* Cefpodoxime tablets 100mg
 
 Utility
 -----

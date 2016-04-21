@@ -10,6 +10,7 @@ Medical
 * Gauze (4" rolls)
 * Topicure Spray
 * D'Mag Spray
+* Dicrysticin-S 2.5 gm
 * Neosporin Powder
 * Negasunt Powder
 * 20 ml Syringes

@@ -16,6 +16,7 @@ Medical
 * 22 G Needles
 * Intacef Inj. (3g)
 * Sterile Water for Injections
+* Normal Saline 500ml bottles
 * Heartgaurd Dewormers
 * Pyrantel Pamoate Dewormers (puppy and adult)
 * Carpofen

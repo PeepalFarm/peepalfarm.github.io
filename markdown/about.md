@@ -23,7 +23,7 @@ We are doing short term **service** by doing animal welfare in our stray animal 
 
 ## Vision
 
-Bring together a group of people which will continue doing and inspiring good work, and also attempt to bring about lasting change via culture jamming, innovation and policy.
+Bring together a group of people which will continue doing and inspiring good work, and also attempt to bring about lasting change via **culture jamming**, **innovation** and **policy**.
 
 ## Philosophy
 

@@ -11,14 +11,28 @@ Title: About us
 About us
 ======
 
-We are a group of loosely knit, creatively maladjusted people doing short term animal welfare via **direct impact**, and long term animal rights work via **hacktivism**. 
+## Who we are
 
-"**[Badmash Peepal Farm]( /?p=farm)**" is a home built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to help do animal welfare and animal rights, and an organic farm to provide a little bit for for all of us.
+Badmash Peepal is a multi-faceted community of loosely knit people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. 
+
+"**[Badmash Peepal Farm]( /?p=farm)**" is our home space built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to do good work, and an organic farm to provide a little bit for for all of us.
+
+## Mission
+
+We are doing short term **service** by doing animal welfare in our stray animal recovery center, and want to contribute towards long term fixes by encouraging and enabling compassion towards animals. Our methods of choice for that are **hactivism**, **community organization** and **good enterprise**.  
+
+## Vision
+
+Bring together a group of people which will continue doing and inspiring good work, and also attempt to bring about lasting change via culture jamming, innovation and policy.
 
 ## Philosophy
 
-We believe that every action has a suffering footprint, especially any consumption. So we believe in mindful consumption and living purposefully. We have set our purpose to do good, and we believe in "alleviating physical pain" as an objective net good.
+We believe that every action for survival has a suffering footprint, especially any consumption. So, we believe in mindful consumption and making our survival purposeful by alleviateing suffering. 
+
 
 <!--
 History
+
+Mission: increase compassion towards animals, inreasing adoptions and reducing abandonement
+
 -->

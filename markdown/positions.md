@@ -8,8 +8,37 @@ Positions
 =====
 ## Animal welfare manager
 
-* You don't have to live at the farm. You can find accomodation in the village, or in Dharamsala or other nearby areas and commute. 
+The Stray Animal Recovery Center at Badmash Peepal Farm is looking for an experienced animal welfare manager. We give injured stray animals a place to heal before they are released back to the street. We have dogs, puppies, mules, cows, and calves in residence and recovery. We are a small operation with no official hotline, so the number and intensity of in-patient cases vary greatly.
+
+You will get the experience of living on a farm with a mini international community in an Indian village in Himalayan foothills and eating local and farm fresh food. 
+
+### Responsibilities:
+
+* Coordinating feeding, ensuring each animal has a healthy and appropriate diet, ordering food and supplements when necessary.
+* Working with veterinarians to create treatment plans for each animal, recording treatments, recording progress in animal health, recording incoming/outgoing dates and locations
+* Administering (and coordinating administering) of medicines and treatment plans
+* Ensuring proper hygiene and quarantine practices
+* Traveling with animals to hospitals/clinics and ensuring proper care and attention
+* Handling rescue and emergency cases and helping with catching
+* Ensuring that animals live in safe, healthy, and appropriate habitats
+* Ensuring that animals are up to date on their vaccines and deworming schedules
+* Brainstorming and researching new methods for improved care and living
+* Working with volunteer co-ordinator to assign volunteers and oversee volunteer work
+* Innovating and researching solutions for healthcare and enrichment
+* Creating a "Treat on Street" program which identifies animals on the road which can be treated in place and provides care, vaccines, and sterilization.
+
+### Skills:
+
+* Veterinary skills (Veterinary doctor, technician, assistant, or nurse) are a must
+* Able to manage animal welfare staff/volunteers and delegate
+* Strong command of English is essential. Hindi is an added bonus!
+
+### Pre-reqs:
+
+* Should be able to work as a team and independently
+* Must be living near Dharamsala, Himachal Pradesh, India or wanting to relocate! You can live on the farm and be provided a room and 3 meals, or you can find accomodation in the village, or in Dharamsala or other nearby areas and commute. 
 * Need based stipend available
+
 
 ## Farmstay manager
 
@@ -37,9 +66,9 @@ Responsible for planting, harvesting, nursery, soil enrichment, seed saving, CSA
 * You don't have to live at the farm. You can find accomodation in the village, or in Dharamsala or other nearby areas and commute. 
 * Need based stipend available.
 
-## Promotion manager
+## "Guerilla" activist
 
-You need to have a background in perception management. You will be responsible for conducting awareness campaigns and helping with adoptions.
+You need to have a background in some form of perception management (religion, advertising, PR, government propoganda, ex army etc). You will be responsible for planning and conducting awareness campaigns and helping with adoptions.
 
 * You don't have to live at the farm. You can find accomodation in the village, or in Dharamsala or other nearby areas and commute. 
 * Need based stipend available.

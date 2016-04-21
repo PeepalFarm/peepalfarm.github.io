@@ -8,7 +8,7 @@ Frequently Asked Questions
 =========
 
 ## What should I carry?
-Apart from your own toiletries and a towel, we suggest that you carry a flash light,a pair of rugged shoes, a rain jacket, a sweater or jacket, water bottle, bug spray and a sleeping sack. 
+Apart from your own toiletries (preferably bio-degradable), toilet paper, and a towel, we suggest that you carry a flash light,a pair of rugged shoes, a rain jacket, a sweater or jacket, water bottle, bug spray and a sleeping sack. 
 
 ## Do you have internet?
 Yes. Usually it's good enough for WhatsApp, E-mail and Facebook but we can't gurantee its availability. If you desperately need internet, bring your own 3G data stick. Tata Photon and Idea seem to work best here.

@@ -25,6 +25,8 @@ Medical
 * Neomec
 * Cephalexin 250mg
 * Cefpodoxime tablets 100mg
+* Anti rabies vaccines for dogs (bring in an ice box!)
+* Megavac 6 in 1 (bring in an ice box!)
 
 Utility
 -----

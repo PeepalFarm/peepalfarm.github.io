@@ -19,17 +19,19 @@ Clinic and OT
 * Heating lamp with bulbs
 * Kong Toys and other Tough toys
 
-Misc
+Recovery Center
 ----
 * Collapsible puppy pen
  
 Community Space
 ----
 * Books
+* Flash drives
 * Telescope
-* Laptop/Smart phone/Tablet
 * Printer
 * Scanner
+* Laptop/Smart phone/Tablet
+
 
 
 Want to donate something smaller? Check [supplies we need]( ?p=supplies "supplies" )

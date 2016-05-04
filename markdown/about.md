@@ -19,9 +19,9 @@ Badmash Peepal is a multi-faceted community of loosely knit people with one goal
 
 "**[Badmash Peepal Farm]( /?p=farm)**" is our home space built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to do good work, and an organic farm to provide a little bit for for all of us.
 
-## Mission
+## Current Mission
 
-We are doing short term **service** by doing animal welfare in our stray animal recovery center, and want to contribute towards long term fixes by encouraging and enabling compassion towards animals. Our methods of choice for that are **hactivism**, **community organization** and **good enterprise**.  
+It's dual prong. We are doing short term **service** by doing animal welfare in our stray animal recovery center, contributing towards long term fixes by encouraging and enabling compassion towards animals. Our methods of choice for that are **hactivism**, **community organization** and **good enterprise**.  
 
 ## Vision
 
@@ -33,8 +33,7 @@ We believe that every action for survival has a suffering footprint, especially 
 
 
 <!--
-History
-
-Mission: increase compassion towards animals, inreasing adoptions and reducing abandonement
-
+*History
+*inreasing adoptions and reducing abandonement
+* define good: helping alleviat suffering of those who can't help themselves.
 -->

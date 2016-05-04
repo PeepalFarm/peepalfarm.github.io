@@ -2,9 +2,8 @@ Donate
 =========
 Time 
 ------
-1) [Contact us] ( ?p=contact "contact" ) if you want to **work from home** to help us fundraise, promote, and culture jam!
-
-2) Join the [**work exchange**](/?p=workexchange) and come to the [farm]( ?p=farm) to help animals in various ways!
+1) Join the [**work exchange**](/?p=workexchange) and come to the [farm]( ?p=farm) to help animals in various ways!
+2) Can't be here? [Contact us](/?p=contact) to help us fundraise, promote, and culture jam from the comfort of your home.
 
 Supplies Donations
 ----------

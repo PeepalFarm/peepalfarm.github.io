@@ -2,9 +2,9 @@ Donate
 =========
 Time 
 ------
-1) [**Work from anywhere**]( ?p=contact "contact" ) to help us fundraise, promote, and culture jam!
+1) [Contact us] ( ?p=contact "contact" ) if you want to **work from home** to help us fundraise, promote, and culture jam!
 
-2) [**Work on the farm**]( ?p=farm) to help animals in various ways!
+2) Join the [**work exchange**](/?p=workexchange) and come to the [farm]( ?p=farm) to help animals in various ways!
 
 Supplies Donations
 ----------

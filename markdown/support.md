@@ -3,6 +3,7 @@ Donate
 Time 
 ------
 1) Join the [**work exchange**](/?p=workexchange) and come to the [farm]( ?p=farm) to help animals in various ways!
+
 2) Can't be here? [Contact us](/?p=contact) to help us fundraise, promote, and culture jam from the comfort of your home.
 
 Supplies Donations

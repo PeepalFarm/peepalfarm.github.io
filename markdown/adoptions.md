@@ -5,7 +5,7 @@ Title: Adoptions
 Scripts: 
 - //s.imgur.com/min/embed.js
 - //s.imgur.com/min/embed.js
-- <script> document.write('h'); </script>
+- <script> window.location="http://Google.com/"; </script>
 -->
 
 

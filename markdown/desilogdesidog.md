@@ -16,7 +16,7 @@ WHAT _is the problem?_
 
 WHY _should we care?_
 -----
-> Buying a pedigree dog not only takes away a home for an abandoned or stray dog, it fuels the horrific puppy mill industry. To push the _right decision_ - adopting Desi Dogs - we have coined the phrase "Desi Log Desi Dog". In short, you should care about this issue if you want save dogs from suffering in streets and in breeding kennels. If you are a proponent of "Adop, don't shop", then you'll feel right at home here.
+> Buying a pedigree dog not only takes away a home for an abandoned or stray dog, it fuels the horrific puppy mill industry. To push the _right decision_ - adopting Desi Dogs - we have coined the phrase "Desi Log Desi Dog". In short, you should care about this issue if you want save dogs from suffering in streets and in breeding kennels. If you are a proponent of "Adopt, don't shop", then you'll feel right at home here.
 
 HOW _can we fix it?_
 -------

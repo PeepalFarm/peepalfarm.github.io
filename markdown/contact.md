@@ -38,12 +38,12 @@ Check the [FAQ](/?p=faq) first!
 	
 > +91 9999 429 144
 
-
+<!-- 
 **Facebook**
 
 > <div class="fb-page" data-href="https://www.facebook.com/badmashpeepal/" data-tabs="messages" data-width="400" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/badmashpeepal/"><a href="https://www.facebook.com/badmashpeepal/">Badmash Peepal</a></blockquote></div></div>
 
-<!-- 
+
 
 - /javascripts/twitter.js
 - 

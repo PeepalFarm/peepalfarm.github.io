@@ -7,7 +7,7 @@ Title: Work Exchange
 Work Exchange
 =========
 
-We provide accomodation and 3 vegan meals in exchange for 36 hours of work every week. You work 6 hours for 6 days and get one day off each week. The work including daily chores related to maintaing stray animal recovery center, the farm and farmstay. You will be doing dog walks, poop pickup, weeding, mulching, digging holes, collecting rocks, brushing animals, playing fetch, helping in cooking, helping in housekeeping, help in feeding etc.
+We provide accomodation and 3 vegan meals in exchange for 36 hours of work every week. You work 6 hours for 6 days and get one day off each week. The work including daily chores related to maintaining stray animal recovery center, the farm and farmstay. You will be doing dog walks, poop pickup, weeding, mulching, digging holes, collecting rocks, brushing animals, playing fetch, helping in cooking, helping in housekeeping, help in feeding etc.
 
 We don't ask for a specific skill set, but your are welcome to use your skills to help us do more good work or improve the space. People have contributed by doing art all around the farm, teaching kids in the village and doing hactivism!
 

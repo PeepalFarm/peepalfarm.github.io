@@ -1,4 +1,5 @@
-## Morning
+Morning
+==========
 
 Dog Walks
 ----------
@@ -162,7 +163,9 @@ Clean Drink Shelf
 * Use wet cloth (ask Veeru for "surface cloth") to wipe down shelf, scrubbing off any spills
 * Replace cups and jugs
 
-##Evening
+Evening
+==========
+
 
 Check Water
 ----------

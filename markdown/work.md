@@ -12,7 +12,7 @@ Our Work
 ## Stray Animal Recovery Center 
 A safe haven for injured animals which need space to heal, animals looking for a new home, and permanent residents who are retired from the road. We give them medical care and love, and they return our love back ten fold.
 
-## Organic Farm
+## [Organic Farm](/?p=farm)
 The farm feeds our community and recovery animals with healthy, organic produce. We grow some of our own food, which passes straight from farm to kitchen and purchase the bulk of rest locally. We practice natural farming methonds like no-till farming, mulching a la Ruth Stout, and the methods of Masanobu Fukuoka.  
 
 ## Farm stay

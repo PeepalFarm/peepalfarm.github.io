@@ -1,7 +1,7 @@
 <!--
 Title:Peepal Farm
 -->
-![Farm Image](/images/header-bp.jpg)
+![Farm Image](/images/12654529_10153304984956373_5236892433044222367_n.jpg)
 
 Peepal Farm
 ==========

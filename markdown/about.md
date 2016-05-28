@@ -17,7 +17,7 @@ About us
 
 Badmash Peepal is a multi-faceted community of loosely knit people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. 
 
-"**[Badmash Peepal Farm]( /?p=farm)**" is our home space built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to do good work, and an organic farm to provide a little bit for for all of us.
+"**[Peepal Farm]( /?p=farm)**" is our home space built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to do good work, and an organic farm to provide a little bit for for all of us.
 
 ## Current Mission
 

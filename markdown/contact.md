@@ -10,7 +10,7 @@ Scripts:
 Contact
 ==========
 
-[Work Exchange](/?p=workexchange) @ Badmash Peepal Farm?
+[Work Exchange](/?p=workexchange) with Badmash Peepal?
 ----------
 
 > Fill out: https://goo.gl/9kJYdv
@@ -18,7 +18,7 @@ Contact
 Visiting the farm or sending supplies?
 ----------
 
-> [Badmash Peepal Farm]( ?p=directions )  
+> [Peepal Farm]( ?p=directions )  
 > Village VPO Dhanotu, Teshil Shahpur  
 > District Kangra, Himachal Pradesh 176208
 

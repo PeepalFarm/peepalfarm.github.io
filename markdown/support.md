@@ -25,7 +25,6 @@ Monetary Donations
 **1) By bank transfer:**
 
 > Bank Name: Axis Bank Ltd.<br/>
-> Account Name: Bharti Foundation<br/>
 > Account Number: 913020030856591<br/>
 > IFS Code: UTIB0000066<br/>
 

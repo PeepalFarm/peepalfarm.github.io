@@ -9,7 +9,7 @@ Title: Our initiatives to help animals and other people who help animals.
 Our Work
 =========
 
-## Stray Animal Recovery Center 
+## [Stray Animal Recovery Center](/?p=recovery) 
 A safe haven for injured animals which need space to heal, animals looking for a new home, and permanent residents who are retired from the road. We give them medical care and love, and they return our love back ten fold.
 
 ## [Organic Farm](/?p=farm)
@@ -18,7 +18,7 @@ The farm feeds our community and recovery animals with healthy, organic produce.
 ## [Farm stay](/?p=farmstay)
 At the heart of it all is the people who've come together to do good work. We work independently and collaboratively. We live and eat together, and cultivate conversation around doing "good" and impacting our environment positively. The community lives sustainably in a mud house designed according to solar passive principles and built with mostly local and salvaged materials.
 
-## Village programs
+## [Village programs](/?p=village)
 To do our bit for improving the village we are in, we have started "[google for girls](/?p=google-for-girls)" program and also do english, art and self defense classes depending on the teachers available. To help our neighbors who do not want to abandon their non producing cattle, but financially find it difficult to keep them, we are working on [infrastructure to utilize cow dung](https://blog.badmashpeepal.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.hgh35rvlm) and cow urine so maintenance cost for keeping retired cattle can be offset. 
 
 Our daily work revolves around maintaining the stray animal recovery center, farm, farm stay and running village programs.
@@ -29,18 +29,16 @@ As a result, unplanned [hacktivism](/?p=hacktivism) and events which promote com
 
 <!--
 
+### abc co-operative
+
 ### Living with purpose? Sustainable living for good? 
 
-### Products
-
-
+### Products and Cow products
 
 ### Innovation
 
 ### Treat on Street
 Helping stray animals on the streer
-
-### Cow products
 
 ### ad agency
 

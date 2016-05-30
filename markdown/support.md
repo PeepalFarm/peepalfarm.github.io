@@ -10,7 +10,7 @@ Supplies Donations
 
 Monetary Donations
 ----------
-100% of your donations go towards:
+Your donations will go towards:
 
 > * Medicines for animals
 > * Food for animals

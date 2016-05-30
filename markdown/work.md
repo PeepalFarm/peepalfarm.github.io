@@ -19,7 +19,7 @@ The farm feeds our community and recovery animals with healthy, organic produce.
 At the heart of it all is the people who've come together to do good work. We work independently and collaboratively. We live and eat together, and cultivate conversation around doing "good" and impacting our environment positively. The community lives sustainably in a mud house designed according to solar passive principles and built with mostly local and salvaged materials.
 
 ## [Village programs](/?p=village)
-Our presence in the village has been well received and to give back, we have started a few programs to improve the village. A key one is "[google for girls](/google-for-girls.html)" and we are now starting a "[good enterprise](/good-enterprise.html)" soon!
+Our presence in the village has been well received and to give back, we have started a few programs to improve the village. A key one is "[google for girls](/google-for-girls)" and we are now starting a "[good enterprise](/good-enterprise)" soon!
 
 
 Our daily work revolves around maintaining the stray animal recovery center, farm, farm stay and running village programs.

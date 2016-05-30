@@ -19,7 +19,8 @@ The farm feeds our community and recovery animals with healthy, organic produce.
 At the heart of it all is the people who've come together to do good work. We work independently and collaboratively. We live and eat together, and cultivate conversation around doing "good" and impacting our environment positively. The community lives sustainably in a mud house designed according to solar passive principles and built with mostly local and salvaged materials.
 
 ## [Village programs](/?p=village)
-To do our bit for improving the village we are in, we have started "[google for girls](/?p=google-for-girls)" program and also do english, art and self defense classes depending on the teachers available. To help our neighbors who do not want to abandon their non producing cattle, but financially find it difficult to keep them, we are working on [infrastructure to utilize cow dung](https://blog.badmashpeepal.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.hgh35rvlm) and cow urine so maintenance cost for keeping retired cattle can be offset. 
+Our presence in the village has been well received and to give back, we have started a few programs to improve the village. A key one is "[google for girls](/google-for-girls.html)" and we are now starting a "[good enterprise](/good-enterprise.html)" soon!
+
 
 Our daily work revolves around maintaining the stray animal recovery center, farm, farm stay and running village programs.
 

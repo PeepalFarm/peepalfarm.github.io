@@ -12,8 +12,8 @@ Our Work
 ## [Stray Animal Recovery Center](/?p=recovery) 
 A safe haven for injured animals which need space to heal, animals looking for a new home, and permanent residents who are retired from the road. We give them medical care and love, and they return our love back ten fold.
 
-## [Organic Farm](/?p=farm)
-The farm feeds our community and recovery animals with healthy, organic produce. We grow some of our own food, which passes straight from farm to kitchen and purchase the bulk of rest locally. We practice natural farming methonds like no-till farming, mulching a la Ruth Stout, and the methods of Masanobu Fukuoka.  
+## [Peepal Farm](/?p=farm)
+Our farm feeds our community and recovery animals with healthy, organic produce. We grow some of our own food, which passes straight from farm to kitchen and purchase the bulk of rest locally. We practice natural farming methonds like no-till farming, mulching a la Ruth Stout, and the methods of Masanobu Fukuoka.  
 
 ## [Farm stay](/?p=farmstay)
 At the heart of it all is the people who've come together to do good work. We work independently and collaboratively. We live and eat together, and cultivate conversation around doing "good" and impacting our environment positively. The community lives sustainably in a mud house designed according to solar passive principles and built with mostly local and salvaged materials.

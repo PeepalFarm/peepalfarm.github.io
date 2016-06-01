@@ -1,5 +1,6 @@
 ***Please [contact us](/?p=contact) to schedule a visit.***
-**<i>like anyone else, we are soemtimes not at home!</i>**
+
+**<i>Like anyone else, we are sometimes not at home!</i>**
 
 
 

@@ -1,3 +1,17 @@
+Daily Schedule
+----------
+
+7am: Quiet hours end
+7:15am - 8:30am : First shift
+8:45am - 9:15am : Breakfast
+9:15am - 12:45pm : Second shift
+1pm - 1:30pm : Lunch
+4:30pm - 5:45pm : Third shift (winter)
+5:30 - 6:46 pm : Third shift (summer)
+7pm: Dinner
+9pm: Quiet hours begin
+
+
 Morning
 ==========
 
@@ -5,10 +19,11 @@ Dog Walks
 ----------
 * Ask the animal welfare manager who should go on a walk
 * Leashes can be found on back wall behind kitchen
-* Ask experienced work exhanger or animal welfare manager how to use halters and special collars
+* Ask experienced working guest or animal welfare manager how to use halters and special collars
 * If you are unsure of the dynamics of the dog groups, ask the animal welfare manager or the volunteer coordinater "Who is friendly with who? Which dogs need to avoid each other?"
 * Take a gate key, make sure gate is locked behind you
 * Walk dogs on inside road (towards Rajol) for 45 minutes (you should at least reach the house with the crazy black dog)
+* Watch the dogs while you are walking. Try to avoid garbage and poop they can eat.
 * Return dogs to their areas
 * Return key to key container
 
@@ -32,7 +47,7 @@ Cow Poo
 * Make sure all dung is collected!
 * Put in cow dung pile
 * Using a stick broom or hand (with glove), scrape all leftover food and cow dung to corner of the cow food trough
-* Rinse out trough if needed
+* Rinse out and scrub trough if needed
 * In wet areas, put down waste cow straw to soak up liquid
 * If there is any cow feed leftover, put in mulch pile
 * Rinse gloves (if needed) and hang on fence
@@ -42,9 +57,10 @@ Cow Poo
 Check Water
 ----------
 * Walk around to bowl by the back of kitchen, clinic yard, clinic kennels, dog area, and large animal area and ensure each dish and bucket is full of clean water
-* Make sure each animal has access to water
+* Make sure each animal can reach water
 * If water is dirty, empty in drain or on a tree and refill
 * If container or dish is dirty, empty water and scrub container, then fill with clean water and replace
+* When it’s cold outside, the water should be warm and not cold - mix the hot water from the geyser with cold water.
 
 Set Salt Licks (winter)
 ----------
@@ -122,7 +138,7 @@ Spider Webs
 
 Sweep Balconey and Stairs
 ----------
-* Using feathery broom sweep dirt into piles
+* Using feathery broom and dust pan (located behind kitchen) sweep dirt into piles
 * Try to sweep slowly to not kick up too much dust
 * Pick all leaves and add to mulch piles
 * Pick any remaining dirt in a dust pan and add to dust bucket
@@ -130,10 +146,12 @@ Sweep Balconey and Stairs
 
 Sweep Front and Back Porch
 ----------
-* Using feathery broom sweep dirt into piles
+* Using feathery broom and dust pan (located behind kitchen) sweep dirt into piles
 * Try to sweep slowly to not kick up too much dust
 * Pick all leaves and add to mulch piles
 * Pick any remaining dirt in a dust pan and add to dust bucket
+* Collect any dog hair from the planters and put in hole
+* Clean off hair and debris from the side of the porch (especially by the kitchen)
 
 Sweep Path
 ----------

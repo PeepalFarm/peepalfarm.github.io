@@ -61,8 +61,11 @@
 			//console.log(md.meta);
 			var content_holder=document.getElementById('content');
 			content_holder.innerHTML = md.html;
-		
+			FB.XFBML.parse(content_holder);
+			ga('send', 'pageview');
+
 			window.scrollTo(0, 0); 
+			
 			$('#nav').blur(); // tried for mobile, not working
 			
 			

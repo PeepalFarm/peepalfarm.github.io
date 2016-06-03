@@ -5,7 +5,7 @@ Rules
 
 * No meat is allowed on the property. Dairy products are ok, but we encourage you to be vegan while here!
 
-* No smoking or eating inside the rooms.
+* No smoking or eating inside the rooms. You can smoke by the cooking stove on the East side of the building.
 
 * No swearing or aggressive language.
 

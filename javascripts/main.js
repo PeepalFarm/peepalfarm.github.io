@@ -37,7 +37,7 @@
 
 
 
-	function loadContent(req,pushstate) {
+	function loadContent(req,pushstate,firstload=false) {
 
 		if (pushstate) {
 			window.history.pushState({ url: req }, "", req); 

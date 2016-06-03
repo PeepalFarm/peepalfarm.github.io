@@ -61,8 +61,9 @@
 			//console.log(md.meta);
 			var content_holder=document.getElementById('content');
 			content_holder.innerHTML = md.html;
-			FB.XFBML.parse(content_holder);
-			
+			if (!firstload) {
+				FB.XFBML.parse(content_holder);
+			}
 
 			window.scrollTo(0, 0); 
 			

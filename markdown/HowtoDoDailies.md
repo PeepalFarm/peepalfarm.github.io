@@ -43,7 +43,7 @@ Dog Poo
 
 Cow Poo
 ----------
-* Using bucket with handle, shovel, and poo-scraper collect all cow dung inside cow shed
+* Using bucket with handle, shovel, and poo-scraper (or hands/gloves) collect all cow dung inside cow shed
 * Make sure all dung is collected!
 * Put in cow dung pile
 * Using a stick broom or hand (with glove), scrape all leftover food and cow dung to corner of the cow food trough
@@ -83,6 +83,7 @@ Uncover Plants (winter)
 Open Dog Houses
 ----------
 * Walk to all dog houses in dog area and west side of house
+* Shake out all beds away from the house
 * Put all beds on top of houses to sun
 * If raining or expected rain, don't do it!
 
@@ -96,7 +97,7 @@ Dog Mats and Porch
 ----------
 * Check inside each section of dog house on West side of building to see if they are clean and dry
 * Sweep concrete in front and collect in dustpan
-* Empty dust pan in dust bucket behind kitchen
+* Empty dust pan in compost bucket by the dog area
 * Make sure all dog chains are untangled and set neatly
 
 Wash Back Sink
@@ -114,7 +115,7 @@ Clean Community Toilet
 * Empty toilet paper into burn bucket
 * Either light newspaper and burn toilet paper, or take a stick out of a running fire to light.
 * DO NOT put anything from the burn bucket back into the cooking fire
-* Hose down all surfaces on toilet and sink
+* Hose down all surfaces on toilet and sink (even under seat)
 * Hose down cement walls and rinse floor
 * Use toilet bush to scrub toilet bowl
 * Rinse toilet brush into the toilet using hose
@@ -140,8 +141,8 @@ Sweep Balconey and Stairs
 ----------
 * Using feathery broom and dust pan (located behind kitchen) sweep dirt into piles
 * Try to sweep slowly to not kick up too much dust
-* Pick all leaves and add to mulch piles
-* Pick any remaining dirt in a dust pan and add to dust bucket
+* Pick all leaves and add to mulch pile
+* Pick any remaining dirt in a dust pan and add to compost bucket
 * Sweep stairs starting from top and working downwards (check below for people)
 
 Sweep Front and Back Porch
@@ -149,7 +150,7 @@ Sweep Front and Back Porch
 * Using feathery broom and dust pan (located behind kitchen) sweep dirt into piles
 * Try to sweep slowly to not kick up too much dust
 * Pick all leaves and add to mulch piles
-* Pick any remaining dirt in a dust pan and add to dust bucket
+* Pick any remaining dirt in a dust pan and add to compost bucket
 * Collect any dog hair from the planters and put in hole
 * Clean off hair and debris from the side of the porch (especially by the kitchen)
 
@@ -167,6 +168,7 @@ Wipe doors, windows, and pillars
 ----------
 * Using tan/pink cloth behind kitchen, dry dust all windowsills, doors, and pillars
 * If there are stains or mud streaks, rinse cloth thouroughly, then use wet cloth and a bucket of water to wipe them off
+* Hang cloth on shelves in back to dry
 
 Pick up Salt Licks (winter)
 ----------
@@ -180,6 +182,7 @@ Clean Drink Shelf
 * Remove all cups, chai jug, and water jug
 * Use wet cloth (ask Veeru for "surface cloth") to wipe down shelf, scrubbing off any spills
 * Replace cups and jugs
+
 
 Evening
 ==========
@@ -196,7 +199,7 @@ Animal Brush
 ----------
 * Brushes can be found on shelves behind kitchen
 * Brush each dog using the furminator or a flea comb
-* Brush large animals using wood handled brush
+* Brush large animals using round brush
 * Check every animal for ticks and fleas, if any are found inform animal welfare manager
 * Start with resident and adoptable dogs, horses, and cows then wash the brush
 * Brush patients and wash the brushes again at the end

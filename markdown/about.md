@@ -21,7 +21,7 @@ Badmash Peepal is a multi-faceted community of loosely knit people with one goal
 
 ## Current Mission
 
-It's dual prong. We are doing short term **service** by doing animal welfare in our stray animal recovery center, contributing towards long term fixes by encouraging and enabling compassion towards animals. Our methods of choice for that are **hactivism**, **community organization** and **good enterprise**.  
+It's dual prong. We are doing short term **service** by doing animal welfare in our stray animal recovery center, contributing towards long term fixes by encouraging and enabling compassion towards animals. Our methods of choice for that are **hactivism**, **community organization** and **[good enterprise](/?p=good-enterprise)**.  
 
 ## Vision
 

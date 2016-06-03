@@ -62,7 +62,7 @@
 			var content_holder=document.getElementById('content');
 			content_holder.innerHTML = md.html;
 			FB.XFBML.parse(content_holder);
-			ga('send', 'pageview');
+			
 
 			window.scrollTo(0, 0); 
 			
@@ -123,7 +123,7 @@
 		// so it is within app link
 			window.event.preventDefault ? window.event.preventDefault() : window.event.returnValue = false;
 			loadContent(req,true);
-			ga('send', 'pageview', req);
+			ga('send', 'pageview', {'page': req});
 		} else {
 			// alert("slipped!");
 		}	

@@ -3,6 +3,7 @@
 Title: Good Enterprise
 
 -->
+![](/images/gobar.jpg)
 
 Good Enterprise
 ==

@@ -32,6 +32,17 @@ People who come here for [work exchange](/?p=workexchange), participate in the d
 As a result, unplanned [hacktivism](/?p=hacktivism), [events](/?p=events) and [enterprise](/?p=good-enterprise) ideas which promote compassion [emerge](https://en.wikipedia.org/wiki/Emergence) now and then.
 
 <!--
+## In past
+
+Before starting our own initiatives in Delhi and Dharamsala, we were helping other people doing animal welfare work. They were in a tough situation and we were looking for purpose.
+
+* 2013 Friends of IACC; helping Lorraine and Ingrid.
+* 2014 Animal Rescue Kerala; helping Avis.
+* 2014 Fighting cruelty with compassion; helping Dipala
+
+-->
+
+<!--
 
 ### network for good
 ### Activists for Animals

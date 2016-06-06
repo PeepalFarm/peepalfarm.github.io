@@ -10,7 +10,7 @@ Our Work
 =========
 
 ## [Treat Beyond Street](/?p=recovery)
->> <i>Our stray animal recovery center.</i>
+<i>Our stray animal recovery center.</i><br/>
 A safe haven for injured animals which need space to heal, animals looking for a new home, and permanent residents who are retired from the road. We give them medical care and love, and they return our love back ten fold.
 
 ## [Peepal Farm](/?p=farm)

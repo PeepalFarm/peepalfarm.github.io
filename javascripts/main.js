@@ -124,7 +124,8 @@
 		// so it is within app link
 			window.event.preventDefault ? window.event.preventDefault() : window.event.returnValue = false;
 			loadContent(req,true);
-			ga('send', 'pageview', {'page': req});
+			
+		//	ga('send', 'pageview', {'page': req});
 		} else {
 			// alert("slipped!");
 		}	

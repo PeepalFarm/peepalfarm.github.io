@@ -3,7 +3,7 @@
 		/*
 			* couldn't do YAML file with markdown (content: +++ ##markdown +++) as github seems 
 			* to removes YAML from files when accessed in a browser :/
-			* couldn't do Markdown file with YAML front matter.  github gives 404 for .md files
+			* couldn't do Markdown file with YAML front matter.  github gives 404 for .md filesf
 			* with YAML front matter, so i can't do that unless i change the extension to .txt. however, then prose.io does not parse markdown.
 			* solution: YAML front matter in html comments
 		*/
@@ -61,9 +61,9 @@
 			//console.log(md.meta);
 			var content_holder=document.getElementById('content');
 			content_holder.innerHTML = md.html;
-			if (!firstload) {
-				FB.XFBML.parse(content_holder);
-			}
+			//if (!firstload) {
+			//	FB.XFBML.parse(content_holder);
+			//}
 
 			window.scrollTo(0, 0); 
 			

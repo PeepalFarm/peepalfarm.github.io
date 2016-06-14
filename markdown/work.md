@@ -58,4 +58,7 @@ Helping stray animals on the streer
 
 -------------------------
 
+*inreasing adoptions and reducing abandonement and reducing consumption
+
+
 -->

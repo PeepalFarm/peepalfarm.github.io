@@ -118,7 +118,7 @@
 			
 			$(window).on("popstate", function (e) {
 			  if (e.originalEvent.state) {
-				loadContent(e.originalEvent.state.url,false);
+				loadContent(e.originalEvent.state.url,false,false);
 			  }
 			});
 

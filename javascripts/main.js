@@ -37,7 +37,7 @@
 
 
 
-	function loadContent(req,pushstate,firstload=false) {
+	function loadContent(req,pushstate,firstload) {
 
 		if (pushstate) {
 			window.history.pushState({ url: req }, "", req); 
@@ -123,7 +123,7 @@
 		if (req==="/" || (req.indexOf("/",1)<0 && getURLParameter("p",req)!=null )  ) { 
 		// so it is within app link
 			window.event.preventDefault ? window.event.preventDefault() : window.event.returnValue = false;
-			loadContent(req,true);
+			loadContent(req,true,false);
 			
 		//	ga('send', 'pageview', {'page': req});
 		} else {

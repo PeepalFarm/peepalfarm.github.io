@@ -20,3 +20,9 @@ This is our home and this is our life, which we are sharing with any one who wan
 **[Click here to apply](https://goo.gl/9kJYdv)!** 
 
 **Looking for a longer stay, and a pay?** Check out our [**available positions**](/?p=positions)!
+
+<!--
+
+why do it, what to expect, our expecations!
+
+-->

@@ -15,17 +15,17 @@ About us
 
 ## Who we are
 
-Badmash Peepal is a multi-faceted community of loosely knit people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. So for us, good work is helping alleviate suffering of those who can't help themselves. 
+Badmash Peepal is a group of loosely knit people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. So for us, good work is helping alleviate suffering of those who can't help themselves. 
 
 "**[Peepal Farm]( /?p=farm)**" is our home space built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to do good work, and an organic farm to provide a little bit for for all of us.
 
 ## Current Mission
 
-It's dual prong. We are doing short term **service** by doing animal welfare in our stray animal recovery center, contributing towards long term fixes by encouraging and enabling compassion towards animals. Our methods of choice for that are **hactivism**, **community organization** and **[good enterprise](/?p=good-enterprise)**.  
+It's dual prong. We are doing short term **service** by doing animal welfare in our stray animal recovery center, contributing towards long term fixes by encouraging and enabling compassion towards animals. Our methods of choice for that are **[hactivism](/?p=hacktivism)**, **community organization** and **[good enterprise](/?p=good-enterprise)**.  
 
 ## Vision
 
-Bring together a group of people which will continue doing and inspiring good work, and also attempt to bring about lasting change via **culture jamming**, **innovation** and **policy**.
+Bring together a group of people which will continue doing and inspiring good work, and also attempt to bring about lasting change via **awareness** (<i>education</i> + <i>culture jamming</i>), **innovation** and **policy**.
 
 ## Philosophy
 

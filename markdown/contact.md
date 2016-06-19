@@ -24,7 +24,7 @@ Visiting the farm or sending supplies?
 
 Anything Else? 
 ----------
-Check the [FAQ](/?p=faq) first!
+Check the [FAQ](/?p=generalfaq) first!
 
 **E-mail**  (preferred)
 

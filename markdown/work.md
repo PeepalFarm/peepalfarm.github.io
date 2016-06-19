@@ -12,24 +12,20 @@ Our Work
 ## [Treat Beyond Street](/?p=recovery)
 <i>Our stray animal recovery center.</i> A safe haven for injured animals which need space to heal, animals looking for a new home, and permanent residents who are retired from the road. We give them medical care and love, and they return our love back ten fold.
 
-## [Peepal Farm](/?p=farm)
+## [Farm](/?p=farm)
 Our farm feeds our community and recovery animals with healthy, organic produce. We grow some of our own food, which passes straight from farm to kitchen and purchase the bulk of rest locally. We practice natural farming methonds like no-till farming, mulching a la Ruth Stout, and the methods of Masanobu Fukuoka.  
 
-## [Peepal Farm-stay](/?p=farmstay)
-At the heart of it all is the people who've come together to do good work. We work independently and collaboratively. We live and eat together, and cultivate conversation around doing "good" and impacting our environment positively. The community lives low impact, in a mud house designed according to solar passive principles and built with mostly local and salvaged materials.
-
-## [Dhanotu Village programs](/?p=village)
+## [Village programs](/?p=village)
 Our presence in the village has been well received and to give back, we have started a few programs to improve the village. A key one is "[google for girls](/?p=google-for-girls)" and we are now starting a "[good enterprise](/?p=good-enterprise)" soon!
+
+## [Hactivism](/?p=hacktivism)
+Hoaxes. Spoofs. Events. Art. Whatever grabs attention and changes perception. We have ideas, but these things [emerge](https://en.wikipedia.org/wiki/Emergence) depending on how slammed are we, how evey one's feeling and what kind of crowd we got here.
+
+## 100%
+100% is our product range in infancy. We are still toying with ideas. We have started with "[cow poop pots](https://blog.badmashpeepal.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.rih78achu)", lemongrass and mint tea. Selling seeds, tofu and few other things is in the plans. We believe in the idea of [good enterprise](/?p=good-enterprise).
 
 ## [ABC Co-operative](/?p=abc)
 Our stray dog spay program. Working with dog feeders, we are creating a lot of "puppy free" pockets. 
-
-
-Our daily work revolves around maintaining the stray animal recovery center, farm, farm stay and running village programs.
-
-People who come here for [work exchange](/?p=workexchange), participate in the daily work and if they can, they contribute in their own ways like doing art, fundraising, sustainability projects, helping with adoptions, organizing events etc. 
-
-As a result, unplanned [hacktivism](/?p=hacktivism), [events](/?p=events) and [enterprise](/?p=good-enterprise) ideas which promote compassion [emerge](https://en.wikipedia.org/wiki/Emergence) now and then.
 
 <!--
 ## In past
@@ -46,17 +42,14 @@ Before starting our own initiatives in Delhi and Dharamsala, we were helping oth
 
 ### network for good
 ### Activists for Animals
-### Products and Cow products
 ### Innovation
 ### Treat on Street
-Helping stray animals on the streer
 
-### Living with purpose? Sustainable living for good? 
+### children book with compassion
 ### ad agency
 ### 52 habits book
 ### jounralism and web support for other non profits
 
--------------------------
 
 *inreasing adoptions and reducing abandonement and reducing consumption
 

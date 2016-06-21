@@ -7,9 +7,9 @@ Please [contact us](/?p=contact) to schedule a visit.
 ## Timings
 
 **Sunday** to **Friday**
-> 11:00 AM - 12:00 PM
+> 10:00 AM - 12:00 PM
 
-> 03:00 PM - 05:00 PM
+> 04:00 PM - 06:00 PM
 
 ## What to bring
 

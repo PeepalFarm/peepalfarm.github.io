@@ -13,7 +13,7 @@ Rules
 
 * Please don't harvest and eat the produce! We will all starve.
 
-* If you turn anything on, please make sure you turn it off when you finish! This is especially important for our water heater, which uses a lot of power and melts the socket if it is left on.
+* If you turn anything on, please make sure you turn it off when you finish. This is especially important for our water heater, which uses a lot of power and melts the socket if it is left on.
 
 * Leave things where they are. The chairs are there for a reason, the things are plugged in there for a reason, the furniture in the room is arranged correctly. We don't need Extreme Makeover Home Edition!
 
@@ -57,16 +57,17 @@ Rules
 
 * If you are going in or out of dog area make sure the first gate is latched behind you before opening the next one. One of the dogs for adoption has it in for the house puppies and she is faster than us.
 
-
-* Please be respectful of local custom. Particularly for women and femme folks (sorry, I know it sucks), this means how you dress is a reflection on you, every other volunteer that will work here in the future, and the residents who live here. Our actions don’t live in a bubble.
+* Please be respectful of local custom. Particularly for women and femme folks (sorry, I know it sucks), this means how you dress is a reflection on you, every other person that will work here in the future, and the residents who live here. Our actions don’t live in a bubble.
 
 Be mindful that sleeveless shirts, short shorts, shorts at all, lots of chest, and tight clothing are considered risque to our neighbors. For your safety, the safety of others, and respect for our neighbors please dress conservatively.
 
-* Please arrive at the farm before 7 pm. If you cannot make it to the farm by 7pm, plan to stay in a hotel.
-
-* Use our great spaces! We have a meditation circle and a yoga area, a lovely long porch, a hammock, and nice rocks under the mango tree. 
+* Please arrive at the farm before 7 pm. If you cannot make it to the farm by 7pm, plan ahead to stay in a hotel. 
 
 * Remember that we are here to alleviate the suffering of others. This is our philosophy. Every action should be done with that in mind.
+
+If you are breaking rules we will give you a warning. If you continue to not follow the rules and instructions from staff you will be asked to leave. 
+
+If you can't or are unwilling to follow instructions, are disrespectful, insubordinate, or want to do things "your way" please reconsider your intent to apply. If you can work independently or as a team, understand the rules and why we have them, and want to work hard, then continue!
 
 **Please read the ENTIRE [FAQ](/?p=faq) before applying!**
 

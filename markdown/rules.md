@@ -7,7 +7,7 @@ Rules
 
 * No smoking or eating inside the rooms. You can smoke by the cooking stove on the East side of the building.
 
-* No swearing or aggressive language.
+* No aggressive language.
 
 * No animals are allowed in the rooms unless otherwise stated.
 
@@ -57,21 +57,17 @@ Rules
 
 * If you are going in or out of dog area make sure the first gate is latched behind you before opening the next one. One of the dogs for adoption has it in for the house puppies and she is faster than us.
 
-* Remember that we are here to alleviate the suffering of others. This is our philosophy. Every action should be done with that in mind.
-
-
-
-Polite Suggestions
-----------
 
 * Please be respectful of local custom. Particularly for women and femme folks (sorry, I know it sucks), this means how you dress is a reflection on you, every other volunteer that will work here in the future, and the residents who live here. Our actions don’t live in a bubble.
 
 Be mindful that sleeveless shirts, short shorts, shorts at all, lots of chest, and tight clothing are considered risque to our neighbors. For your safety, the safety of others, and respect for our neighbors please dress conservatively.
 
-* Please return to the property before dark. Our town is quiet, but it is risky to travel anywhere in India at night.
+* Please arrive at the farm before 7 pm. If you cannot make it to the farm by 7pm, plan to stay in a hotel.
 
 * Use our great spaces! We have a meditation circle and a yoga area, a lovely long porch, a hammock, and nice rocks under the mango tree. 
 
+* Remember that we are here to alleviate the suffering of others. This is our philosophy. Every action should be done with that in mind.
+
 **Please read the ENTIRE [FAQ](/?p=faq) before applying!**
 
-**[Click here to apply](https://goo.gl/9kJYdv)!** 
+**[Click here to apply](https://goo.gl/9kJYdv)!**

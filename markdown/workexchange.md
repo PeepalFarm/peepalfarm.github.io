@@ -14,7 +14,7 @@ The work you will do depends on your work exchange position. These are the avail
 * **Animal Enrichment:** Dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, and playing. Must be willing to work with all types of animals.
 
 
-Outside of your position duties, you will be asked to help with daily chores (housekeeping and assisting cook), assisting in the [farm](/?p=farm) (weeding, mulching, digging holes, collecting rocks) and assisting medical staff in the [stray animal recovery center](/?p=recovery).
+Outside of your position duties, you will be asked to help with daily chores (housekeeping and assisting cook), assisting in the [farm](/?p=farm) (weeding, mulching, digging holes, collecting rocks), or assisting medical staff in the [stray animal recovery center](/?p=recovery).
 
 We don't ask for a specific skill set, but your are welcome to use your skills to help us do more good work or improve the space. People have contributed by doing art all around the farm, teaching kids in the village and doing hactivism!
 

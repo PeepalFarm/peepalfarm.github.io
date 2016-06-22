@@ -5,6 +5,6 @@ Our volunteer program is for folks who want to work with us for 3 days or more. 
 
 As a volunteer you will participate in ongoing activity by working alongside a staff member. This can mean helping in the kitchen, in the farm, or assisting with animal treatments. 
 
-If you are inclined, you can do their own projects like community classes, making videos, helping with adoptions, fundraising, etc.
+If you are inclined, you can do your own projects like community classes, making videos, helping with adoptions, fundraising, etc.
 
 **[Click here to apply for volunteering](https://goo.gl/9kJYdv)!**

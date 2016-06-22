@@ -19,6 +19,9 @@ Yes. Usually it's good enough for WhatsApp, E-mail, and Facebook but we can't gu
 ## Do you provide a pick-up?
 Sorry, no. However, you can get taxis and buses from bus station in Dharamsala, and if you are coming via flight you can arrange a pickup from a taxi service or take two local buses. We can provide you a few phone numbers.
 
+## Where is the farm?
+Check out [directions](/?p=directions) to the farm and hours for arrival.
+
 ## Do you provide meals?
 We provide 3 vegan meals on all of your working days. Meals on your day off are your responsibility. You can purchase extra meals (on your days off) for Rs 100 per meal (about 1.50 USD).
 

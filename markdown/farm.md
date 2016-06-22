@@ -8,7 +8,7 @@ Peepal Farm
 
 Peepal Farm is a natural, organic farm in Himalayan foothills, near Dharamsala, India. It is our home that we have opened to recovering injured stray animals and creatively maladjusted people who want to do animal welfare and animal rights. 
 
-Instead of putting in a swimming pool, we built a cow shed. Instead of media room, we have a clinic. Instead of having master bedrooms, we made rooms for those who want to come here and live a simple, compassionate and low impact life. The farm is open to people who want to live purposefully and do good work without having to worry about food or accommodation. 
+Instead of putting in a swimming pool, we built a cow shed. Instead of media room, we have a clinic. Instead of having master bedrooms, we made rooms for those who want to come here and live a simple, compassionate, and low impact life. The farm is open to people who want to live purposefully and do good work without having to worry about food or accommodation. 
 
 We provide a space for independent people to work towards improving the current situation for animals; whether it's directly working with animals, doing hacktivism or doing human welfare coupled with fostering compassion for animals. 
 

@@ -21,7 +21,7 @@ We don't ask for a specific skill set, but you're welcome to use your skills to 
 Our Expectations
 ---------
 
-We expect people to be honest, respectful, responsible, hard working, compassionate, motivated by doing good work, have attention to detail, and keep the space clean. The work we do is also very physical, so please consider your own energy level and if you will find it rewarding.
+We expect people to be honest, respectful, responsible, hard working, compassionate, motivated by doing good work, have attention to detail, and keep the space clean. The work we do is also very physical, so please consider your own energy level and if you will find it rewarding. We expect you to follow the schedule of the farm, which often includes early mornings. If you are unable to follow the schedule, we will ask you to leave.
 
 This is our home and this is our life, which we are sharing with any one who wants to do good work. If you realize that, and understand that this will not only be your work place during your stay, but will also be your home, you will fit right in.
 

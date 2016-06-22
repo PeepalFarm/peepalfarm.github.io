@@ -10,6 +10,9 @@ Work Exchange Frequently Asked Questions
 ## What should I bring?
 We suggest you bring your own toiletries (preferably bio-degradable), toilet paper, a towel, a flash light,a pair of CLOSED TOE work shoes, slippers for the kitchen, a rain jacket, a sweater or jacket, water bottle, bug spray, and a sleeping sack. Bring clothes that you don't mind getting dirty and sweaty!
 
+## Do you charge for the work exchange program?
+We do not charge any money, but we expect you to take seriously the commitment of 36 hours per week. You are working in exchange for accommodation and meals.
+
 ## Do you have internet?
 Yes. Usually it's good enough for WhatsApp, E-mail, and Facebook but we can't gurantee its availability. If you desperately need internet, bring your own 3G data stick. Tata Photon and Idea seem to work best here.
 

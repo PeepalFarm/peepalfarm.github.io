@@ -61,13 +61,17 @@ Rules
 
 Be mindful that sleeveless shirts, short shorts, shorts at all, lots of chest, and tight clothing are considered risque to our neighbors. For your safety, the safety of others, and respect for our neighbors please dress conservatively.
 
+* Breaks during work are of course permitted, but please do not stop to chat on the phone, use your laptop, take frequent smoke breaks, or go upstairs in work hours (unless as part of your task). 
+
 * Please arrive at the farm before 7 pm. If you cannot make it to the farm by 7pm, plan ahead to stay in a hotel. 
 
 * Remember that we are here to alleviate the suffering of others. This is our philosophy. Every action should be done with that in mind.
 
 If you are breaking rules we will give you a warning. If you continue to not follow the rules and instructions from staff you will be asked to leave. 
 
-If you can't or are unwilling to follow instructions, are disrespectful, insubordinate, or want to do things "your way" please reconsider your intent to apply. If you can work independently or as a team, understand the rules and why we have them, and want to work hard, then continue!
+If you can't or are unwilling to follow instructions, are disrespectful, insubordinate, or want to do things "your way" please reconsider your intent to apply. 
+
+We are interested in people who care about animal rights and are interested in Indian culture and meeting Indian people. We are looking for open people who are ready to learn. If this describes you and you can work independently or as a team, understand the rules and why we have them, and want to work hard, then we invite you to apply!
 
 **Please read the ENTIRE [FAQ](/?p=faq) before applying!**
 

@@ -25,6 +25,9 @@ We provide 3 vegan meals on all of your working days. Meals on your day off are 
 ## How many people participate in the work exchange at one time?
 Although it varies depending on available positions, we usually have two workers at one time. Housing is shared. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!
 
+## What should I bring for the animals and the farm?
+Thanks for asking! Here is out [Wishlist](/?p=wishlist) 
+
 Not So Frequently Asked Questions
 =========
 

@@ -22,7 +22,7 @@ Our presence in the village has been well received and to give back, we have sta
 Hoaxes. Spoofs. Events. Art. Whatever grabs attention and changes perception. We have ideas, but these things [emerge](https://en.wikipedia.org/wiki/Emergence) depending on how slammed are we, how evey one's feeling and what kind of crowd we got here.
 
 ## 100%
-100% is our product range in infancy. We are still toying with ideas. We have started with "[cow poop pots](https://blog.badmashpeepal.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.rih78achu)", lemongrass and mint tea. Selling seeds, tofu and few other things is in the plans. We believe in the idea of [good enterprise](/?p=good-enterprise).
+100% is our product range in infancy. We are still toying with ideas. We have started with "[cow poop pots](https://blog.badmashpeepal.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.rih78achu)", lemongrass and mint tea. Selling seeds, tofu and few other things are in the plans. We believe in the idea of [good enterprise](/?p=good-enterprise).
 
 ## [ABC Co-operative](/?p=abc)
 Our stray dog spay program. Working with dog feeders, we are creating a lot of "puppy free" pockets. 

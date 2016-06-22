@@ -11,7 +11,7 @@ We provide accomodation and 3 vegan meals in exchange for 36 hours of work every
 
 The work you will do depends on your work exchange position. These are the available work excahnge positions:
 
-* Animal Enrichment: Dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, and playing. Must be willing to work with all types of animals.
+* **Animal Enrichment:** Dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, and playing. Must be willing to work with all types of animals.
 
 
 Outside of your position duties, you will be asked to help with daily chores (housekeeping and assisting cook), assisting in the [farm](/?p=farm) (weeding, mulching, digging holes, collecting rocks) and assisting medical staff in the [stray animal recovery center](/?p=recovery).

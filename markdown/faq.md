@@ -17,7 +17,7 @@ Yes. Usually it's good enough for WhatsApp, E-mail, and Facebook but we can't gu
 Sorry, no. However, you can get taxis and buses from bus station in Dharamsala, and if you are coming via flight you can arrange a pickup from a taxi service or take two local buses. We can provide you a few phone numbers.
 
 ## Do you provide meals?
-We provide 3 vegan meals on all of your working days. Meals on your day off are your responsibility.
+We provide 3 vegan meals on all of your working days. Meals on your day off are your responsibility. You can purchase extra meals (on your days off) for Rs 100 per meal (about 1.50 USD).
 
 ## How many people participate in the work exchange at one time?
 Although it varies depending on available positions, we usually have two workers at one time. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!
@@ -45,4 +45,4 @@ No. We do have an electric kettle available to you for boiling water.
 
 **Please read our [Rules](/?p=rules) before applying!**
 
-**[Click here to apply](https://goo.gl/9kJYdv)!** 
+**[Click here to apply](https://goo.gl/9kJYdv)!**

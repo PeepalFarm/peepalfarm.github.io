@@ -44,3 +44,5 @@ You can either do your laundry by hand (soap not provided) in our bucket or you 
 No. We do have an electric kettle available to you for boiling water.
 
 **Please read our [Rules](/?p=rules) before applying!**
+
+**[Click here to apply](https://goo.gl/9kJYdv)!** 

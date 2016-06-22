@@ -25,7 +25,7 @@ We expect people to be honest, respectful, responsible, hard working, compassion
 
 This is our home and this is our life, which we are sharing with any one who wants to do good work. We do not ask you to do anything we don't do ourselves. If you realize that, and understand that this will not only be your work place during your stay, but will also be your home, you will fit right in.
 
-
+Are you looking for something with a more flexible schedule? Check out [volunteering](/?p=volunteering) instead!
 
 **Please read the ENTIRE [FAQ](/?p=faq) and [Rules](/?p=rules) before applying!**
 

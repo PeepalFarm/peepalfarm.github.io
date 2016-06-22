@@ -1,3 +1,6 @@
+Spay and Neuter Policy
+=========
+
 Badmash Peepal strives to give the best quality of life to all the animals under their care. Part of that is providing medical care and routine treatments such as deworming, vaccination, and sterilization.
 
 Sterilizing the dogs at our recovery center ensures that none of our recovery, adoptable, adopted, or resident dogs gives birth to puppies. Sterilization is a vital first step in reducing the number of stray and abandoned dogs in India and maintaining a healthy and safe environment here at the farm.

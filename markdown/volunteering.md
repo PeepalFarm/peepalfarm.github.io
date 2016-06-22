@@ -7,4 +7,4 @@ As a volunteer you will participate in ongoing activity by working alongside a s
 
 If you are inclined, you can do their own projects like community classes, making videos, helping with adoptions, fundraising, etc.
 
-To apply
+**[Click here to apply for volunteering](https://goo.gl/9kJYdv)!**

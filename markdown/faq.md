@@ -16,6 +16,9 @@ Yes. Usually it's good enough for WhatsApp, E-mail and Facebook but we can't gur
 ## Do you provide a pick-up?
 Sorry, no. However, you can get taxis from bus station and if you are coming via flight, you will need to arrange a pickup from a taxi service. We can provide you a few phone numbers.
 
+## Do you provide meals?
+We provide 3 vegan meals on all of your working days. Meals on your day off are your responsibility.
+
 Not So Frequently Asked Questions
 =========
 

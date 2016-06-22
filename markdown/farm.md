@@ -12,7 +12,7 @@ Instead of putting in a swimming pool, we built a cow shed. Instead of media roo
 
 We provide a space for independent people to work towards improving the current situation for animals; whether it's directly working with animals, doing hacktivism or doing human welfare coupled with fostering compassion for animals. 
 
-* Interested in [Work Exchange](/?p=work-exchange) or [Volunteering](/?p=volunteering)?
+* Interested in [Work Exchange](/?p=workexchange) or [Volunteering](/?p=volunteering)?
 * [Click here for directions and timings for day visits](?p=directions#day). Please [contact us](/?p=contact) us to schedule a visit.
 * [Check the pictures of life on the farm](https://www.facebook.com/groups/badmashpeepal/photos/ "Facebook group photos")
 

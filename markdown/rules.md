@@ -72,4 +72,6 @@ Be mindful that sleeveless shirts, short shorts, shorts at all, lots of chest, a
 
 * Use our great spaces! We have a meditation circle and a yoga area, a lovely long porch, a hammock, and nice rocks under the mango tree. 
 
-* Play with the puppies because they are awesome :D
+**Please read the ENTIRE [FAQ](/?p=faq) before applying!**
+
+**[Click here to apply](https://goo.gl/9kJYdv)!** 

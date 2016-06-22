@@ -7,7 +7,7 @@ Title: Frequently Asked Questions
 Frequently Asked Questions
 =========
 
-## What should I carry?
+## What should I bring?
 Apart from your own toiletries (preferably bio-degradable), toilet paper, and a towel, we suggest that you carry a flash light,a pair of rugged shoes, a rain jacket, a sweater or jacket, water bottle, bug spray and a sleeping sack. 
 
 ## Do you have internet?

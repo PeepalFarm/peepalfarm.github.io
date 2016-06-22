@@ -1,3 +1,6 @@
+Euthanasia Policy
+=========
+
 Badmash Peepal Farm is a place where animals are safe and well cared for; where all life is affirmed and respected. We reserve euthanasia only for animals that are experiencing an unacceptably poor quality of life, or are ill or injured beyond our capacity to treat.
 
 This includes:

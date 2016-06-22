@@ -31,8 +31,6 @@ Are you looking for something with a more flexible schedule? Check out **[volunt
 
 **[Click here to apply](https://goo.gl/9kJYdv)!** 
 
-**Looking for a longer stay, and a pay?** Check out our [**available positions**](/?p=positions)!
-
 <!--
 
 why do it, what to expect, our expecations!

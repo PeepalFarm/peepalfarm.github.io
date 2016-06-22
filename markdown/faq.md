@@ -31,6 +31,9 @@ Not So Frequently Asked Questions
 ## Are there snakes at the farm?
 We don't have permanent resident snakes, but we have seen a few on and around the farm. Himachal does boast some of India's most venemous snakes.
 
+## Are there bugs at the farm?
+There are large bugs, spiders, mosquitos, and more. If you are terrified of them or cannot restrain yourself from hurting them, then this might not be the place for you.
+
 ## Do you have hot showers?
 We have bucket showers in the community bathroom. There is a water heater and you can fill up a bucket of hot water.
 

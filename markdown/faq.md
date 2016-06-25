@@ -8,7 +8,7 @@ Work Exchange Frequently Asked Questions
 =========
 
 ## What should I bring?
-We suggest you bring your own toiletries (preferably bio-degradable), toilet paper, a towel, a flash light,a pair of CLOSED TOE work shoes, slippers for the kitchen, a rain jacket, a sweater or jacket, water bottle, bug spray, and a sleeping sack. Bring clothes that you don't mind getting dirty and sweaty!
+We suggest you bring your own toiletries (preferably bio-degradable), toilet paper, a towel, a flash light,a pair of CLOSED TOE work shoes, slippers for the kitchen, a rain jacket, a sweater or jacket, water bottle, bug spray, mosquito net, and a sleeping sack. Bring clothes that you don't mind getting dirty and sweaty! We provide blankets but if you are not used to cold winters, bring a sleeping bag.
 
 ## Do you charge for the work exchange program?
 We do not charge any money, but we expect you to take seriously the commitment of 36 hours per week. You are working in exchange for accommodation and meals.

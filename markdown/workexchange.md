@@ -29,7 +29,8 @@ Are you looking for something with a more flexible schedule? Check out **[volunt
 
 **Please read the ENTIRE [FAQ](/?p=faq) and [Rules](/?p=rules) before applying!**
 
-**[Click here to apply](https://goo.gl/9kJYdv)!** 
+**[Click here to apply](http://goo.gl/forms/DDjriT82WMMG6RoV2)!** 
+
 
 <!--
 

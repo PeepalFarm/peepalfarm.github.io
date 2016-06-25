@@ -16,7 +16,7 @@ Our Work
 Our farm feeds our community and recovery animals with healthy, organic produce. We grow some of our own food, which passes straight from farm to kitchen and purchase the bulk of rest locally. We practice natural farming methonds like no-till farming, mulching a la Ruth Stout, and the methods of Masanobu Fukuoka.  
 
 ## [Village programs](/?p=village)
-Our presence in the village has been well received and to give back, we have started a few programs to improve the village. A key one is "[google for girls](/?p=google-for-girls)" and we are now starting a "[good enterprise](/?p=good-enterprise)" soon!
+Our presence in the village has been well received and to give back, we have started a few programs to improve the village. 
 
 ## [Hacktivism](/?p=hacktivism)
 Hoaxes. Spoofs. Events. Art. Whatever grabs attention and changes perception. We have ideas, but these things [emerge](https://en.wikipedia.org/wiki/Emergence) depending on how slammed are we, how evey one's feeling and what kind of crowd we got here.

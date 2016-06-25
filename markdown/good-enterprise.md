@@ -17,8 +17,13 @@ We believe, for an enterprise to do net good -
 
 ## Current Ideas
 
-* [Cow dung pots](https://blog.badmashpeepal.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.csf34nalr)
+* To help our neighbors who do not want to abandon their non producing cattle, but financially find it difficult to keep them, we are making [cow dung pots](https://blog.badmashpeepal.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.hgh35rvlm) so maintenance cost for keeping retired cattle can be offset. 
 
 ## Future Ideas
 
-* Home made Tofu
+* Cow urine cleaner
+* Cow dung mosquito coils and incense sticks
+* Home made Tofu 
+* Mats from waste plastic
+* Health cookies
+* Herbal teas

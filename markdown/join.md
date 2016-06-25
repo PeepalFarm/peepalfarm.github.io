@@ -21,5 +21,6 @@ Long termer
 Interested in being part of "Badmash Peepal" for long? If one of these [positions](/?p=positions) fancy you, come for work exchange, discuss your vision, hear ours and lets see if there is overlap. 
 
 [Paying guest](/?p=farmstay)
+--
 
 Want to experience farm living in rural India, or just want to spend time with animals and try being vegan for a few days? 

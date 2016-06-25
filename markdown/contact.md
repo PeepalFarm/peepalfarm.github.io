@@ -10,11 +10,12 @@ Scripts:
 Contact
 ==========
 
-[Work Exchange](/?p=workexchange) with Badmash Peepal?
-----------
-
-> Fill out: https://goo.gl/9kJYdv
-
+Usual topics
+--------
+* [Work Exchange](/?p=workexchange)
+* [Volunteer Program](/?p=volunteer)
+* [Paying guest @ our farm-stay](/?p=farmstay)
+ 
 Visiting the farm or sending supplies?
 ----------
 
@@ -24,7 +25,7 @@ Visiting the farm or sending supplies?
 
 Anything Else? 
 ----------
-Check the [FAQ](/?p=generalfaq) first!
+Check the [FAQ](/?p=faq) first!
 
 **E-mail**  (preferred)
 

@@ -4,20 +4,20 @@ Title: Join
 
 -->
 
-#[Day visit](/?p=directions)
-
+[Day visit](/?p=directions)
+--
 If you just want to swing by, say hello and play with the animals. 
 
-#[Volunteer](/?p=volunteer)
-
+[Volunteer](/?p=volunteer)
+--
 Got 3 days or more, and want to learn about animal welfare and farm work?
 
-#[Work exchange](/?p=workexchange)
-
+[Work exchange](/?p=workexchange)
+--
 Vegan meals and accomodation in exchange of 36 hours of work. 
 
-#Long termer
-
+Long termer
+--
 Interested in being part of "Badmash Peepal" for long? If one of these [positions](/?p=positions) fancy you, come for work exchange, discuss your vision, hear ours and lets see if there is overlap. 
 
 #[Paying guest](/?p=farmstay)

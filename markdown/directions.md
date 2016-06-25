@@ -7,13 +7,19 @@ Please [contact us](/?p=contact) to schedule a visit.
 ## Timings
 
 **Sunday** to **Friday**
-> 10:00 AM - 12:00 PM
+> 10:00 AM - 01:00 PM
 
-> 04:00 PM - 06:00 PM
+> 04:00 PM - 07:00 PM
+
+## Meals
+
+We serve vegan meals @ Rs. 100 per person.
+Lunch is at 1:00 PM. 
+Dinner is at 7:00
 
 ## What to bring
 
-People are always asking what to bring for animals! 
+Day visits are mostly spent hanging out with the animals. Best way to friend them is to bring them snacks! 
 
 * Bananas
 * Rotis
@@ -22,9 +28,13 @@ People are always asking what to bring for animals!
 * Apples
 * Leafy greens like spinach and mustard
 
-Please DO NOT bring Biscuits, or other packaged food items! 
+Please avoid bringing biscuits, or other packaged food items! 
 
 We also appreciate donations of your old books for our library :)
+
+You can also see the [list of supplies we always need](/?p=supplies).
+
+
 
 ## How to get here
 

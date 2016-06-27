@@ -15,7 +15,7 @@ These are the available work exchange positions:
 
 * **Animal Enrichment, Housekeeping and Farm work :** Dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, and playing. Must be willing to work with all types of animals.
 
-Doing housekeeping chores, assisting in the [farm](/?p=farm) (weeding, mulching, digging holes, collecting rocks),  assisting animal welfare staff in the [stray animal recovery center](/?p=recovery) and ass
+Doing housekeeping chores, assisting in the [farm](/?p=farm) (weeding, mulching, digging holes, collecting rocks),  assisting animal welfare staff in the [stray animal recovery center](/?p=recovery) and as
 
 * **Eco-dome/Earthship builder**
 * **Veterinarian**

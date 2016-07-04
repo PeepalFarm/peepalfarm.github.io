@@ -11,7 +11,7 @@ Title: About us
 <div class="fb-video" data-href="https://www.facebook.com/badmashpeepal/videos/1599743853685951/" data-width="600" data-show-text="false" data-allowfullscreen="true">
 </div>
 -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mBvUckJy0oo" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/mBvUckJy0oo" frameborder="0" allowfullscreen></iframe>
 
 About us
 ======

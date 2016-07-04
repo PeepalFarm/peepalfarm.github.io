@@ -28,6 +28,9 @@ We provide 3 vegan meals on all of your working days. Meals on your day off are 
 ## How many people participate in the work exchange at one time?
 Although it varies depending on available positions, we usually have two workers at one time. Housing is shared. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!
 
+## What happens if I am sick while I am at the farm?
+If you are sick and unable to work on days scheduled to work, you may consider the day as your day off. If you have no days off available for the remainder of your stay, you can pay a non-working guest rate of Rs 500 for food and lodging.
+
 ## What should I bring for the animals and the farm?
 Thanks for asking! Here is our list of needed [supplies](/?p=supplies).
 

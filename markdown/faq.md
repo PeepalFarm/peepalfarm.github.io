@@ -23,7 +23,7 @@ Sorry, no. However, you can get taxis and buses from bus station in Dharamsala, 
 Check out [directions](/?p=directions) to the farm and hours for arrival.
 
 ## Do you provide meals?
-We provide 3 vegan meals on all of your working days. Meals on your day off are your responsibility. You can purchase extra meals (on your days off) for Rs 100 per meal (about 1.50 USD).
+We provide 3 vegan meals on all of your working days. Meals on your day off are your responsibility. You can purchase meals (on your days off) for Rs 100 per meal (about 1.50 USD).
 
 ## How many people participate in the work exchange at one time?
 Although it varies depending on available positions, we usually have two workers at one time. Housing is shared. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!

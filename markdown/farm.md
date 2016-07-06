@@ -2,7 +2,7 @@
 Title:Peepal Farm
 -->
 
-> <i>Farm, don't harm.<i>
+> <center><i>Farm, don't harm.</i></center>
 
 ![Farm Image](/images/12654529_10153304984956373_5236892433044222367_n.jpg)
 

@@ -7,11 +7,15 @@ Title: Frequently Asked Questions
 Work Exchange Frequently Asked Questions
 =========
 
-## What should I bring?
+## What should I carry?
 We suggest you bring your own toiletries (preferably bio-degradable), toilet paper, a towel, a flash light,a pair of CLOSED TOE work shoes, slippers for the kitchen, a rain jacket, a sweater or jacket, water bottle, bug spray, mosquito net, and a sleeping sack. Bring clothes that you don't mind getting dirty and sweaty! We provide blankets but if you are not used to cold winters, bring a sleeping bag.
 
 ## Do you charge for the work exchange program?
 We do not charge any money, but we expect you to take seriously the commitment of 36 hours per week. You are working in exchange for accommodation and meals.
+
+We provide 3 vegan meals on all of your working days. Meals on your day off are your responsibility. You can purchase meals (on your days off, including your arrival and departure day) for Rs 100 per meal.
+
+If you are sick and unable to work on days scheduled to work, you may consider the day as your day off. If you have no days off available for the remainder of your stay, you can pay a [non-working guest rate](/?p=farmstay) for food and lodging.
 
 ## Do you have internet?
 Yes. Usually it's good enough for WhatsApp, E-mail, and Facebook but we can't gurantee its availability. If you desperately need internet, bring your own 3G data stick. Tata Photon and Idea seem to work best here.
@@ -22,14 +26,8 @@ Sorry, no. However, you can get taxis and buses from bus station in Dharamsala, 
 ## Where is the farm?
 Check out [directions](/?p=directions) to the farm and hours for arrival.
 
-## Do you provide meals?
-We provide 3 vegan meals on all of your working days. Meals on your day off are your responsibility. You can purchase meals (on your days off) for Rs 100 per meal (about 1.50 USD).
-
 ## How many people participate in the work exchange at one time?
 Although it varies depending on available positions, we usually have two workers at one time. Housing is shared. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!
-
-## What happens if I am sick while I am at the farm?
-If you are sick and unable to work on days scheduled to work, you may consider the day as your day off. If you have no days off available for the remainder of your stay, you can pay a non-working guest rate of Rs 500 for food and lodging.
 
 ## What should I bring for the animals and the farm?
 Thanks for asking! Here is our list of needed [supplies](/?p=supplies).

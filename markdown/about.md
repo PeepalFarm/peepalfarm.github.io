@@ -2,9 +2,9 @@
 Title: About us
 -->
 
-><i>Like the mischievous Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work. We are humans helping animals.</i>
+><i>Like the Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work.</i>
 
->****<i>We are Badmash Peepal.</i>****
+>****<i>We are humans helping animals.</i>****
 
 <!-- ![](/images/siteheader.jpg) -->
 <!--
@@ -18,9 +18,9 @@ About us
 
 ## Who we are
 
-Badmash Peepal is a group of loosely knit people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. So for us, good work is helping alleviate suffering of those who can't help themselves. 
+We are a group of loosely knit people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. So for us, good work is helping alleviate suffering of those who can't help themselves. 
 
-"**[Peepal Farm]( /?p=farm)**" is our home space built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to do good work, and an organic farm to provide a little bit for for all of us.
+Our **[farm]( /?p=farm)** is the home we have built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to do good work, and an organic farm to provide a little bit for for all of us.
 
 ## Current Mission
 

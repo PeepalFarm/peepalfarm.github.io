@@ -15,4 +15,6 @@ If you are inclined, you can do your own projects like community classes, making
 
 The farm operates on a schedule and routine. Volunteers should expect to arrive and depart within certain times, and will be asked to manage tasks on a schedule while at the farm. 
 
+**Please read the ENTIRE [FAQ](/?p=faq) and [Rules](/?p=rules) before applying!**
+
 **[Click here to apply for the volunteer program](http://goo.gl/forms/LvkJzDuUay66UYj92)!**

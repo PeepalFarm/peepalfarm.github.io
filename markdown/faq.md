@@ -27,7 +27,7 @@ Sorry, no. However, you can get taxis and buses from bus station in Dharamsala, 
 Check out [directions](/?p=directions) to the farm and hours for arrival.
 
 ## How many people participate in the work exchange at one time?
-Although it varies depending on available positions, we usually have two workers at one time. Housing is shared. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!
+Although it varies depending on available positions. We usually have two people in work exchange at one time. Housing is shared. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!
 
 ## What should I bring for the animals and the farm?
 Thanks for asking! Here is our list of needed [supplies](/?p=supplies).
@@ -57,5 +57,3 @@ You can either do your laundry by hand (soap not provided) in our bucket or you 
 No. We do have an electric kettle available to you for boiling water.
 
 **Please read our [Rules](/?p=rules) before applying!**
-
-**[Click here to apply](https://goo.gl/9kJYdv)!**

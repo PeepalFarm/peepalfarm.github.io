@@ -20,8 +20,10 @@ Although most rooms are taken up by permanent residents, resident staff and work
 
 Please [contact us](/?p=contact) with your dates and we'll let you know of availability.
 
+**Please read the ENTIRE [FAQ](/?p=faq) and [Rules](/?p=rules) beforehand!**
+
+
 <!--
-* camping area
-community spaces, meditation area, internet, timings, faq, rules?
+* camping area, 
 
 -->

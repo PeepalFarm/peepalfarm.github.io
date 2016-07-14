@@ -73,6 +73,4 @@ If you can't or are unwilling to follow instructions, are disrespectful, insubor
 
 We are interested in people who care about animal rights and are interested in Indian culture and meeting Indian people. We are looking for open people who are ready to learn. If this describes you and you can work independently or as a team, understand the rules and why we have them, and want to work hard, then we invite you to apply!
 
-**Please read the ENTIRE [FAQ](/?p=faq) before applying!**
-
-**[Click here to apply](https://goo.gl/9kJYdv)!**
+**Please read the ENTIRE [FAQ](/?p=faq) before coming!**

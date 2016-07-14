@@ -60,3 +60,5 @@ You can either do your laundry by hand (soap not provided) in our bucket or you 
 No. We do have an electric kettle available to you for boiling water.
 
 **Please read our [Rules](/?p=rules) before coming!**
+
+<!-- community spaces, meditation area? -->

@@ -15,7 +15,7 @@ These are the available work exchange positions:
 
 * **Animal Enrichment, Housekeeping and Farm work:** Dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, and playing. Must be willing to work with all types of animals. Doing housekeeping chores, assisting in the [farm](/?p=farm) (weeding, mulching, preparing new farm patches, digging, planting), [stray animal recovery center](/?p=recovery) and kitchen.
 * **Artist:** We have a lot of blank space from walls to bambooo beams which we want to fill with art!
-* **Natural Farmer, Gardener:** Experienced 
+* **Natural Farmer, Experienced Gardener**  
 * **Eco builder, Mason:** Builders experienced in working with natural materials. We have requirements like rocket stove, solar dehydrator, composting toilets, small single room structures to a complete earthbag eco dome!  
 * **Carpenter:** If you can fix old doors and windows with hand tools :)
 * **Veterinarian**

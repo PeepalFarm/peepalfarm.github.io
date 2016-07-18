@@ -4,6 +4,9 @@ Title: Work Exchange
 
 -->
 
+> <center><i>“The superior person of devoted character heaps up small things in order to achieve something high and great.” – I Ching</i></center>
+
+
 Work Exchange
 =========
 

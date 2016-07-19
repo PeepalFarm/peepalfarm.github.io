@@ -10,10 +10,10 @@ Our Work
 =========
 
 ## [Treat Beyond Street](/?p=recovery)
-<i>Our stray animal recovery center.</i> A safe haven for injured animals which need space to heal, animals looking for a new home, and permanent residents who are retired from the road. We give them medical care and love, and they return our love back ten fold.
+Our stray animal recovery center. A safe haven for injured animals which need space to heal, animals looking for a new home, and permanent residents who are retired from the road. We give them medical care and love, and they return our love back ten fold.
 
 ## [Farm](/?p=farm)
-Our farm feeds our community and recovery animals with healthy, organic produce. We grow some of our own food, which passes straight from farm to kitchen and purchase the bulk of rest locally. We practice natural farming methonds like no-till farming, mulching a la Ruth Stout, and the methods of Masanobu Fukuoka.  
+Our farm feeds our community and recovery animals with healthy, organic produce. We grow some of our own food, which passes straight from farm to kitchen and purchase the bulk of rest locally. We practice natural farming methonds like no-till farming, mulching a la Ruth Stout, and the methods of Masanobu Fukuoka, and we save seeds.
 
 ## [Village programs](/?p=village)
 Our presence in the village has been well received and to give back, we have started a few programs to improve the village. 
@@ -33,7 +33,7 @@ Our stray dog spay program. Working with dog feeders, we are creating a lot of "
 Before starting our own initiatives in Delhi and Dharamsala, we were helping other people doing animal welfare work. They were in a tough situation and we were looking for purpose.
 
 * 2013 Friends of IACC; helping Lorraine and Ingrid.
-* 2014 Animal Rescue Kerala; helping Avis.
+* 2014 Animal Rescue Kerala; helping Avis exit Animal Resuce Kerala.
 * 2014 Fighting cruelty with compassion; helping Dipala
 
 -->

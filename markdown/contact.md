@@ -29,7 +29,7 @@ Check the [FAQ](/?p=faq) first!
 
 **E-mail**  (preferred)
 
-> [farm@badmashpeepal.org](mailto:farm@badmashpeepal.org)
+> [namaste@peepalfarm.org](mailto:namaste@peepalfarm.org)
 
 **Landline**  
 	

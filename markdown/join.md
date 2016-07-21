@@ -3,6 +3,7 @@
 Title: Join
 
 -->
+> <center><i>“You decide your own level of involvement.” - Tyler Durden</i></center>
 
 [Day visit](/?p=directions)
 --

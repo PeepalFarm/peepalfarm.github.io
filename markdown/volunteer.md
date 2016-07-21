@@ -7,7 +7,7 @@ Title: Volunteer Program
 Volunteer Program
 ==========
 
-Our volunteer program is for folks who want to work with us for 3 days or more. We do not provide meals or housing for volunteers, so you will have to arrange for a place to stay (hotel or homestay). We can offer suggestions of nearby places upon request.
+Our volunteer program is for folks who want to work with us for 3 days or more. We do not provide meals or housing for volunteers, so you will have to arrange for a place to stay (hotel or homestay or our [farmstay](/?p=farmstay)). We can offer suggestions of nearby places upon request.
 
 As a volunteer you will participate in ongoing activity by working alongside a staff member. This can meanassisting with animal treatments, helping in farm, kitchen and construction projects.
 

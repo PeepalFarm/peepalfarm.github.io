@@ -12,7 +12,7 @@ Hacktivism
 * [Desi Log Desi Dog]( /?p=desilogdesidog )
 Promoting adoption of Indian stray dogs by permeating the popular culture.
 
-* [Farm, don't harm]( ?p=ourcows)
+* [Farm, don't harm]( ?p=culturejam01)
 Promoting compassion for cows and bulls abandoned by the dairy industry in India.
 
 <!--

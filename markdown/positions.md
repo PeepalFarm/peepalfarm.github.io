@@ -8,7 +8,7 @@ Positions
 =====
 ## Animal welfare manager
 
-The Stray Animal Recovery Center at Badmash Peepal Farm is looking for an experienced animal welfare manager. We give injured stray animals a place to heal before they are released back to the street. We have dogs, puppies, mules, cows, and calves in residence and recovery. We are a small operation with no official hotline, so the number and intensity of in-patient cases vary greatly.
+ We give injured stray animals a place to heal before they are released back to the street. We have dogs, puppies, mules, cows, and calves in residence and recovery. We are a small operation with no official hotline, so the number and intensity of in-patient cases vary greatly.
 
 You will get the experience of living on a farm with a mini international community in an Indian village in Himalayan foothills and eating local and farm fresh food. 
 

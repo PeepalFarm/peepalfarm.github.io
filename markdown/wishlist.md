@@ -1,6 +1,8 @@
 Wishlist
 ==========
 
+The easiest way to donate is to choose something off of our [Amazon Wishlist]( http://www.amazon.in/registry/wishlist/2B3YNT3ZZYQY2 "amazon" )
+
 Farm
 ----
 * <s>Chaff cutter</s>

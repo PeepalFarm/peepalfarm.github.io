@@ -3,36 +3,33 @@ Wishlist
 
 The easiest way to donate is to choose something off of our [Amazon Wishlist]( http://www.amazon.in/registry/wishlist/2B3YNT3ZZYQY2 "amazon" )
 
-Farm
-----
-* <s>Chaff cutter</s>
-* <s>Cow dung pot press</s>
-* Cow dung incense making machine
 
 Clinic and OT
 ----
-* Refrigerator
 * Autoclave
-* Surgical lights
-* Surgical/Exam tables
-* Large standard shipping crates (airline approved)
+* LED lights
+* <s>Surgical/Exam tables</s>
 * Collapsible crates
-* Metal Buckets
-* Heating lamp with bulbs
-* Kong Toys and other Tough toys
+* <s>Metal Buckets</s>
+* Heating lamp bulbs
+* 
 
 Recovery Center
 ----
+* Collars and Leashes
 * Collapsible puppy pen
- 
+* Large standard shipping crates (airline approved)
+* <s>Kong Toys and other Tough toys</s>
+
+
 Community Space
 ----
-* Books
-* Flash drives
-* Telescope
+* Used Books
+* Old Flash drives
+* <s>Telescope</s>
 * Printer
-* Scanner
-* Laptop/Smart phone/Tablet
+* <s>Scanner</s>
+* Used Laptops/Smart phones/Tablets
 
 
 

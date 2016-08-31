@@ -1,6 +1,17 @@
 Donate
 =========
 
+<!--
+Apart from our regular expenses, we are currently fundraising for -
+-------
+
+* Sending Poppet to America.
+* Getting Jaffa hearing aid
+* Monthly commitment for us to hire a vet
+* Cow contraption
+
+-->
+
 Supplies Donations
 ----------
 [**Supplies we always need.**]( ?p=supplies "supplies" ) We always need things like medical, cleaning, dog, and office supplies.

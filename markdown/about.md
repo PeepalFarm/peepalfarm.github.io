@@ -2,7 +2,7 @@
 Title: About us
 -->
 
-<div style="padding: 10px; border: 1px solid;"><strong>STOP PRESS!</strong>We are among the 5 nominees for "Clark for Care" award! To help us win Rs. 100,000 for helping animals, go to <a href="https://www.facebook.com/120832497945926/photos/1383147105047786/">https://www.facebook.com/120832497945926/photos/1383147105047786/</a> and hit "Like". If you are feeing generous, "Share" it as well!</div>
+<div style="padding: 10px; border: 1px solid; margin-top:10px; background-color: #ff0;"><strong>STOP PRESS!</strong>We are among the 5 nominees for "Clark for Care" award! To help us win Rs. 100,000 for helping animals, go to <a href="https://www.facebook.com/120832497945926/photos/1383147105047786/">https://www.facebook.com/120832497945926/photos/1383147105047786/</a> and hit "Like". If you are feeing generous, "Share" it as well!</div>
 
 ><i>Like the Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work.</i>
 

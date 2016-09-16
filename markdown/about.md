@@ -3,6 +3,7 @@ Title: About us
 -->
 
 <!--
+
 <div style="padding: 10px; border: 1px solid; margin-top:10px; background-color: #ff0;"><strong>We are among the 5 nominees for "Clark for Care" award!</strong></br>To help us win Rs. 100,000 for helping animals, go to <a href="https://www.facebook.com/120832497945926/photos/1383147105047786/">our nomination page</a> and hit "Like"! <br/>Thank you :)</div>
 -->
 

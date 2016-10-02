@@ -31,9 +31,14 @@ Your donations will go towards:
 **1) By bank transfer:**
 
 > Bank Name: Axis Bank Ltd.<br/>
-> Account Number: 913020030856591<br/>
-> IFS Code: UTIB0000066<br/>
+> Account Name: Peepal Farm Foundation<br/>
+> Account Number: 916020057204004<br/>
+> IFS Code: UTIB0002501<br/>
 
 **2) By PayTM**
 
 > Send money to +91 9999 429144
+
+**3) By PayPal**
+
+> Send money to <a href='http://buckdrop.com/poetgk5' class='ej_ejc_ithkbx'>namaste@peepalfarm.org</a>

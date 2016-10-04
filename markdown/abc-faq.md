@@ -71,7 +71,7 @@ Yes. Based on your location and destination, we will inform you of the charges b
 
 **How do I arrange a pick up?**
 
-WhatsApp +91 9999 429 144 with the details of the rescue. 
+Call +91 98185 66732 with the details of the rescue. 
 
 **Do you do "treat on street" services?**
 

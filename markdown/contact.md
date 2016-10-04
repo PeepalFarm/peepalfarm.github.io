@@ -15,6 +15,7 @@ Usual topics
 * [Work Exchange](/?p=workexchange)
 * [Volunteer Program](/?p=volunteer)
 * [Paying guest @ our farm-stay](/?p=farmstay)
+* [Stray dog sterilization and transporation of resuce in Delhi](/?p=abc)
  
 Visiting the farm or sending supplies?
 ----------

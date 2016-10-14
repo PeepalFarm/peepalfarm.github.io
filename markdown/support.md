@@ -35,7 +35,11 @@ Your donations will go towards:
 > Account Number: 916020057204004<br/>
 > IFS Code: UTIB0002501<br/>
 
-**2) By PayTM**
+**2) By credit or debit card:**
+
+> https://www.payumoney.com/paybypayumoney/#/155241
+
+**3) By PayTM**
 
 > Send money to +91 9999 429144
 

@@ -38,7 +38,7 @@ EFFORTS SO FAR
 
 * Offline
 > * [Grafitti 1]( /?p=culturejam02 )
-> * [Grafitti 2]( /?p=culturejam03 )
+> * [Grafitti 2]( /?p=culturejam04 )
 > * Merchandise (Stickers, T-shirts etc.) 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/u74z0"></blockquote>
 

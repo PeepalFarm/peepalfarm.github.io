@@ -606,7 +606,7 @@ margin-top: 3px;
 .navbar-default{
   min-height: 60px;
   border-radius:0;
-  background-color:rgba(255,255,255,0.97);
+  background-color:rgba(255,255,255,1);
     box-shadow: 0 0 14px 0 rgba(0,0,0,.16);
     border:0;
 }
@@ -1030,7 +1030,14 @@ margin-top: 3px;
   background-color: transparent;
 }
 
-
+.social-like{
+background: #fff;
+color:#fff;
+margin-top: 20px;
+margin:auto;
+left:10px;
+right:0;
+}
 }
 
  @media (max-width: 767px) and (orientation: landscape) {

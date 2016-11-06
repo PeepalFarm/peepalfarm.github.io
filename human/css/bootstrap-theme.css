@@ -947,9 +947,9 @@ ul.social-links li a:hover{
 
 
 .social-like{
-background-color: #4065B4;
+background: #fff;
 color:#fff;
-height: 30px;
+margin-top: 20px;
 margin:auto;
 left:0;
 right:0;

@@ -945,10 +945,14 @@ ul.social-links li a:hover{
   text-decoration: none;
 }
 
+
 .social-like{
-  position: fixed;
-  top:20px;
-  left:50%;
+background-color: #4065B4;
+color:#fff;
+height: 30px;
+margin:auto;
+left:0;
+right:0;
 }
 
 /* Mobile */
@@ -1026,17 +1030,6 @@ margin-top: 3px;
   background-color: transparent;
 }
 
-.social-like{
-  background-color: #fff;
-  padding:10px;
-  width: 100%;
-  position: fixed;
-  bottom:10px;
-  top:0;
-left: 50%;
--webkit-transform: translateX(-50%);
-transform: translateX(-50%)
-}
 
 }
 

@@ -950,9 +950,7 @@ ul.social-links li a:hover{
 background: #fff;
 color:#fff;
 margin-top: 20px;
-margin:auto;
-left:0;
-right:0;
+margin-left: 0;
 }
 
 /* Mobile */
@@ -1034,9 +1032,7 @@ margin-top: 3px;
 background: #fff;
 color:#fff;
 margin-top: 20px;
-margin:auto;
-left:10px;
-right:0;
+margin-left: 10px;
 }
 }
 

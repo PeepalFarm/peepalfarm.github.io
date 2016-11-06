@@ -892,6 +892,18 @@ border-radius: 2px;
   text-align: center;
 }
 
+
+.section-2 .desc-left{
+   font-size: 25px;
+  line-height: 50px;
+  font-weight: 400;
+  display: block;
+font-family: 'Roboto', sans-serif;
+  color: #555;
+  margin: 40px 20px;
+
+}
+
 .footer-section{
   position: relative;
 background-color:#000;
@@ -929,12 +941,11 @@ ul.social-links li a{
     font-weight:500;
 }
 
-
-
-
 ul.social-links li a:hover{
   text-decoration: none;
 }
+
+
 
 /* Mobile */
 
@@ -976,7 +987,7 @@ img.panel-image{
   line-height: 18px;
 }
 
-.section-2 .desc, .section-3 .desc{
+.section-2 .desc, .section-3 .desc, .section-2 .desc-left{
   font-size: 22px;
   line-height: 35px;
 }

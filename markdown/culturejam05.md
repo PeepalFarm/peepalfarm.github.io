@@ -9,7 +9,7 @@ Title: Donate your body for Stray dogs
 Truth behind "Donate your body to help Strays dogs"
 ======
 
-"[Donate Your Body to help Stray Dogs](/human/)" campaign is NOT REAL and is just meant to grab attention. The issue is very REAL. There are millions of stray dogs around the world who struggle to survive every day. They struggle with injury, disease, and cruelty, but they also simply hungry. Their most basic needs of food, water, and shelter are not available to them. This is wrong!
+"[Donate Your Body to help Stray Dogs](/human/)" campaign was NOT REAL and is just meant to grab attention. The issue is very REAL. There are millions of stray dogs around the world who struggle to survive every day. They struggle with injury, disease, and cruelty, but they also simply hungry. Their most basic needs of food, water, and shelter are not available to them. This is wrong!
 
 People get desensitized this issue as they are over exposed to it seeing homeless animals everyday. These animals become invisible. We want to shake them into seeing strays and their plight again. It should not have taken this extreme thought to get them talking about feeding leftovers to strays or running effective sterlizations programs, but we have to compete with billion dollar companies for your attention. Sorry.
 

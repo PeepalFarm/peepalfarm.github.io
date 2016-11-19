@@ -6,7 +6,7 @@ Title: Positions
 
 Positions
 =====
-## Animal welfare manager
+<strike>## Animal welfare manager</strike>
 
  We give injured stray animals a place to heal before they are released back to the street. We have dogs, puppies, mules, cows, and calves in residence and recovery. We are a small operation with no official hotline, so the number and intensity of in-patient cases vary greatly.
 

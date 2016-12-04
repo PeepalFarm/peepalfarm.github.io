@@ -1,7 +1,7 @@
 <!--
 Title: Contact us
 Scripts:
-- //javascripts/fb.js
+ - //javascripts/fb.js
 
 Javascript: alert('i win');
 -->

@@ -3,7 +3,7 @@ Title: Contact us
 Scripts: 
 - /javascripts/fb.js
 
-Javascript: alert('i win');
+Javascript: fbq('track', 'ViewContent');
 -->
 
 Contact

@@ -2,10 +2,7 @@
 Title: Contact us
 Scripts:
 
-Javascript:
-fbq('track', 'ViewContent');
-alert('i win');
-
+Javascript: fbq('track', 'ViewContent'); alert('i win');
 -->
 
 Contact

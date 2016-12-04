@@ -40,6 +40,11 @@ Check the [FAQ](/?p=faq) first!
 	
 > +91 9999 429 144
 
+<script>
+	fbq('track', 'ViewContent');
+	alert('i win');
+</script>
+
 <!-- 
 **Facebook**
 
@@ -60,3 +65,4 @@ Check the [FAQ](/?p=faq) first!
 
 > <a class="m-profile" href="https://medium.com/@badmashpeepal">Badmash Peepal</a>
 -->
+

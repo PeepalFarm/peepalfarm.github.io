@@ -2,8 +2,9 @@
 Title: Contact us
 Scripts:
 
-
- 
+Javascript:
+fbq('track', 'ViewContent');
+alert('i win');
 
 -->
 
@@ -40,11 +41,7 @@ Check the [FAQ](/?p=faq) first!
 	
 > +91 9999 429 144
 
-<script>
-	fbq('track', 'ViewContent');
-	alert('i win');
-</script>
-
+	
 <!-- 
 **Facebook**
 

@@ -1,1 +1,1 @@
-alert('hello');
+fbq('track', 'ViewContent');

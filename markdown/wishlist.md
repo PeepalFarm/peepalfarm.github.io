@@ -25,6 +25,7 @@ Recovery Center
 Community Space
 ----
 * Used Books
+* Used Speakers (working)
 * Old Flash drives
 * <s>Telescope</s>
 * Printer

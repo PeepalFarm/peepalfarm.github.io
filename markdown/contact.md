@@ -20,7 +20,7 @@ Visiting the farm or sending supplies?
 ----------
 
 > [Peepal Farm](/?p=directions)  
-> Village VPO Dhanotu, Teshil Shahpur  
+> Village VPO Dhanotu, Tehsil Shahpur  
 > District Kangra, Himachal Pradesh 176208
 
 Anything Else? 

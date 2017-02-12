@@ -7,30 +7,29 @@ The easiest way to donate is to choose something off of our [Amazon Wishlist]( h
 Clinic and OT
 ----
 * Autoclave
-* LED lights
-* <s>Surgical/Exam tables</s>
 * Collapsible crates
+* Microscope
+* <s>Surgical/Exam tables</s>
 * <s>Metal Buckets</s>
-* Heating lamp bulbs
-* 
+* <s>Heating lamp bulbs</s>
 
 Recovery Center
 ----
 * Collars and Leashes
-* Collapsible puppy pen
-* Large standard shipping crates (airline approved)
+* Dog coats
+* Dog bowls
 * <s>Kong Toys and other Tough toys</s>
 
 
 Community Space
 ----
-* Used Books
-* Used Speakers (working)
+* Old Books
+* Old Speakers 
 * Old Flash drives
+* Old Smart phones/Tablets
 * <s>Telescope</s>
-* Printer
+* <s>Printer</s>
 * <s>Scanner</s>
-* Used Laptops/Smart phones/Tablets
 
 
 

@@ -40,7 +40,7 @@ You will get the experience of living on a farm with a mini international commun
 * Need based stipend available
 
 
-## Farmstay manager
+<strike>## Farmstay manager</strike>
 
 You will have assistance from staff in cooking, cleaning, laundry, getting supplies etc. but you will be responsible for makin sure it all happens and that it happens right.  
 

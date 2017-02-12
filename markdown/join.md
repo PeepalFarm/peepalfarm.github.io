@@ -19,7 +19,7 @@ Vegan meals and accomodation in exchange of 36 hours of work.
 
 Long termer
 --
-Interested in being part of "Badmash Peepal" for long? If one of these [positions](/?p=positions) fancy you, come for work exchange, discuss your vision, hear ours and lets see if there is overlap. 
+Interested in being part of "Peepal Farm" for long? If one of these [positions](/?p=positions) fancy you, come for work exchange, discuss your vision, hear ours and lets see if there is overlap. 
 
 [Paying guest](/?p=farmstay)
 --

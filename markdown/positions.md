@@ -89,4 +89,4 @@ Excellent understating of web standards, HTML5, CSS, JS and understanding of HTT
 * Project based remuneration.
 
 
-<i>More details to come soon, but if the title sounds interesting, [contact us](/?p=contact)!</i>
+<i>If something sounds interesting, [contact us](/?p=contact)!</i>

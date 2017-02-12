@@ -26,15 +26,26 @@ About us
 
 We are a group of loosely knit people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. So for us, good work is helping alleviate suffering of those who can't help themselves. 
 
-Our **[farm]( /?p=farm)** is the home we have built in Himalayan Foothills to accommodate recovering injured stray animals, creatively maladjusted people who want to do good work, and an organic farm to provide a little bit for for all of us.
-
-## Current Mission
-
-It's dual prong. We are doing short term **service** by doing animal welfare, and we are contributing towards long term fixes by encouraging and enabling compassion towards animals. Our methods of choice for that are **[hacktivism](/?p=hacktivism)**, **community organization** and **[good enterprise](/?p=good-enterprise)**.  
+Our **[farm]( /?p=farm)** is the home we have built in Himalayan Foothills to accommodate recovering injured stray animals, people who want to do good work, and an organic garden to provide a little bit for for all of us.
 
 ## Vision
 
-Bring together a group of people which will continue doing and inspiring good work, and also attempt to bring about lasting change via **awareness** (<i>education</i> + <i>culture jamming</i>), **innovation** and **policy**.
+To alleviate animal suffering and eradicate the human behaviors that cause it.
+
+## Current Mission
+
+A space for stray animals to heal and be heard and for people who want to be part of that change, based near Dharamshala, India.
+
+<!--
+## Strategy & Tactics/methodology
+
+Short term **service** by doing animal welfare
+Long term fixes by encouraging and enabling compassion towards animals. 
+
+  Bring together a group of people which will continue doing and inspiring good work, 
+  Also via **awareness** (<i>education</i> + <i>culture jamming</i>), **innovation** and **policy**.
+Our methods of choice for that are **[hacktivism](/?p=hacktivism)**, **community organization** and **[good enterprise](/?p=good-enterprise)**.  
+-->
 
 ## Philosophy
 

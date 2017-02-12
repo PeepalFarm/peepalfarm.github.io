@@ -5,6 +5,9 @@ Title: Join
 -->
 > <center><i>“You decide your own level of involvement.” - Tyler Durden</i></center>
 
+<div class="youtube-player" data-id="dJL3PWM6Dng"></div>
+
+
 [Day visit](/?p=directions)
 --
 If you just want to swing by, say hello and play with the animals. 

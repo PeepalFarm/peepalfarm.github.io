@@ -45,4 +45,4 @@ Your donations will go towards:
 
 **3) By PayPal**
 
-> Send money to <a href='http://buckdrop.com/poetgk5' class='ej_ejc_ithkbx'>namaste@peepalfarm.org</a>
+> We can't accept foreign donations. Support our work by  <a href='http://buckdrop.com/poetgk5' class='ej_ejc_ithkbx'>buying lemongrass</a>.

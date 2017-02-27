@@ -19,10 +19,10 @@ Our farm feeds our community and recovery animals with healthy, organic produce.
 Our presence in the village has been well received and to give back, we have started a few programs to improve the village. 
 
 ## [Hacktivism](/?p=hacktivism)
-Hoaxes. Spoofs. Events. Art. Whatever grabs attention and changes perception. We have ideas, but these things [emerge](https://en.wikipedia.org/wiki/Emergence) depending on how slammed are we, how evey one's feeling and what kind of crowd we got here.
+Hoaxes. Spoofs. Events. Nudges. Art. Whatever grabs attention and changes perception. We have ideas, but these things [emerge](https://en.wikipedia.org/wiki/Emergence) depending on how slammed are we, how evey one's feeling and what kind of crowd we got here.
 
 ## [Good Enterprise](/?p=good-enterprise).
-Our product range in infancy. We are still toying with ideas. We have started with "[cow poop pots](https://blog.badmashpeepal.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.rih78achu)", lemongrass and mint tea. Selling seeds, tofu, hydrosols, cleaners and few other things are in the plans. 
+Our product range in infancy. We are still toying with ideas. We have started with "[cow poop pots](https://blog.peepalfarm.org/how-to-replace-plastic-with-cow-poop-in-5-steps-dff17bec1c66#.rih78achu)", lemongrass and mint tea. Selling seeds, tofu, hydrosols, cleaners and few other things are in the plans. 
 
 ## [ABC Co-operative](/?p=abc)
 Our stray dog spay program. Working with dog feeders, we are creating a lot of "puppy free" pockets. 

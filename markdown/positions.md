@@ -59,7 +59,7 @@ Responsible for developing products, packagaing and sale channels. We believe in
 * You don't have to live at the farm. You can find accomodation in the village, or in Dharamsala or other nearby areas and commute. 
 * Need based stipend and a stake.
 
-## Farm manager
+<strike>## Farm manager</strike>
 
 Responsible for planting, harvesting, nursery, soil enrichment, seed saving, CSA
 

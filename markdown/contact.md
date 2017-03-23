@@ -9,6 +9,16 @@ Javascript: fbq('track', 'ViewContent');
 Contact
 ==========
 
+Rescues
+--------
+**Himachal**  
+	
+> +91 9999 429 144(tel:0919999429144)
+
+**New Delhi**
+
+> +91 9818 566 732(tel:0919818566732)
+
 Usual topics
 --------
 * [Work Exchange](/?p=workexchange)
@@ -33,11 +43,8 @@ Check the [FAQ](/?p=faq) first!
 
 **Landline**  
 	
-> [+91 1892 277009](tel:0911892277009)
+> [+91 1892 277009](tel:0911892277009) (won't be answered 1:30pm - 5:00 pm)
 
-**WhatsApp**  
-	
-> +91 9999 429 144
 
 	
 <!-- 

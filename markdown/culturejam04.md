@@ -4,7 +4,7 @@ Title: Self propogating street art for street dogs "Desi Log Desi Dog" (Local Pe
 
 > <i>This is part our [Desi Log Desi Dog](/?p=desilogdesidog) initiative.</i> An effort to promote adoption of stray dogs in India.
 
-![Graffiti promoting adoption of stray dogs](/images/grafitti2.jpg)
+![Graffiti promoting adoption of stray dogs](/images/grafitti2.JPG)
 
 > Oct 27, 2016
 

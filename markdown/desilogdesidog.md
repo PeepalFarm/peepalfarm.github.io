@@ -10,6 +10,9 @@ Scripts:
 
 ![qobm0bb.jpg](/images/qobm0bb.jpg)
 
+Desi Log Desi Dog
+==
+
 WHAT _is the problem?_
 -----
 > We want people to think of adopting desi dogs (Indian dogs, mostly stray, commonly refered to as 'street dogs") as an option when they want to get a dog. Apart from of trying to get people to see how adopting desi dogs is the compassionate thing to do (awareness), we are trying to make desi dogs permeate the popular culture (culture jamming).

@@ -9,7 +9,9 @@ Title:Peepal Farm
 Farm
 ==========
 
-Our natural, organic farm in Himalayan foothills, near Dharamsala, India the home that we have build to accomodate recovering injured stray animals and creatively maladjusted people who want to do animal welfare and animal rights. 
+Our natural, organic farm in Himalayan foothills, near Dharamshala, India the home that we have build to accomodate recovering injured stray animals and creatively maladjusted people who want to do animal welfare and animal rights. 
+
+We were already doing animal welfare, and decided that we should do it in a way that we can involve and inspire others. To also temper the suffering with beauty so people who are not used to seeing it, can be exposed more to the animal rights issues.
 
 Instead of putting in a swimming pool, we built a cow shed. Instead of media room, we have a clinic. Instead of having master bedrooms, we made rooms for those who want to come here and live a simple, compassionate, and low impact life. The farm is open to people who want to live purposefully and do good work without having to worry about food or accommodation. 
 

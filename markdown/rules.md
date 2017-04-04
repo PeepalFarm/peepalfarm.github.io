@@ -23,11 +23,11 @@ Rules
 
 * Please remove your shoes before entering the kitchen.
 
-* Please stay on the paths lest you squash a wee plant.
+* Please stay on the paths lest you squash a wee plant. This includes walking on the porch instead of in the grass. Porch: Walking. Grass: Sitting.
 
 * People who are here as part of the work exchange program, work 36 hours per week (6 hour days, 6 days per week).
 
-* You sign out in the book before leaving the property for more than an hour. That way we know where you are, when you plan to return, and can find you if you fall off a cliff somewhere. Because we care!
+* Please sign out in the book before leaving the property for more than an hour. That way we know where you are, when you plan to return, and can find you if you fall off a cliff somewhere. Because we care!
 
 * Leave things as you found them, including the community shower and toilet. The community is responsible for cleaning the community toilet. You want to be part of the community, right? Please be sure to clean behind you and if you see the toilet needs a scrub, scrub it! Also pick your hair out of the shower drain. GROSS.
 
@@ -57,9 +57,9 @@ Rules
 
 * If you are going in or out of dog area make sure the first gate is latched behind you before opening the next one. One of the dogs for adoption has it in for the house puppies and she is faster than us.
 
-* Please be respectful of local custom. Particularly for women and femme folks (sorry, I know it sucks), this means how you dress is a reflection on you, every other person that will work here in the future, and the residents who live here. Our actions don’t live in a bubble.
+* Please be respectful of local custom. Particularly for women and femme folks (sorry, I know it sucks) but also for men, this means how you dress is a reflection on you, every other person that will work here in the future, and the residents who live here. Our actions don’t live in a bubble.
 
-Be mindful that sleeveless shirts, short shorts, shorts at all, lots of chest, and tight clothing are considered risque to our neighbors. For your safety, the safety of others, and respect for our neighbors please dress conservatively.
+Be mindful that sleeveless shirts, short shorts (above the knee), low cut shirts, and tight or see-through clothing are considered risque to our neighbors. For your safety, the safety of others, and respect for our neighbors please dress conservatively.
 
 * Breaks during work are of course permitted, but please do not stop to chat on the phone, use your laptop, take frequent smoke breaks, or go upstairs in work hours (unless as part of your task). 
 

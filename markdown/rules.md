@@ -7,7 +7,7 @@ Rules
 
 * No smoking or eating inside the rooms. You can smoke by the cooking stove on the East side of the building.
 
-* No aggressive language.
+* Do not bring rescues to the farm on your own. If you see an injured animal, please inform us and we will investigate it.
 
 * No animals are allowed in the rooms unless otherwise stated.
 

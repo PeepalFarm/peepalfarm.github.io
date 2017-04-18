@@ -38,9 +38,13 @@
 
 
 	function loadContent(req,pushstate,firstload) {
-
+		
 		if (pushstate) {
-			window.history.pushState({ url: req }, "", req); 
+			// lastPushed is a global state maintained so that we don't push things in history in case of page refresh
+			if (lastPushed!=req) {
+				window.history.pushState({ url: req }, "", req);
+			}
+			lastPushed=req;
 		}
 		
 		if (req=="/") {

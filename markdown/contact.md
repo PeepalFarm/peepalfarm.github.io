@@ -13,11 +13,11 @@ Rescues
 --------
 **Himachal**  
 	
-> +91 9999 429 144(tel:0919999429144)
+> [+91 9999 429 144](tel:0919999429144) (WhatsApp preferred; We are in a bad signal area)
 
 **New Delhi**
 
-> +91 9818 566 732(tel:0919818566732)
+> [+91 9818 566 732](tel:0919818566732)
 
 Usual topics
 --------
@@ -43,7 +43,7 @@ Check the [FAQ](/?p=faq) first!
 
 **Landline**  
 	
-> [+91 1892 277009](tel:0911892277009) (won't be answered 1:30pm - 5:00 pm)
+> [+91 1892 277009](tel:0911892277009) (Call between 9:00am and 12:30pm, or between 5:00pm and 7:00pm)
 
 
 	

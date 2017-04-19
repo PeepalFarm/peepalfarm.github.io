@@ -11,9 +11,10 @@ Contact
 
 Rescues
 --------
+
 **Himachal**  
 	
-> [+91 9999 429 144](tel:0919999429144) (WhatsApp preferred; We are in a bad signal area)
+> [+91 9999 429 144](tel:0919999429144) (WhatsApp preferred; we are in a bad signal area)
 
 **New Delhi**
 
@@ -21,21 +22,29 @@ Rescues
 
 Usual topics
 --------
-* [Work Exchange](/?p=workexchange)
-* [Volunteer Program](/?p=volunteer)
-* [Paying guest @ our farm-stay](/?p=farmstay)
-* [Stray dog sterilization and transporation of resuce in Delhi](/?p=abc)
+
+**Himachal**  
+
+> * [Work Exchange](/?p=workexchange)
+> * [Volunteering](/?p=volunteer)
+> * [Paying guest @ our farm-stay](/?p=farmstay)
+
+**New Delhi**
+
+> * [Stray dog sterilization](/?p=abc)
+
  
-Visiting the farm or sending supplies?
+Visiting us or sending supplies?
 ----------
 
 > [Peepal Farm](/?p=directions)  
 > Village VPO Dhanotu, Tehsil Shahpur  
 > District Kangra, Himachal Pradesh 176208
 
+
 Anything Else? 
 ----------
-Check the [FAQ](/?p=faq) first!
+> Check the [FAQ](/?p=faq) first!
 
 **E-mail**  (preferred)
 

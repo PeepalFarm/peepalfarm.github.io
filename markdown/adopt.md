@@ -7,5 +7,9 @@ Scripts:
 Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#sponsor').hide(); } else { setTimeout(checkForAds, 50); }}; jQuery(document).ready(function() { checkForAds(); });
 
 -->
+> <center><i>"Homeless dogs don't need your pity; they need your love."</i></center>
 
-<div id="flickrembed"></div><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small>
+<div id="flickrembed">
+  <center>Loading...</center>
+</div>
+<small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small>

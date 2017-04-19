@@ -3,7 +3,7 @@
 Title: Peepal Farm Products
 
 -->
-> <center>"Buy less, buy well, make it last!"</center>
+> <center><i>"Buy less, buy well, make it last!"</i></center>
 
 Coming soon!
 --

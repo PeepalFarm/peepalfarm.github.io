@@ -63,6 +63,8 @@ Be mindful that sleeveless shirts, short shorts (above the knee), low cut shirts
 
 * Please arrive at the farm before 7 pm. If you cannot make it to the farm by 7pm, plan ahead to stay in a hotel. This includes on your day off.
 
+* On your final day, check out is at 11:30 am.
+
 * Remember that we are here to alleviate the suffering of others. This is our philosophy. Every action should be done with that in mind.
 
 If you are breaking rules we will give you a warning. If you continue to not follow the rules and instructions from staff you will be asked to leave. 

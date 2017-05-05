@@ -1,21 +1,23 @@
-Please [contact us](/?p=contact) to schedule a visit.
+Please [email us at namaste@peepalfarm.org](mailto:namaste@peepalfarm.org) at least 24 hours in advance to schedule a visit.
 =====
 <i>Like anyone else, we are sometimes not at home!</i>
-
-
 
 ## Timings
 
 **Monday** to **Saturday**
-> 10:00 AM - 01:00 PM
+> 9:30 AM - 12:00 PM
 
-> 04:00 PM - 07:00 PM
+> 04:00 PM - 06:00 PM
+
+<!--
 
 ## Meals
 
 We serve vegan meals @ Rs. 100 per person.
 Lunch is at 1:00 PM. 
 Dinner is at 7:00
+
+-->
 
 ## What to bring
 
@@ -26,7 +28,7 @@ Day visits are mostly spent hanging out with the animals. Best way to friend the
 * Jaggery
 * Carrots
 * Apples
-* Leafy greens like spinach and mustard
+* Cabbage
 
 Please avoid bringing biscuits, or other packaged food items! 
 
@@ -61,4 +63,4 @@ Continue uphill past the Home Guard center. When you see the Dhanotu bus stop on
 ### Train
 From the train station in Pathankot, take a taxi towards Dharamsala. You will pass Shahpur and then Rait, then after you cross the next bridge (at Chambi) take the immediate left to go uphill. 
 
-Continue uphill past the Home Guard center. When you see the Dhanotu bus stop on the left (next to the temple) turn right. Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [Contact us](/?p=contact "Contact" ) or just ask anyone for the "animal place".
+Continue uphill past the Home Guard center. When you see the Dhanotu bus stop on the left (next to the temple) turn right. Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [Contact us](/?p=contact "Contact" ) or just ask anyone for the "animal farm".

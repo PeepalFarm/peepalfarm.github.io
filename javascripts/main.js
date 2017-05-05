@@ -76,7 +76,7 @@
 			
 			
 			//$("#edit").html('<a href="//prose.io/#'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit on Prose.IO</a> | <a href="//github.com/'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit on Github</a>"');
-			$("#edit").html('<a href="//github.com/'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit</a>"');
+			$("#edit").html('<p><a href="//github.com/'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit</a></p>');
 			
 			$("#edit").show();
 			

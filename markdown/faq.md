@@ -4,7 +4,7 @@ Title: Frequently Asked Questions
 
 -->
 
-General Frequently Asked Questions
+Frequently Asked Questions
 =========
 
 ## What should I carry?
@@ -19,17 +19,11 @@ Check out [directions](/?p=directions) to the farm and hours for arrival.
 ## Do you provide a pick-up?
 Sorry, no. However, you can get taxis and buses from bus station in Dharamsala, and if you are coming via flight you can arrange a pickup from a taxi service or take two local buses. We can provide you a few phone numbers.
 
+## Do you charge for the volunteering?
+There is no charge for volunteering, but we expect you to take seriously the work exchange commitment of 36 hours per week for two weeks. You are working in exchange for accommodation and meals. If for any reason you can't commit to it, and want a flexible schedule you will need to pay Rs. 500 per night to cover your accomodation and meals. If you are participating in work exhcnage, and are sick and unable to work on days scheduled to work, you may consider the day as your day off. If you have no days off available for the remainder of your stay, you will need to pay Rs. 500 per night.
 
-Work Exchange Frequently Asked Questions
-=========
-
-## Do you charge for the work exchange program?
-We do not charge any money, but we expect you to take seriously the commitment of 36 hours per week. You are working in exchange for accommodation and meals.
-
-We provide 3 vegan meals on all of your working days. <!-- Meals on your day off are your responsibility. You can purchase meals (on your days off, including your arrival and departure day) for Rs 100 per meal.-->If you are sick and unable to work on days scheduled to work, you may consider the day as your day off. If you have no days off available for the remainder of your stay, you can pay a [non-working guest rate](/?p=farmstay) for food and lodging.
-
-## How many people participate in the work exchange at one time?
-Although it varies depending on available positions. We usually have two people in work exchange at one time. Housing is shared. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!
+## How many people volunteer at one time?
+It varies depending on the season. We usually have 2 - 3 people volunteering at one time. Housing is shared. Sometimes you may be the only one, so please be prepared to get to know staff, locals, volunteers, and visitors!
 
 ## What should I bring anything for the animals and the farm?
 Thanks for asking! Here is our list of needed [supplies](/?p=supplies).
@@ -54,10 +48,11 @@ The nearest cell phone tower is still pretty far, so the signal is spotty but no
 Yes. 
 
 ## How will I do laundry?
-You can either do your laundry by hand (soap not provided) in our bucket or you can pay for a machine wash at Rs 65/kg.
+You will need do your laundry by hand (soap not provided) in our bucket.
 
 ## Are we allowed to cook our own food?
 No. We do have an electric kettle available to you for boiling water.
+
 
 **Please read our [Rules](/?p=rules) before coming!**
 

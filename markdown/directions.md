@@ -1,6 +1,6 @@
-Please email us at [namaste@peepalfarm.org](mailto:namaste@peepalfarm.org) at least 24 hours in advance to schedule a visit.
+Please email us at [namaste@peepalfarm.org](mailto:namaste@peepalfarm.org) at least 24 hours in advance to schedule a visit!
 =====
-<i>Like anyone else, we are sometimes not at home!</i>
+<i>Like anyone else, we are sometimes not at home :)</i>
 
 ## Timings
 

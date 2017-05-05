@@ -75,7 +75,8 @@
 			$('#nav').blur(); // tried for mobile, not working
 			
 			
-			$("#edit").html('<a href="//prose.io/#'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit on Prose.IO</a> | <a href="//github.com/'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit on Github</a>"');
+			//$("#edit").html('<a href="//prose.io/#'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit on Prose.IO</a> | <a href="//github.com/'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit on Github</a>"');
+			$("#edit").html('<a href="//github.com/'+user_name+'/'+repo_name+'/edit/master/'+fn+'">Edit</a>"');
 			
 			$("#edit").show();
 			

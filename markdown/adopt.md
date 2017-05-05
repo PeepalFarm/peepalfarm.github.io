@@ -11,6 +11,6 @@ Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#spo
 
 <div id="flickrembed">
  <center>
-![Loading...](/images/animalloading.gif)"
+  <img title="Loading animation" alt="Loading..." src="/images/animalloading.gif" style="width:200px; height:200px;"/>
  </center>
 </div>

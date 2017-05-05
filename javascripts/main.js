@@ -52,7 +52,7 @@
 		} else {
 				// parse the value of p
 				if (getURLParameter("p",req)) {
-					fn=md_path+getURLParameter("p",req)+".md";
+					fn=md_path+getURLParameter("p",req).replace(/[^0-9a-z]/gi, '')+".md";
 				} else {
 					fn=md_path+index_md; // some garbage querystring came with index page load request, does not have p. load home page
 				}		

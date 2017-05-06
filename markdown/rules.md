@@ -1,7 +1,7 @@
 Rules
 ----------
 
-* If for any reason things are not working out, we reserve the right to ask you to leave on 24 hours notice.
+* If for any reason things are not working out, we reserve the right to ask you to leave.
 
 * No drinking or drunkenness at the farm.
 
@@ -57,13 +57,15 @@ Rules
 
 * Please be respectful of local custom. Particularly for women and femme folks but also for men, this means how you dress is a reflection on you, every other person that will work here in the future, and the residents who live here. Our actions don’t live in a bubble.
 
-Be mindful that sleeveless shirts, short shorts (above the knee), low cut shirts, and tight or see-through clothing are considered risque to our neighbors. For your safety, the safety of others, and respect for our neighbors please dress conservatively. If you do not respect this rule after being informed you will be asked to leave.
+Be mindful that sleeveless shirts, short shorts (above the knee), low cut shirts, and tight or see-through clothing are considered risque to our neighbors. For your safety, the safety of others, and respect for our neighbors please dress conservatively. What might be normal for you, might be seen as weird or even offensive in rural India. Especially dressing and touching are sensitive topics. If you do not respect this rule after being informed you will be asked to leave.
 
 * Breaks during work are of course permitted, but please do not stop to chat on the phone, use your laptop, take frequent smoke breaks, or go upstairs in work hours (unless as part of your task). 
 
-* Please arrive at the farm before 7 pm. If you cannot make it to the farm by 7pm, plan ahead to stay in a hotel. This includes on your day off.
+* Please arrive at the farm between 9:30 am and 12:00 pm, or between 4:00 pm and 6:00 pm. If you cannot make it to the farm in these slots, plan ahead to stay in a hotel. 
 
-* On your final day, check out is at 11:30 am.
+* On your day off, please be back by the farm before 7pm.
+
+* On your final day, check out is between 9:30 am and 12:00pm.
 
 * Remember that we are here to alleviate the suffering of others. This is our philosophy. Every action should be done with that in mind.
 

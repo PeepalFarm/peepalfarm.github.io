@@ -1,17 +1,19 @@
 <!--
 
-Title: Join
+Title: Visit
 
 -->
 > <center><i>“You decide your own level of involvement.” - Tyler Durden</i></center>
 
+<!--
 <div class="youtube-player" data-id="dJL3PWM6Dng"></div>
-
+-->
 
 [Day visit](/?p=directions)
 --
 If you just want to swing by, say hello and play with the animals. 
 
+<!--
 [Volunteer](/?p=volunteer)
 --
 Got 3 days or more, and want to learn about animal welfare and farm work?
@@ -23,6 +25,7 @@ Vegan meals and accomodation in exchange of 36 hours of work.
 Long termer
 --
 Interested in being part of "Peepal Farm" for long? If one of these [positions](/?p=positions) fancy you, come for work exchange, discuss your vision, hear ours and lets see if there is overlap. 
+-->
 
 [Paying guest](/?p=farmstay)
 --

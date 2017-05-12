@@ -7,7 +7,7 @@ Please email us at [namaste@peepalfarm.org](mailto:namaste@peepalfarm.org) at le
 **Monday** to **Saturday**
 > 9:30 AM - 12:00 PM
 
-> 04:00 PM - 06:00 PM
+<!-- > 04:00 PM - 06:00 PM -->
 
 <!--
 

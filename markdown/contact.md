@@ -25,9 +25,7 @@ Usual topics
 
 **Himachal**  
 
-> * [Work Exchange](/?p=workexchange)
 > * [Volunteering](/?p=volunteer)
-> * [Paying guest @ our farm-stay](/?p=farmstay)
 
 **New Delhi**
 
@@ -52,7 +50,7 @@ Anything Else?
 
 **Landline**  
 	
-> [+91 1892 277009](tel:0911892277009) (Call between 9:00am and 12:30pm, or between 5:00pm and 7:00pm)
+> [+91 1892 277009](tel:0911892277009) (Call between 9:30am and 12:30pm)
 
 
 	

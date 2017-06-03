@@ -33,7 +33,9 @@ Your donations will go towards:
 > Bank Name: Axis Bank Ltd.<br/>
 > Account Name: Peepal Farm Foundation<br/>
 > Account Number: 916020057204004<br/>
+> Account type: Current<br/>
 > IFS Code: UTIB0002501<br/>
+
 
 **2) By credit or debit card:**
 

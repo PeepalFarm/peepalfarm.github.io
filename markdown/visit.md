@@ -8,7 +8,9 @@ Title: Visit
 <!--
 <div class="youtube-player" data-id="dJL3PWM6Dng"></div>
 -->
-<center>[Click to check the weather before you head down!](https://www.google.co.in/search?q=dhanotu+weather)</center>
+<center>
+[Click to check the weather before you head down!](https://www.google.co.in/search?q=dhanotu+weather)
+</center>
 
 [Day visit](/?p=directions)
 --

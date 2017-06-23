@@ -18,6 +18,9 @@ Our farm feeds us and recovery animals with healthy, organic produce. We grow so
 ## [Products](http://www.facebook.com/peepalfarm/shop)
 We sell what we either grow or procure for ourselves, or what we make for ourselves in our kitchen. Of course all products are vegan. Selling products helps us get word out about our work and expose more people to the idea of veganism. 
 
+## [Farmstay](/?p=farmstay)
+Our farmstay gives people an opportunity to spend time with dogs, cows and mules and experience farm life and animal welfare for a bit. It gives non vegans a taste of vegan life and lets them expereince how their body feels on a vegan diet, and it gives vegans a sanctuary for a few days where they are surrounded only by people who want to help animals. 
+
 ## [Hacktivism](/?p=hacktivism)
 Hoaxes. Spoofs. Events. Nudges. Art. Whatever grabs attention and changes perception. 
 

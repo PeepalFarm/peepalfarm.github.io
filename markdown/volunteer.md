@@ -16,9 +16,10 @@ Volunteer
 We provide accomodation and 3 vegan meals in exchange for 36 hours of work every week. You work 6 hours for 6 days and get one day off each week. The day you arrive is your first day off. We ask for a minimum 2 week commitment. If for any reason you can't commit to this, and want a flexible schedule you will need to pay Rs. 500 per night to cover your accomodation and meals.
 -->
 
-The work you will do revolves around **Animal Enrichment**, **Farm work**, and **Housekeeping**. More specifically, assisting in [stray animal recovery center](/?p=recovery) (dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, playing with dogs) and assisting in the [farm](/?p=farm) (weeding, mulching, preparing new farm patches, digging, planting, moving rocks). You might also be work alongside a staff member to assist with animal treatments, kitchen tasks, or construction projects
+The work you will do revolves around **Animal Enrichment**, **Farm work**, and **Housekeeping**. More specifically, assisting in [stray animal recovery center](/?p=recovery) (dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, playing with dogs) and assisting in the [farm](/?p=farm) (weeding, mulching, preparing new farm patches, digging, planting, moving rocks). You might also be work alongside a staff member to assist with animal treatments, kitchen tasks, or construction projects.
 
-Apart from these, you're also welcome to use your skills to help us do more good work or improve the space. People have contributed by doing art all around the farm, making videos, carpentry, making utility items like a rocket stove, and doing [hacktivism](/?p=hacktivism)!
+Apart from these, you're also welcome to use your skills to help us do more good work or improve the space. People have contributed by doing art all around the farm, making videos, carpentry, making utility items like a rocket stove, and doing [hacktivism](/?p=hacktivism)!If you are a professional who wants to do a specific project with your expertise please describe your skill and project idea in our form when you apply.
+
 
 
 Our Expectations
@@ -28,13 +29,13 @@ This is a karma yoga place. We expect people to be honest, calm, respectful, res
 
 We expect people to understand that this is rural India and not do things which offends local sensibilities.
 
-This is our home and this is our life, which we are sharing with any one who wants to do good work. If you realize that, and understand that this will not only be your work place during your stay, but will also be your home, you will fit right in.
+This is our home and this is our life, which we are sharing with anyone who wants to do good work. If you realize that, and understand that this will not only be your work place during your stay, but will also be your home, you will fit right in.
 
 If you are looking for a getaway and not for an opportunity to help animals, then this is a not the place for you.
 
 Routine
 -----------
-The farm operates on a schedule and routine. Work happens in three shifts and meals are at specific times. Volunteers should arrive and depart within certain times, and will be expected to follow the schedule while at the farm. We provide shared accomodation and 3 vegan meals for Rs. 500 a night.
+The farm operates on a schedule and routine. Work happens in three shifts and meals are at specific times. Volunteers should arrive and depart within certain times, and will be expected to follow the schedule while at the farm. We provide shared accommodation and 3 vegan meals for Rs. 500 a night (this fee can be waived for professionals who we partner with for a specific project).
 
 If you find the same thing for an extended period boring instead of meditative, or having a routine is not something you like, then this is not a good fit for you.
 

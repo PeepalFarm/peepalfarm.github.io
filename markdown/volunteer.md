@@ -18,7 +18,7 @@ We provide accomodation and 3 vegan meals in exchange for 36 hours of work every
 
 The work you will do revolves around **Animal Enrichment**, **Farm work**, and **Housekeeping**. More specifically, assisting in [stray animal recovery center](/?p=recovery) (dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, playing with dogs) and assisting in the [farm](/?p=farm) (weeding, mulching, preparing new farm patches, digging, planting, moving rocks). You might also be work alongside a staff member to assist with animal treatments, kitchen tasks, or construction projects.
 
-Apart from these, you're also welcome to use your skills to help us do more good work or improve the space. People have contributed by doing art all around the farm, making videos, carpentry, making utility items like a rocket stove, and doing [hacktivism](/?p=hacktivism)!If you are a professional who wants to do a specific project with your expertise please describe your skill and project idea in our form when you apply.
+Apart from these, you're also welcome to use your skills to help us do more good work or improve the space. People have contributed by doing art all around the farm, making videos, carpentry, making utility items like a rocket stove, and doing [hacktivism](/?p=hacktivism)!If you are a professional who wants to do a specific project with your expertise please describe your skill and project idea in our form when you apply. You can also see the kind of projects we need you for [here](https://www.idealist.org/en/nonprofit/6fa432fe6a2343a58e4050fea0d85a3f-peepal-farm-dharamsala).
 
 
 

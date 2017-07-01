@@ -6,9 +6,9 @@ The easiest way to donate is to choose something off of our [Amazon Wishlist]( h
 
 Clinic and OT
 ----
-* Autoclave
 * Collapsible crates
-* Microscope
+* <s>Autoclave</s>
+* <s>Microscope</s>
 * <s>Surgical/Exam tables</s>
 * <s>Metal Buckets</s>
 * <s>Heating lamp bulbs</s>

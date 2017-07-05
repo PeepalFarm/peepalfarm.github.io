@@ -22,10 +22,11 @@ Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#spo
 
 If you are interested in adopting one of our dogs and you are in India, we have many loving pups in need of happy, forever homes. All of our dogs for adoption are healthy, and up to date on vaccines and deworming.
 
-Please fill out this form and we will contact you by email (please add 'namaste@peepalfarm.org' to your NOT spam list)!
-
-FORM
-
+To get started, email us at namaste@peepalfarm.org with your:
+1) Your Name
+2) Phone Number
+3) Street Address
+4) Name of Dog you want to Adopt
 
 ## <b>International Adoptions</b>
 
@@ -49,7 +50,8 @@ FLIGHT VOLUNTEER
 | USA/Canada  | 600-900 USD  | Around 1 month |
 | Europe/UK  | 800 - 1000 Euro  | 4 - 6 Months  |
 
-To begin the adoption process, please fill out this form and we will contact you by email (please add 'namaste@peepalfarm.org' to your NOT spam list)!
-
-FORM
-
+To get started, email us at namaste@peepalfarm.org with your:
+1) Your Name
+2) Phone Number
+3) Street Address (including country)
+4) Name of Dog you want to Adopt

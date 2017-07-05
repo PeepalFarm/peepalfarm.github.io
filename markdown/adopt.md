@@ -10,9 +10,42 @@ Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#spo
 > <center><i>"Homeless dogs don't need your pity; they need your love."</i></center>
 
 <b>OUR DOGS FOR ADOPTION</b>
+======
 
 <div id="flickrembed">
  <center>
   <img title="Loading animation" alt="Loading..." src="/images/animalloading.gif" style="width:200px; height:200px;"/>
  </center>
 </div>
+
+## <b>Domestic Adoptions (India)</b>
+
+If you are interested in adopting one of our dogs and you are in India, we have many loving pups in need of happy, forever homes. All of our dogs for adoption are healthy, and up to date on vaccines and deworming.
+
+Please fill out this form and we will contact you by email (please add 'namaste@peepalfarm.org' to your NOT spam list)!
+
+FORM
+
+
+## <b>International Adoptions</b>
+
+Our international adoptions program gives you the opportunity to provide a safe and happy home to one of our rescued dogs, no matter where you live. These puppies cannot be returned to the street because of health or age, and so need to find permanent, loving homes so that we can keep our doors open to new animals in need of rescue. All of our dogs for adoption are healthy, and up to date on vaccines and deworming.
+
+Before they fly, we do the necessary paperwork, microchipping, and flight arrangements. For dogs who are old enough we also do their sterilization surgery and necessary blood work. We require a scan of your passport and driver's license, your phone number, and you must pick the dog(s) up from the airport.
+
+Cost breakdown:
+
+| Country  | Cargo Costs | Timescale |
+| ------------- | ------------- | ------------- |
+| USA/Canada  | 800 - 1100 USD  | Around 1 Month  |
+| Europe/UK  | 1400 - 1800 Euro  | 4 - 6 Months  |
+
+| Country  | Flight Volunteer Costs | Timescale |
+| ------------- | ------------- | ------------- |
+| USA/Canada  | 600-900 USD  | Around 1 month |
+| Europe/UK  | 800 - 1000 Euro  | 4 - 6 Months  |
+
+To begin the adoption process, please fill out this form and we will contact you by email (please add 'namaste@peepalfarm.org' to your NOT spam list)!
+
+FORM
+

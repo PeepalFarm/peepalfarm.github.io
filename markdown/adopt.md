@@ -9,6 +9,8 @@ Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#spo
 -->
 > <center><i>"Homeless dogs don't need your pity; they need your love."</i></center>
 
+<b>OUR DOGS FOR ADOPTION</b>
+
 <div id="flickrembed">
  <center>
   <img title="Loading animation" alt="Loading..." src="/images/animalloading.gif" style="width:200px; height:200px;"/>

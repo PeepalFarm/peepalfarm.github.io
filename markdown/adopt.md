@@ -33,14 +33,18 @@ Our international adoptions program gives you the opportunity to provide a safe 
 
 Before they fly, we do the necessary paperwork, microchipping, and flight arrangements. For dogs who are old enough we also do their sterilization surgery and necessary blood work. We require a scan of your passport and driver's license, your phone number, and you must pick the dog(s) up from the airport.
 
-Cost breakdown:
+<b>Cost breakdown:</b>
+
+CARGO
 
 | Country  | Cargo Costs | Timescale |
 | :---: | :---: | :---: |
 | USA/Canada  | 800 - 1100 USD  | Around 1 Month  |
 | Europe/UK  | 1400 - 1800 Euro  | 4 - 6 Months  |
 
-| Country  | Flight Volunteer Costs | Timescale |
+FLIGHT VOLUNTEER
+
+| Country  | Volunteer Costs | Timescale |
 | :---: | :---: | :---: |
 | USA/Canada  | 600-900 USD  | Around 1 month |
 | Europe/UK  | 800 - 1000 Euro  | 4 - 6 Months  |

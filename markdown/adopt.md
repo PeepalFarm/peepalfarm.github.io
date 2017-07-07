@@ -53,5 +53,5 @@ FLIGHT VOLUNTEER
 To get started, email us at namaste@peepalfarm.org with your:
 1) Your Name
 2) Phone Number
-3) Street Address (including country)
+3) Street Address
 4) Name of Dog you want to Adopt

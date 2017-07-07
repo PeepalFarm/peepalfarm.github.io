@@ -40,16 +40,16 @@ CARGO
 
 | Country | Cargo Costs | Timescale |
 |:--------:|:--------:|:--------:|
-| USA/CanadA  | 800 - 1100 USD  | Around 1 Month  |
-| Europe/UK  | 1400 - 1800 Euro  | 4 - 6 Months  |
+| USA/Canada | 800 - 1100 USD | Around 1 Month |
+| Europe/UK | 1400 - 1800 Euro | 4 - 6 Months |
 
 
 FLIGHT VOLUNTEER
 
 | Country  | Volunteer Costs | Timescale |
 |:--------:|:--------:|:--------:|
-| USA/Canada  | 600-900 USD  | Around 1 month |
-| Europe/UK  | 800 - 1000 Euro  | 4 - 6 Months  |
+| USA/Canada | 600-900 USD | Around 1 month |
+| Europe/UK | 800 - 1000 Euro | 4 - 6 Months |
 
 To get started, email us at namaste@peepalfarm.org with your:
 1) Your Name

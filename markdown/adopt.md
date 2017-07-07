@@ -22,11 +22,8 @@ Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#spo
 
 If you are interested in adopting one of our dogs and you are in India, we have many loving pups in need of happy, forever homes. All of our dogs for adoption are healthy, and up to date on vaccines and deworming.
 
-To get started, email us at namaste@peepalfarm.org with your:
-1) Your Name
-2) Phone Number
-3) Street Address
-4) Name of Dog you want to Adopt
+To get started, please fill out a <a href='https://goo.gl/forms/qBiWrmfDxJKk3DqG2' class='ej_ejc_ithkbx'>Domestic Adoptions Form</a>.
+
 
 ## <b>International Adoptions</b>
 
@@ -38,13 +35,15 @@ Before they fly, we do the necessary paperwork, microchipping, and flight arrang
 
 CARGO
 
+
 | Country | Cargo Costs | Timescale |
 |:--------:|:--------:|:--------:|
 | USA/Canada | 800 - 1100 USD | Around 1 Month |
 | Europe/UK | 1400 - 1800 Euro | 4 - 6 Months |
 
 
-FLIGHT VOLUNTEER
+WITH A FLIGHT VOLUNTEER
+
 
 | Country  | Volunteer Costs | Timescale |
 |:--------:|:--------:|:--------:|

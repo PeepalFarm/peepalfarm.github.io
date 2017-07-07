@@ -43,6 +43,50 @@ CARGO
 | USA/Canada  | 800 - 1100 USD  | Around 1 Month  |
 | Europe/UK  | 1400 - 1800 Euro  | 4 - 6 Months  |
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Cargo Costs</th>
+    <th>Timescale</th>
+  </tr>
+  <tr>
+    <td>USA/Canada</td>
+    <td>800 - 1100 USD</td>
+    <td>Around 1 Month</td>
+  </tr>
+  <tr>
+    <td>Europe/UK</td>
+    <td>1400 - 1800 Euro</td>
+    <td>4 - 6 Months</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 FLIGHT VOLUNTEER
 
 | Country  | Volunteer Costs | Timescale |

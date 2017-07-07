@@ -51,8 +51,4 @@ FLIGHT VOLUNTEER
 | USA/Canada | 600-900 USD | Around 1 month |
 | Europe/UK | 800 - 1000 Euro | 4 - 6 Months |
 
-To get started, email us at namaste@peepalfarm.org with your:
-1) Your Name
-2) Phone Number
-3) Street Address
-4) Name of Dog you want to Adopt
+To get started, please fill out an <a href='https://goo.gl/forms/uOWLwk4TJsoqJXLV2' class='ej_ejc_ithkbx'>International Adoptions Form</a>.

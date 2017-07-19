@@ -25,6 +25,8 @@ Shippable
 * Exam sleeves (for large animals)
 * Surgical gloves (size 6.5, 7.0, 7.5)
 * Neem oil
+* Zerokeet Dip
+* Charmaid Tablets
 * Heartgard dewormers
 * Vet Wrap
 

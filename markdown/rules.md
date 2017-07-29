@@ -27,15 +27,13 @@ Rules
 
 * Please stay on the paths. This includes walking on the porch instead of in the grass.
 
-* People who are here as part of the work exchange program, work 36 hours per week (6 hour days, 6 days per week).
-
 * Leave things as you found them, including the community shower and toilet. The community is responsible for cleaning the community toilet. Please be sure to clean behind you and if you see the toilet needs a scrub, scrub it! Also pick your hair out of the shower drain. GROSS.
 
 * Please throw used toilet paper in the bin in the bathroom NOT in the toilet! We will have a clogged up septic and you will have to fix it.
 
 * If you generate any non-recyclable or non-biodegradable trash you must store it and take it with you when you leave.
 
-* Respect staff space. The staff rooms, staff toilet, and staff shower are their space. Please do not use them (The only exception is doing laundry in the tusla in the staff shower).
+* Respect staff space. The staff rooms, staff toilet, and staff shower are their space. Please do not use them.
 
 * On the day you arrive and the day that you leave please sun your blankets and clean your room.
 
@@ -59,13 +57,9 @@ Rules
 
 Be mindful that sleeveless shirts, short shorts (above the knee), low cut shirts, and tight or see-through clothing are considered risque to our neighbors. For your safety, the safety of others, and respect for our neighbors please dress conservatively. What might be normal for you, might be seen as weird or even offensive in rural India. Especially dressing and touching are sensitive topics. If you do not respect this rule after being informed you will be asked to leave.
 
-* Breaks during work are of course permitted, but please do not stop to chat on the phone, use your laptop, take frequent smoke breaks, or go upstairs in work hours (unless as part of your task). 
-
 * Please arrive at the farm between 9:30 am and 12:00 pm, or between 4:00 pm and 6:00 pm. If you cannot make it to the farm in these slots, plan ahead to stay in a hotel. 
 
 * On your day off, please be back by the farm before 7pm.
-
-* On your final day, check out is between 9:30 am and 12:00pm.
 
 * Remember that we are here to alleviate the suffering of others. This is our philosophy. Every action should be done with that in mind.
 

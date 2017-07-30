@@ -29,7 +29,7 @@ Anything Else?
 
 **E-mail**  (preferred)
 
-> [namaste@peepalfarm.org](mailto:namaste@peepalfarm.org)
+> [peepalfarm@gmail.com](mailto:peepalfarm@gmail.com)
 
 **Landline**  
 	

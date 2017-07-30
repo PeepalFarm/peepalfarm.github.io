@@ -34,7 +34,7 @@ To alleviate animal suffering and eradicate the human behaviors that cause it.
 
 ## Current Mission
 
-A space for stray animals to heal and be heard and for people who want to be part of that change, based near Dharamshala, India.
+A space for stray animals to heal and be heard and for people who want to be part of that change, based near Dharamsala, Himachal Pradesh, India.
 
 <!--
 ## Strategy & Tactics/methodology

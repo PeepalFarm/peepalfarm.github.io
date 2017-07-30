@@ -12,7 +12,7 @@ Contact
 Rescues
 --------
 	
-> [+91 9999 429 144](tel:0919999429144) (WhatsApp preferred; we are in a bad signal area)
+> [+91 9999 429 144](tel:0919999429144) (if unable to reach, leave a WhatsApp message)
 
  
 Visiting us or sending supplies?

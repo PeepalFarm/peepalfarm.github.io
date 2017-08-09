@@ -38,7 +38,7 @@ CARGO
 
 
 | Country | Cargo Costs | Timescale |
-|:--------:|:--------:|:--------:|
+|--------|--------|--------|
 | USA/Canada | 800 - 1100 USD | Around 1 Month |
 | Europe/UK | 1400 - 1800 Euro | 4 - 6 Months |
 
@@ -48,7 +48,7 @@ WITH A FLIGHT VOLUNTEER
 
 
 | Country  | Volunteer Costs | Timescale |
-|:--------:|:--------:|:--------:|
+|--------|--------|--------|
 | USA/Canada | 600-900 USD | Around 1 month |
 | Europe/UK | 800 - 1000 Euro | 4 - 6 Months |
 

@@ -37,8 +37,10 @@ Cost breakdown:
 CARGO
 --
 
-| a | B | C |
+| A | B | C |
 | ---- | ---- | ---- |
+| A | B | C |
+
 
 | Country | Cargo Costs | Timescale |
 | ---- | -------- | -------- |

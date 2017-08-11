@@ -9,7 +9,7 @@ Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#spo
 -->
 > <center><i>"Homeless dogs don't need your pity; they need your love."</i></center>
 
-<b>OUR DOGS FOR ADOPTION</b>
+OUR DOGS FOR ADOPTION
 ======
 
 <div id="flickrembed">
@@ -18,24 +18,27 @@ Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#spo
  </center>
 </div>
 
-## <b>Domestic Adoptions (India)</b>
+## Domestic Adoptions (India)
 
 If you are interested in adopting one of our dogs and you are in India, we have many loving pups in need of happy, forever homes. All of our dogs for adoption are healthy, and up to date on vaccines and deworming.
 
-To get started, please fill out a <a href='https://goo.gl/forms/qBiWrmfDxJKk3DqG2' class='ej_ejc_ithkbx'>Domestic Adoptions Form</a>.
+To get started, please fill out a [Domestic Adoptions Form](https://goo.gl/forms/qBiWrmfDxJKk3DqG2).
 
 
-## <b>International Adoptions</b>
+## International Adoptions
 
 Our international adoptions program gives you the opportunity to provide a safe and happy home to one of our rescued dogs, no matter where you live. These puppies cannot be returned to the street because of health or age, and so need to find permanent, loving homes so that we can keep our doors open to new animals in need of rescue. All of our dogs for adoption are healthy, and up to date on vaccines and deworming.
 
 Before they fly, we do the necessary paperwork, microchipping, and flight arrangements. For dogs who are old enough we also do their sterilization surgery and necessary blood work. We require a scan of your passport and driver's license, your phone number, and you must pick the dog(s) up from the airport.
 
-<b>Cost breakdown:</b>
+Cost breakdown:
+==
 
 CARGO
+--
 
-
+| a | B | C |
+| ---- | ---- | ---- |
 
 | Country | Cargo Costs | Timescale |
 | ---- | -------- | -------- |
@@ -43,13 +46,12 @@ CARGO
 | Europe/UK | 1400 - 1800 Euro | 4 - 6 Months |
 
 
-
 WITH A FLIGHT VOLUNTEER
-
+--
 
 | Country  | Volunteer Costs | Timescale |
 |--------|--------|--------|
 | USA/Canada | 600-900 USD | Around 1 month |
 | Europe/UK | 800 - 1000 Euro | 4 - 6 Months |
 
-To get started, please fill out an <a href='https://goo.gl/forms/uOWLwk4TJsoqJXLV2' class='ej_ejc_ithkbx'>International Adoptions Form</a>.
+To get started, please fill out an [International Adoptions Form](https://goo.gl/forms/uOWLwk4TJsoqJXLV2).

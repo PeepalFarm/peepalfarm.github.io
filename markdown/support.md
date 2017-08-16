@@ -33,7 +33,7 @@ Your donations will go towards:
 > Account Number: 916020057204004<br/>
 > Account type: Current<br/>
 > IFS Code: UTIB0002501<br/>
-> <div style="background-color:rgba(0, 255, 255, 1); text-align:center; vertical-align: middle; padding:5px 0;">Please enter your email, name and phone in the note!</div>
+> <div style="background-color:rgba(255, 255, 0, .75); text-align:center; vertical-align: middle; padding:5px 0;">Please enter your email, name and phone in the note!</div>
 
 **2) By credit or debit card:**
 
@@ -42,7 +42,7 @@ Your donations will go towards:
 **3) By PayTM**
 
 > Send money to +91 9999 429144
-> **Please enter your email, name and phone in the note!*
+> <div style="background-color:rgba(255, 255, 0, .75); text-align:center; vertical-align: middle; padding:5px 0;">Please enter your email, name and phone in the note!</div>
 
 **3) By PayPal**
 

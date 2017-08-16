@@ -33,7 +33,7 @@ Your donations will go towards:
 > Account Number: 916020057204004<br/>
 > Account type: Current<br/>
 > IFS Code: UTIB0002501<br/>
->  <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:5px 0;">**Please enter your email, name and phone in the note!*</div>
+> <div style="background-color:rgba(0, 255, 255, 0.0470588); text-align:center; vertical-align: middle; padding:5px 0;">Please enter your email, name and phone in the note!</div>
 
 **2) By credit or debit card:**
 

@@ -13,6 +13,9 @@ All the products which you find here for sale were grown or made or procured by 
 
 ![Peanut Butter](/images/pnt_btr_joey01_700.jpg "Peanut Butter")
 
+Peanut Butter 250gms
+===
+
 A protein packed healthy snack that you can enjoy with fruit, pancakes, toast or just on its own!
 
 * No added salt

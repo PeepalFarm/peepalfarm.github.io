@@ -16,4 +16,7 @@ If you change your mind about the products you have purchased from us, we can re
 ## Received something faulty?
 
 
-If something is faulty or incorrectly described or different from the sample shown we will happily refunding the purchase price and delivery charges, or provide a replacement product provided the item is returned within a reasonable time with proof of purchase.
+If something is faulty or incorrectly described or different from the sample shown we will happily refunding the purchase price and delivery charges, or provide a replacement product provided the item is returned within a 30 days time with proof of purchase.
+
+
+** All refunds will be processed within 7 to 10 days once we have recieved the item via the original payment method.

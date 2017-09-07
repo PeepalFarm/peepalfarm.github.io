@@ -28,4 +28,4 @@ Ingredients: Peanuts, Coconut oil, Cacao (optional)
 
 [BUY NOW](#)
 
-<center><div id="ownership" style="font-size:small; font-weight:bold; padding:10px;"><a href="/?p=privacy">Privacy Policy</a> | <a href="/?p=returns">Returns Policy</a></div></center>
+<center><div id="ownership" style="font-size:small; font-weight:bold; padding:10px;"><a href="/?p=terms">Terms and Conditions</a> | <a href="/?p=privacy">Privacy Policy</a> | <a href="/?p=returns">Returns Policy</a></div></center>

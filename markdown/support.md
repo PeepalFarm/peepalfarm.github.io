@@ -17,9 +17,9 @@ Supplies Donations
 [**Our Wishlist.**]( ?p=wishlist "wishlist" ) Equipment and supplies which will last.
 
 
-Monetary Donations
+Monetary Support
 ----------
-Your donations will go towards:
+Your money will go towards:
 
 > * Medicines for animals
 > * Food for animals
@@ -35,11 +35,7 @@ Your donations will go towards:
 > IFS Code: UTIB0002501<br/>
 > <div style="background-color:rgba(255, 255, 0, .75); text-align:center; vertical-align: middle; padding:5px 0;">Please enter your email, name and phone in the note!</div>
 
-**2) By credit or debit card:**
-
-> https://www.payumoney.com/paybypayumoney/#/155241
-
-**3) By PayTM**
+**2) By PayTM**
 
 > Send money to +91 9999 429144
 > <div style="background-color:rgba(255, 255, 0, .75); text-align:center; vertical-align: middle; padding:5px 0;">Please enter your email, name and phone in the note!</div>
@@ -47,3 +43,11 @@ Your donations will go towards:
 **3) By PayPal**
 
 > We can't accept foreign donations. Support our work by  <a href='http://buckdrop.com/poetgk5' class='ej_ejc_ithkbx'>buying lemongrass</a>.
+
+<!--
+
+**2) By credit or debit card:**
+
+> https://www.payumoney.com/paybypayumoney/#/155241
+
+-->

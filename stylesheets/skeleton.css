@@ -237,16 +237,7 @@ label > .label-body {
   font-weight: normal; }
 
 
-/* Lists
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-ol {
-  list-style: decimal inside; }
-ol {
-  padding-left: 0;
-  margin-top: 0; }
-ol ol {
-  margin: 1.5rem 0 1.5rem 3rem;
-  font-size: 90%; }
+
 
 
 /* Code
@@ -296,7 +287,6 @@ dl,
 figure,
 table,
 p,
-ol,
 form {
   margin-bottom: 2.5rem; }
 

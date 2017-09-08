@@ -244,8 +244,7 @@ ol {
 ol {
   padding-left: 0;
   margin-top: 0; }
-ol ol,
-ol ul {
+ol ol {
   margin: 1.5rem 0 1.5rem 3rem;
   font-size: 90%; }
 
@@ -297,7 +296,6 @@ dl,
 figure,
 table,
 p,
-ul,
 ol,
 form {
   margin-bottom: 2.5rem; }

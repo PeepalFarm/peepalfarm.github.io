@@ -219,3 +219,13 @@ header.nav-up {
 	/* top: -75px; would have been smoother, but we must hide the open menu. gah */
 	top: -400px;
 }
+
+
+/* override skeleton table */
+
+#logo td
+  padding: 0;
+  text-align: left;
+  border-bottom: 0; }
+
+/* Override skeleton lists */

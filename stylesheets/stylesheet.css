@@ -223,9 +223,5 @@ header.nav-up {
 
 /* override skeleton table */
 
-#logo td
-  padding: 0;
-  text-align: left;
-  border-bottom: 0; }
 
 /* Override skeleton lists */

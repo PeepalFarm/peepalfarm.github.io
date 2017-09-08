@@ -37,11 +37,6 @@ Cost breakdown:
 CARGO
 --
 
-| A | B | C |
-| ---- | ---- | ---- |
-| A | B | C |
-
-
 | Country | Cargo Costs | Timescale |
 | ---- | -------- | -------- |
 | USA/Canada | 800 - 1100 USD | Around 1 Month |

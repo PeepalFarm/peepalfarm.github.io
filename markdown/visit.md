@@ -23,7 +23,7 @@ Want to experience farm living in rural India, or just want to spend time with a
 
 [Volunteer](/?p=volunteer)
 --
-Got 3 days or more, and want to learn about animal welfare and farm work?
+Got 3 days or more, and want to help animals and get your hands dirty in the farm?
 
 [Work exchange](/?p=workexchange)
 --

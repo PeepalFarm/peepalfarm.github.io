@@ -20,11 +20,3 @@ If you just want to swing by, say hello and play with the animals.
 --
 
 Want to experience farm living in rural India, or just want to spend time with animals and try being vegan for a few days? We are sanctuary for injured animals and people wounded by plight of animals.
-
-[Volunteer](/?p=volunteer)
---
-Got 3 days or more, and want to help animals and get your hands dirty in the farm?
-
-[Work exchange](/?p=workexchange)
---
-Three simple vegan meals and accomodation in exchange of 36 hours of work.

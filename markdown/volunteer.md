@@ -6,7 +6,6 @@ Title: Volunteer
 
 > <center><i>“The superior person of devoted character heaps up small things in order to achieve something high and great.” – I Ching</i></center>
 
-
 <div class="youtube-player" data-id="dJL3PWM6Dng"></div>
 
 Volunteer
@@ -19,8 +18,6 @@ We provide accomodation and 3 vegan meals in exchange for 36 hours of work every
 The work you will do revolves around **Animal Enrichment**, **Farm work**, and **Housekeeping**. More specifically, assisting in [stray animal recovery center](/?p=recovery) (dog walks, brushing animals, poop scooping, flea and tick removal, baths, laundry, feeding infant puppies, playing with dogs) and assisting in the [farm](/?p=farm) (weeding, mulching, preparing new farm patches, digging, planting, moving rocks). You might also be work alongside a staff member to assist with animal treatments, kitchen tasks, or construction projects.
 
 Apart from these, you're also welcome to use your skills to help us do more good work or improve the space. People have contributed by doing art all around the farm, making videos, carpentry, making utility items like a rocket stove, and doing [hacktivism](/?p=hacktivism)! If you are a professional who wants to do a specific project with your expertise please describe your skill and project idea in our form when you apply. You can also see the kind of projects we need you for [here](https://www.idealist.org/en/nonprofit/6fa432fe6a2343a58e4050fea0d85a3f-peepal-farm-dharamsala).
-
-
 
 Our Expectations
 ---------
@@ -35,14 +32,13 @@ If you are looking for a getaway and not for an opportunity to help animals, the
 
 Routine
 -----------
-The farm operates on a schedule and routine. Work happens in three shifts and meals are at specific times. Volunteers should arrive and depart within certain times, and will be expected to follow the schedule while at the farm. We provide shared accommodation and 3 vegan meals for Rs. 500 a night (this fee can be waived for professionals who we partner with for a specific project).
+The farm operates on a schedule and routine. Work happens in three shifts and meals are at specific times. Volunteers should arrive and depart within certain times, and will be expected to follow the schedule while at the farm. We provide shared accommodation and 3 vegan meals for Rs. 500 a night (this fee can be waived for [professionals whom we partner with for a specific project](/?p=workexchange)).
 
 If you find the same thing for an extended period boring instead of meditative, or having a routine is not something you like, then this is not a good fit for you.
 
 **Please read the ENTIRE [FAQ](/?p=faq) and [Rules](/?p=rules) before applying!**
 
 **[Click here to apply](http://goo.gl/forms/OfgsmbFF4Iu7eagS2)!** 
-
 
 <!--
 

@@ -6,8 +6,6 @@ Apart from our regular expenses, we are currently fundraising for -
 -------
 
 * Monthly commitment for us to hire a vet
-* Cow contraption
-
 -->
 
 Supplies Donations
@@ -16,7 +14,6 @@ Supplies Donations
 
 [**Our Wishlist.**]( ?p=wishlist "wishlist" ) Equipment and supplies which will last.
 
-
 Monetary Support
 ----------
 Your money will go towards:
@@ -24,7 +21,7 @@ Your money will go towards:
 > * Medicines for animals
 > * Food for animals
 > * Transporation expenses for rescues
-> * Animal welfare staff salary
+> * Vet and animal welfare staff salary
 
 **1) By bank transfer:**
 

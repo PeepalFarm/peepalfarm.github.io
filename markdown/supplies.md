@@ -1,6 +1,11 @@
 Supplies
 ==========
 
+* [Medical](#medical)
+* [Food](#food)
+* [Utility](#utility)
+
+<a name="medical"/>
 Medical
 ----
 
@@ -103,6 +108,7 @@ Better brought in person
 
 -->
 
+<a name="food"/>
 Food 
 -----
 * Rice
@@ -119,6 +125,8 @@ Food
 * Cow feed
 * Coconut oil
 
+
+<a name="utility"/>
 Utility
 -----
 * Small and Medium-sized collars (used are fine!)

@@ -17,7 +17,7 @@ Recovery Center
 ----
 * Collars and Leashes
 * Dog coats
-* Dog bowls
+* <s>Dog bowls</s>
 * <s>Kong Toys and other Tough toys</s>
 
 
@@ -32,5 +32,4 @@ Community Space
 * <s>Scanner</s>
 
 
-
-Want to donate something smaller? Check [supplies we need]( ?p=supplies "supplies" )
+Want to donate something smaller? Check [supplies we need](/?p=supplies "supplies").

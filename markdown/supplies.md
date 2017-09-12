@@ -5,7 +5,8 @@ Supplies
 * [Food](#food)
 * [Utility](#utility)
 
-<a name="medical"/>
+<a name="medical"></a>
+
 Medical
 ----
 
@@ -126,7 +127,7 @@ Food
 * Coconut oil
 
 
-<a name="utility"/>
+<a name="utility"></a>
 Utility
 -----
 * Small and Medium-sized collars (used are fine!)
@@ -137,4 +138,4 @@ Utility
 * Duct tape
 
 
-Want to donate something bigger? Check out our [wishlist]( ?p=wishlist "wishlist" )
+Want to donate something bigger? Check out our [wishlist](/?p=wishlist).

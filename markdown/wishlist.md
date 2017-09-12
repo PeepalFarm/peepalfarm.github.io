@@ -1,3 +1,9 @@
+<!--
+
+Title: Wishlist
+
+-->
+
 Wishlist
 ==========
 

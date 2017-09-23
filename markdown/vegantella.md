@@ -9,7 +9,7 @@ Vegantella (150gms)
 ===
 Vegan chocoloate spread.
 
-**Ingredients:** Cacao, Peanuts, Sugar, Coconut oil  
+**Ingredients:** Cacao, Peanuts, Sugar, Cashews, Coconut oil  
 
 ### Rs. 200
 

@@ -16,8 +16,8 @@ Title: Peepal Farm Products
       <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2&on0=Do+you+want+it+with+Cacao%3F&os0=Yes%2C+please%21&o1=No+gift+pack" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹70</a>
     </div>
     <div class="one-third column">
-      [![Veganutella](/images/vegantella.jpeg "Vegantella")](/?p=vegantella)
-      <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2&on0=Do+you+want+it+with+Cacao%3F&os0=Yes%2C+please%21&o1=No+gift+pack" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹200</a>
+      [![Veganutella](/images/vegantella-sml-wide.jpg "Vegantella")](/?p=vegantella)
+      <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=vgntella150&ejc=2&o1=No+gift+pack" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹200</a>
       </div>
   </div>
 

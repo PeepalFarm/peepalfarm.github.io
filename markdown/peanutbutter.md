@@ -3,9 +3,10 @@
 Title: Peepal Farm Artisan Peanut Butter
 
 -->
+![Peanut Butter](/images/pnt_btr_joey01_600.jpg "Peanut Butter")
+
 Artisan Peanut Butter (250gms)
 ===
-![Peanut Butter](/images/pnt_btr_joey01_600.jpg "Peanut Butter")
 
 A protein-packed, vegan, healthy snack that you can enjoy with fruit, pancakes, toast or just on its own! Eat all of it yourself or <a href='https://www.facebook.com/hashtag/shareeveryjar' target='_blank'>#shareeveryjar</a> with your dog!
 

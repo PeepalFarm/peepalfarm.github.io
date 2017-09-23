@@ -32,11 +32,11 @@ Gift pack?:<br>
 <option value="No gift pack">No gift pack</option>
 <option value="Gift pack for Rs. 5 more">Gift pack for Rs. 5 more</option>
 </select><br>
-<input type="image" src="https://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0"  alt="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
+<input type="button" border="0"  alt="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
 </form>
 
 **All our products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our village and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **
 
-(Read more)[/?p=shop#story]
+[Read more...](/?p=shop#story)
 
 <center><div id="ownership" style="font-size:small; font-weight:bold; padding:10px;"><a href="/?p=terms">Terms and Conditions</a> | <a href="/?p=privacy">Privacy Policy</a> | <a href="/?p=returns">Returns Policy</a></div></center>

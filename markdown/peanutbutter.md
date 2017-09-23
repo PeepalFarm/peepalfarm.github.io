@@ -8,7 +8,7 @@ Title: Peepal Farm Artisan Peanut Butter
 Artisan Peanut Butter
 ===
 
-A protein-packed, vegan, healthy snack that you can enjoy with fruit, pancakes, toast or just on its own! Eat all of it yourself or <a href='https://www.facebook.com/hashtag/shareeveryjar'>#shareeveryjar</a> with your dog! 
+A protein-packed, vegan, healthy snack that you can enjoy with fruit, pancakes, toast or just on its own! Eat all of it yourself or <a href='https://www.facebook.com/hashtag/shareeveryjar' target="_blank'>#shareeveryjar</a> with your dog! 
 
 We take pride in making all our products, especially our Peanut Butter. It's our bestseller for a reason and that reason is simple - it's made with care and love. We roast the peanuts on a traditional _chulah_ (wood fired stove) until they gets a golden glow. Then, they are ground up in our home blender, in our kitchen by Mamta - a talented girl from the village. Each jar is hand-filled with the smooth, silky goodness of the redskin-on peanut butter and decorated with home toasted cacao!
 
@@ -32,7 +32,7 @@ Gift pack?:<br>
 <option value="No gift pack">No gift pack</option>
 <option value="Gift pack for Rs. 5 more">Gift pack for Rs. 5 more</option>
 </select><br>
-<input type="button" border="0"  alt="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
+<input type="button" border="0"  value="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
 </form>
 
 **All our products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our village and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **

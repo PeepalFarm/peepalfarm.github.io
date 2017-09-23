@@ -32,7 +32,7 @@ Gift pack?<br>
 <option value="No gift pack">No gift pack</option>
 <option value="Gift pack for Rs. 5 more">Gift pack for Rs. 5 more</option>
 </select><br>
-Ready for awesomness in a jar?<br>
+Ready for awesomeness in a jar?<br>
 <input type="button" border="0"  value="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
 </form>
 

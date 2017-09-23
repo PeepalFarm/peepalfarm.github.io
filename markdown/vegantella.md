@@ -25,4 +25,4 @@ Ready for awesomeness in a jar?<br>
 
 **All our products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our village and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **
 
-[Read more...](/?p=shop)
+[Back to shop](/?p=shop)

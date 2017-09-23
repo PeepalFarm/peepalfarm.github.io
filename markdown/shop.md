@@ -1,6 +1,6 @@
 <!-- 
 
-Title: Peepal Farm Products
+Title: Products
 
 -->
 > <center><i>"Buy less, buy well, make it last!"</i></center>

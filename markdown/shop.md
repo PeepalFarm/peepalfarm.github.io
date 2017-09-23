@@ -10,11 +10,8 @@ Title: Peepal Farm Products
     <div class="one-third column"></div>
     <div class="one-third column">https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-0/c0.0.540.540/p180x540/18084135_1490473687637674_3291517847364173824_n.jpg?oh=2590a6b8a7d8f0cde6c8ec3db4fa9112&oe=5A42D47B</div>
     <div class="one-third column">
-      |[![Peanut Butter](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-9/c0.0.476.476/17861119_1427612810630935_6642541392872603648_n.jpg?oh=a5a4783cb7f7dcc9e0f0c9775adaea27&oe=5A3C344E "Peanut butter")](/?p=peanutbutter)|
-      | --- |
-      |  A   |
-      | --- |
-      |  A   |
+      [![Peanut Butter](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-9/c0.0.476.476/17861119_1427612810630935_6642541392872603648_n.jpg?oh=a5a4783cb7f7dcc9e0f0c9775adaea27&oe=5A3C344E "Peanut butter")](/?p=peanutbutter)
+      <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2&on0=Do+you+want+it+with+Cacao%3F&os0=Yes%2C+please%21&o1=No+gift+pack" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹125</a>
       
       </div>
   </div>

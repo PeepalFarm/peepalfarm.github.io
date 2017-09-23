@@ -5,7 +5,7 @@ Title: Peepal Farm Artisan Peanut Butter
 -->
 ![Peanut Butter](/images/pnt_btr_joey01_600.jpg "Peanut Butter")
 
-Artisan Peanut Butter
+Artisan Peanut Butter (250gms)
 ===
 
 A protein-packed, vegan, healthy snack that you can enjoy with fruit, pancakes, toast or just on its own! Eat all of it yourself or <a href='https://www.facebook.com/hashtag/shareeveryjar' target="_blank'>#shareeveryjar</a> with your dog! 
@@ -16,7 +16,7 @@ We take pride in making all our products, especially our Peanut Butter. It's our
 * No added sugar
 * No palm oil
 
-Ingredients: Peanuts, Coconut oil, Cacao (optional) 
+**Ingredients:** Peanuts, Coconut oil, Cacao (optional) 
 
 ** Rs. 125 **
 

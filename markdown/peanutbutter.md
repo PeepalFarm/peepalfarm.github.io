@@ -24,16 +24,17 @@ We take pride in making all our products, especially our Peanut Butter. It's our
 
 <form action="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2" method="POST" target="ej_ejc" accept-charset="UTF-8">
 <input type="hidden" name="on0" value="Do you want it with Cacao?">
-Do you want it with Cacao?:<br>
+Do you want it with Cacao?<br>
 <select name="os0">
 <option value="Yes, please!">Yes, please!</option>
 <option value="No, I will be sharing this with my dog :)">No, I will be sharing this with my dog :)</option>
 </select><br>
-Gift pack?:<br>
+Gift pack?<br>
 <select name="o1">
 <option value="No gift pack">No gift pack</option>
 <option value="Gift pack for Rs. 5 more">Gift pack for Rs. 5 more</option>
 </select><br>
+&nbsp;<br>
 <input type="button" border="0"  value="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
 </form>
 

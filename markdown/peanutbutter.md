@@ -1,6 +1,6 @@
 <!-- 
 
-Title: Peepal Farm Artisan Peanut Butter
+Title: Artisan peanut butter
 
 -->
 <img src="/images/pnt_btr_joey01_600.jpg" alt="Peanut Butter" id="mainimage"/>

@@ -3,7 +3,7 @@
 Title: Peepal Farm Artisan Peanut Butter
 
 -->
-<img src="/images/vegantella_600.jpg" alt="Vegantella" id="mainimage"/>
+<img src="/images/vegantella.jpg" alt="Vegantella" id="mainimage"/>
 
 Vegantella (150gms)
 ===

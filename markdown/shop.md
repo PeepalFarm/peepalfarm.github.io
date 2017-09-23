@@ -36,7 +36,8 @@ Title: Products
 All the products which you find here for sale were grown or made or procured by us as we consume them ourselves. 
 -->
 <a name="story"/>
-**Why buy Peepal Farm products?**
+Why buy Peepal Farm products?
+==
 
 1. **Vegan:** All the products at Peepal Farm are vegan friendly! 
 

@@ -4,7 +4,6 @@ Title: Products
 
 -->
 > <center><i>"Buy less, buy well, make it last!"</i></center>
-
   <!-- columns should be the immediate child of a .row -->
   <div class="row">
     <div class="one-third column">

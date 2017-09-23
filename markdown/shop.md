@@ -16,7 +16,7 @@ Title: Peepal Farm Products
       <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2&on0=Do+you+want+it+with+Cacao%3F&os0=Yes%2C+please%21&o1=No+gift+pack" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹70</a>
     </div>
     <div class="one-third column">
-      [![Veganutella](/images/vegantella.jpg "Vegantella")](/?p=vegantella)
+      [![Veganutella](/images/vegantella_thumb.jpg "Vegantella")](/?p=vegantella)
       <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=vgnt150&ejc=2&o1=No+gift+pack" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹200</a>
       </div>
   </div>
@@ -44,6 +44,3 @@ All the products which you find here for sale were grown or made or procured by 
 4. **Support a Good Cause:** 100% profit from our products goes towards supporting our [stray animal recovery center](/?p=recovery).
 
 5. **Give work:** As the sales have increased in the past couple month, we have hired a local young girl from the village. Her name is Mamta. She is camera shy but thoroughly enjoys the learning process of making the products. She is happy to be independent, and is now even bringing her own ideas to the table. More sales will help us give employment to more girls and older women who can no longer to hard physical labor.
-
-
-<center><div id="ownership" style="font-size:small; font-weight:bold; padding:10px;"><a href="/?p=terms">Terms and Conditions</a> | <a href="/?p=privacy">Privacy Policy</a> | <a href="/?p=returns">Returns Policy</a></div></center>

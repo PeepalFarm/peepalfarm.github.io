@@ -8,7 +8,7 @@ Title: Peepal Farm Artisan Peanut Butter
 Artisan Peanut Butter (250gms)
 ===
 
-A protein-packed, vegan, healthy snack that you can enjoy with fruit, pancakes, toast or just on its own! Eat all of it yourself or <a href='https://www.facebook.com/hashtag/shareeveryjar' target="_blank'>#shareeveryjar</a> with your dog! 
+A protein-packed, vegan, healthy snack that you can enjoy with fruit, pancakes, toast or just on its own! Eat all of it yourself or <a href='https://www.facebook.com/hashtag/shareeveryjar' target='_blank'>#shareeveryjar</a> with your dog! 
 
 We take pride in making all our products, especially our Peanut Butter. It's our bestseller for a reason and that reason is simple - it's made with care and love. We roast the peanuts on a traditional _chulah_ (wood fired stove) until they gets a golden glow. Then, they are ground up in our home blender, in our kitchen by Mamta - a talented girl from the village. Each jar is hand-filled with the smooth, silky goodness of the redskin-on peanut butter and decorated with home toasted cacao!
 

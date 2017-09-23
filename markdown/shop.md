@@ -7,9 +7,16 @@ Title: Peepal Farm Products
 
   <!-- columns should be the immediate child of a .row -->
   <div class="row">
-    <div class="one-third column">![alt text](https://www.facebook.com/rsrc.php/v3/y4/r/-PAXP-deijE.gif "Peanut butter")</div>
-    <div class="one-third column">![](https://www.facebook.com/rsrc.php/v3/y4/r/-PAXP-deijE.gif)</div>
-    <div class="one-third column">[![Peanut Butter](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-9/c0.0.476.476/17861119_1427612810630935_6642541392872603648_n.jpg?oh=a5a4783cb7f7dcc9e0f0c9775adaea27&oe=5A3C344E "Peanut butter")](/?p=peanutbutter)</div>
+    <div class="one-third column"></div>
+    <div class="one-third column">https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-0/c0.0.540.540/p180x540/18084135_1490473687637674_3291517847364173824_n.jpg?oh=2590a6b8a7d8f0cde6c8ec3db4fa9112&oe=5A42D47B</div>
+    <div class="one-third column">
+      |[![Peanut Butter](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-9/c0.0.476.476/17861119_1427612810630935_6642541392872603648_n.jpg?oh=a5a4783cb7f7dcc9e0f0c9775adaea27&oe=5A3C344E "Peanut butter")](/?p=peanutbutter)|
+      | --- |
+      |  A   |
+      | --- |
+      |  A   |
+      
+      </div>
   </div>
 
   <!-- just use a number and class 'column' or 'columns' -->

@@ -6,13 +6,13 @@ Title: Peepal Farm Products
 > <center><i>"Buy less, buy well, make it last!"</i></center>
 
 <!-- .container is main centered wrapper -->
-<div class="container">
+<div class="container" width="100%">
 
   <!-- columns should be the immediate child of a .row -->
   <div class="row">
     <div class="one-third column">![alt text](https://www.facebook.com/rsrc.php/v3/y4/r/-PAXP-deijE.gif "Peanut butter")</div>
     <div class="one-third column">![](https://www.facebook.com/rsrc.php/v3/y4/r/-PAXP-deijE.gif)</div>
-    <div class="one-third column">[![Peanut Butter](https://www.facebook.com/rsrc.php/v3/y4/r/-PAXP-deijE.gif "Peanut butter")](/?p=peanutbutter)</div>
+    <div class="one-third column">[![Peanut Butter](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-9/c0.0.476.476/17861119_1427612810630935_6642541392872603648_n.jpg?oh=a5a4783cb7f7dcc9e0f0c9775adaea27&oe=5A3C344E "Peanut butter")](/?p=peanutbutter)</div>
   </div>
 
   <!-- just use a number and class 'column' or 'columns' -->

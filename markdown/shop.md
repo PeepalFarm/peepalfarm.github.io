@@ -5,9 +5,6 @@ Title: Peepal Farm Products
 -->
 > <center><i>"Buy less, buy well, make it last!"</i></center>
 
-<!-- .container is main centered wrapper -->
-<div class="container" width="100%">
-
   <!-- columns should be the immediate child of a .row -->
   <div class="row">
     <div class="one-third column">![alt text](https://www.facebook.com/rsrc.php/v3/y4/r/-PAXP-deijE.gif "Peanut butter")</div>
@@ -20,9 +17,6 @@ Title: Peepal Farm Products
     <div class="six columns">Two</div>
     <div class="six columns">Ten</div>
   </div>
-
-
-</div>
 
 <!--
 All the products which you find here for sale were grown or made or procured by us as we consume them ourselves. 

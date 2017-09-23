@@ -1,14 +1,13 @@
 <!-- 
 
-Title: Peepal Farm Artisan Peanut Butter
+Title: Vegantella - Vegan chocolate spread
 
 -->
 <img src="/images/vegantella.jpg" alt="Vegantella" id="mainimage"/>
 
 Vegantella (150gms)
 ===
-
-* No palm oil
+Vegan chocoloate spread.
 
 **Ingredients:** Cacao, Peanuts, Sugar, Coconut oil  
 

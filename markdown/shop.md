@@ -17,7 +17,7 @@ All the products which you find here for sale were grown or made or procured by 
 
 3. **Homemade:** We make the products in our home kitchen. We take great care in growing, producing, procuring and processing the ingredients. We were only making for our own consumption and the idea of selling the products sprung from the compliements and feedback we got from folks volunteering with us!
 
-4. **Support a Good Cause:* 100% profit from our products goes towards supporting our [stray animal recovery center](/?p=recovery).
+4. **Support a Good Cause:** 100% profit from our products goes towards supporting our [stray animal recovery center](/?p=recovery).
 
 5. **Give work:** As the sales have increased in the past couple month, we have hired a local young girl from the village. Her name is Mamta. She is camera shy but thoroughly enjoys the learning process of making the products. She is happy to be independent, and is now even bringing her own ideas to the table. More sales will help us give employment to more girls and older women who can no longer to hard physical labor.
 

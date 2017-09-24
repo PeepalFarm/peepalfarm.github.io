@@ -15,7 +15,7 @@ Our stray animal recovery center is a safe place for injured animals which need 
 ## [Farm](/?p=farm)
 Our farm feeds us and recovery animals with healthy, organic produce. We grow some of our own food, which passes straight from farm to kitchen and purchase the bulk of rest locally. We try to practice low-till farming, mulch a la Ruth Stout, and we save seeds.
 
-## [Products](http://www.facebook.com/peepalfarm/shop)
+## [Products](/?p=shop)
 We sell what we either grow or procure for ourselves, or what we make for ourselves in our kitchen. Of course all products are vegan. Selling products helps us get word out about our work and expose more people to the idea of veganism. 
 
 ## [Farmstay](/?p=farmstay)

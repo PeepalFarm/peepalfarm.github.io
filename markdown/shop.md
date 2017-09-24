@@ -1,6 +1,6 @@
 <!-- 
 
-Title: Products
+Title: Good Products
 
 -->
 > <center><i>"Buy less, buy well, make it last!"</i></center>

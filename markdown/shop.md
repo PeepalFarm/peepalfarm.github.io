@@ -46,4 +46,4 @@ Why buy Peepal Farm products?
 
 4. **Support a Good Cause:** 100% profit from our products goes towards supporting our [stray animal recovery center](/?p=recovery).
 
-5. **Give work:** As the sales have increased in the past couple month, we have hired a local young girl from the village. Her name is Mamta. She is camera shy but thoroughly enjoys the learning process of making the products. She is happy to be independent, and is now even bringing her own ideas to the table. More sales will help us give employment to more girls and older women who can no longer to hard physical labor.
+5. **Give work:** As the sales have increased in the past couple of months, we have hired a local young girl from the village. Her name is Mamta. She is camera shy but thoroughly enjoys the learning process of making the products. She is happy to be independent, and is now even bringing her own ideas to the table. More sales will help us give employment to more girls and older women who can no longer do hard physical labor.

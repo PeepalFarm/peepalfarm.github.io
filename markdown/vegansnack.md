@@ -19,4 +19,4 @@ We are not surprised that this one is everyone's favorite! My mom used to make t
 
 **All our products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our village and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **
 
-[Back to shop](/?p=shop)
+[&laquo; Back to shop](/?p=shop)

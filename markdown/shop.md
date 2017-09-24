@@ -14,7 +14,7 @@ Title: Good Products
     <div class="one-third column">
     <p><strong>[Vegan Snack](/?p=vegansnack)</strong><br/>200gms</p>
     [![Vegan Snack](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-0/c0.0.540.540/p180x540/18084135_1490473687637674_3291517847364173824_n.jpg?oh=2590a6b8a7d8f0cde6c8ec3db4fa9112&oe=5A42D47B "Vegan Snack")](/?p=vegansnack)
-      <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2&on0=Do+you+want+it+with+Cacao%3F&os0=Yes%2C+please%21&o1=No+gift+pack" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹70</a>
+      <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=vgnsnk&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹70</a>
     </div>
     <div class="one-third column">
     <p><strong>[Veganutella](/?p=vegantella)</strong><br/>150gms</p>

@@ -5,6 +5,11 @@ body {
 	font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }	
 
+h1,a {
+	color: #009900; 
+}	
+
+
 #wrapper {
   width: 100%;
   margin: 0 auto; 

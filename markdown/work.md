@@ -22,7 +22,7 @@ We sell what we either grow or procure for ourselves, or what we make for oursel
 Our farmstay gives people an opportunity to spend time with dogs, cows and mules and experience farm life and animal welfare for a bit. It gives non vegans a taste of vegan life and lets them expereince how their body feels on a vegan diet, and it gives vegans a sanctuary for a few days where they are surrounded only by people who want to help animals. 
 
 ## [Hacktivism](/?p=hacktivism)
-Hoaxes. Spoofs. Events. Nudges. Art. Whatever grabs attention and changes perception. 
+Culture jams. Hoaxes. Spoofs. Events. Nudges. Art. Whatever grabs attention and changes perception. 
 
 <!--
 

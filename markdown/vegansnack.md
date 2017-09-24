@@ -7,6 +7,8 @@ Title: Sweet and savory, Vegan snack
 
 Vegan Snack (200gms)
 ===
+Mid meal cravings? Here's a healthy alternative to packaged, processed food meeting your needs - a fresh and homemade, vegan snack. Crunch up your evening tea or maybe add some variety to that late night snack, without feeling guilty. Loaded with the nutritional value of peanuts, raisins and flat rice, this snack is a sure way to binge guilt free into snack time!
+
 We are not surprised that this one is everyone's favorite! My mom used to make this for us during our summer vacations. Every time we wanted a crunchy, savory-sweet snack, she gave us a bowl full. She knew it's healthy and fun! Like most of our products, it's prepared on a traditional chulah (wood fired stove). The slow roasting of rice flakes gives it the endearing crunch. The curry leaves that we pick from the farm are carefully washed, and roasted with the mustard seeds. All the ingredients are brought together carefully so you can taste the harmony of different flavors, as soon as you put a spoonful in your mouth!
 
 **Ingredients:** Rice flakes, Peanuts, Coconut, Raisins, Curry leaf, Mustard seeds, Rock salt, Jaggery 

@@ -2,4 +2,4 @@
 
 -->
 
-[This page has moved](/?p=shop).
+<center>[This page has moved](/?p=shop).</center>

@@ -6,7 +6,7 @@ Title: Credits
 Credits
 ===
 
-* Hosted at [Github] (https://pages.github.com/).
+* Hosted at [Github](https://pages.github.com/).
 * [Skeleton](http://getskeleton.com/) for a lightweight responsive framework.
 * [Gimp](https://www.gimp.org/) for image editing.
 * [Openshot](http://www.openshot.org/) for video editing.

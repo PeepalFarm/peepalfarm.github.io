@@ -31,6 +31,13 @@ body {
 	color: #000;
 }
 
+#social-icons a:hover {
+	color: #ffffff; 
+}
+#social-icons a:active {
+	color: #ffffff; 
+}
+
 .markdown-body {
    word-wrap: break-word;
 }
@@ -59,7 +66,7 @@ header {
 	left: 0;
 	z-index: 999;
 	background-color: #99cc88;
-	border-top: 1px solid #333;
+	border-top: 1px solid #99cc88;
 	border-bottom: 1px solid #333; 
 
 
@@ -71,7 +78,7 @@ header {
 }
   	
 header h1 {
-	color: #000;
+	color: #009900;
 	font-weight: 400;
 	font-size: 30px;
 

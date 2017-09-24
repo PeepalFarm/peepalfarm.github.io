@@ -12,5 +12,6 @@ Credits
 * [Openshot](http://www.openshot.org/) for video editing.
 * [marked](https://github.com/chjj/marked) for JS markdown parsing.
 * [Font Awesome](http://fontawesome.io/) for icons.
+* [Real favicon generator](https://realfavicongenerator.net) for favicon.
 * [Razorpay](http://razorpay.com) for payment processing.
 * [E-junkie](https://e-junkie.com/) for shopping cart.

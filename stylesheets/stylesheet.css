@@ -78,11 +78,14 @@ header {
 }
   	
 header h1 {
-	color: #009900;
 	font-weight: 400;
 	font-size: 30px;
-
 }
+
+header a {
+	color: #ffffff;
+}
+
 
 
 

@@ -7,6 +7,13 @@ Scripts:
 Javascript: function checkForAds() { if ($('#sponsor').is(':visible')) { $('#sponsor').hide(); } else { setTimeout(checkForAds, 50); }};  jQuery(document).ready(function() {checkForAds();});
 
 -->
+
+<!--
+
+adopt in place
+
+-->
+
 > <center><i>"Homeless dogs don't need your pity; they need your love."</i></center>
 
 OUR DOGS FOR ADOPTION

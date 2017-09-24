@@ -7,7 +7,7 @@ Title: Vegantella - Vegan chocolate spread
 
 Vegantella (150gms)
 ===
-Vegan chocoloate spread.
+This creamy vegan chocolate spread is the instant heart winner. We order the raw cacao beans from Tamil Nadu, and slow roast them to bring out the flavor. Each cacao bean is shelled by hand before it dances in the blender with the rest of our ingredients. The result is a smooth, liquid chocolate which can be spread on your morning toast, used to sweeten your smoothie or just licked straight from the spoon!
 
 **Ingredients:** Cacao, Peanuts, Sugar, Cashews, Coconut oil  
 

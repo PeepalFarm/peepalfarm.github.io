@@ -5,8 +5,12 @@ body {
 	font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }	
 
-h1,a {
+a {
 	color: #009900; 
+}	
+
+h1 {
+	color: 227700;
 }	
 
 

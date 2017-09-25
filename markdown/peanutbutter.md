@@ -22,7 +22,7 @@ We take pride in making all our products, especially our Peanut Butter. It's our
 
 ### Rs. 125
 
-<form action="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2" method="GET" target="ej_ejc" accept-charset="UTF-8">
+<form action="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2" method="POST" target="ej_ejc" accept-charset="UTF-8">
 <input type="hidden" name="on0" value="Do you want it with Cacao?">
 Do you want it with Cacao?<br>
 <select name="os0">

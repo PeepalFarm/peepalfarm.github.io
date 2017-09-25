@@ -2,6 +2,8 @@
 
 Title: Artisan peanut butter
 
+Javascript: fbq('track', 'ViewContent');
+
 -->
 <img src="/images/pnt_btr_joey01_600.jpg" alt="Peanut Butter" id="mainimage"/>
 

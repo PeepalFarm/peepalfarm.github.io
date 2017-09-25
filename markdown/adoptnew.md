@@ -5,5 +5,5 @@ Scripts:
 
 -->
 
-<a data-fancybox="gallery" href="big_1.jpg"><img src="small_1.jpg"></a>
-<a data-fancybox="gallery" href="big_2.jpg"><img src="small_2.jpg"></a>
+<a data-fancybox="gallery" href="https://farm5.staticflickr.com/4172/34292735726_abedb745c4_c.jpg"><img src="https://farm5.staticflickr.com/4172/34292735726_abedb745c4_c.jpg"></a>
+<a data-fancybox="gallery" href="https://farm5.staticflickr.com/4438/37080981395_4aeec63e14_c.jpg"><img src="https://farm5.staticflickr.com/4438/37080981395_4aeec63e14_c.jpg"></a>

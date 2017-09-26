@@ -10,13 +10,14 @@ Experteering Projects
 * **Bicyle powered washing machine**
 * **Documentary on dairy/cows**
 * **Veterinarian** to train our staff new tricks!
+* **Silage setup**
 
 Postions
 --
 * **Natural Farmer, Experienced Gardener**  
 * **Culture jammer** Somebody with background in advertising, or managing perception in any other role.
 * **Veterinarian** 
-* **Animal welfare sueprvisor**
+* <strike>**Animal welfare supervisor**</strike>
 
 <!--
 

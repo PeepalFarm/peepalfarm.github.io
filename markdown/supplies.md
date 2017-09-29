@@ -14,6 +14,7 @@ Shippable
 
 * Zerokeet Dip
 * Charmaid Tablets
+* Nexgaurd Chewable Dewormers
 * Heartgard dewormers
 * Shaving Blades
 * Kiskin Lotion

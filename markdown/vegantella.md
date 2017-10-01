@@ -13,8 +13,12 @@ This creamy vegan chocolate spread is the instant heart winner. We order the raw
 
 ### Rs. 200
 
-<form action="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=vgnt150&ejc=2" method="POST" target="ej_ejc" accept-charset="UTF-8">
+<form action="https://www.e-junkie.com/ecom/gb.php" method="GET" target="ej_ejc" accept-charset="UTF-8">
 Gift pack?<br>
+<input type="hidden" name="c" value="cart"/>
+<input type="hidden" name="cl" value="328984"/>
+<input type="hidden" name="i" value="vgnt150"/>
+<input type="hidden" name="ejc" value="2"/>
 <select name="o1">
 <option value="No gift pack">No gift pack</option>
 <option value="Gift pack for Rs. 5 more">Gift pack for Rs. 5 more</option>

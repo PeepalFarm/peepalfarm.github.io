@@ -47,20 +47,20 @@ Kids keep breaking our door bell. Yanking the chain is too much fun. Anywhoozle,
 ### Bus
 From Dharamsala Bus Stand (the one in Dharamsala, not McLeodGanj) ask for a bus towards Chari (pronounced chuh-ree). Then tell the conductor you are going to Dhanotu (duh-no-too). If you see the Home Guard place on your right, you have gone too far! You can exit the bus there and walk back a few minutes to Dhanotu bus stop next to the temple.
 
-When you get off the bus, take the first road to the left (away from the big cliff overlooking the river). Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [Contact us](/?p=contact "Contact" ) or just ask anyone for the "animal place".
+When you get off the bus, take the first road to the left (away from the big cliff overlooking the river). Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [contact us](/?p=contact "Contact" ) or just ask anyone for the "animal place".
 
 ### Car or Taxi
 From Dharamsala Bus Stand (the one in Dharamsala, not McLeodGanj) take the road downhill towards Gharoh. Keep driving downhill (past Gharoh and Chari) to the Dhanotu bus stop. 
 
-When you get off the bus, take the first road to the left (away from the big cliff overlooking the river). Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [Contact us](/?p=contact "Contact" ) or just ask anyone for the "animal place".
+When you get off the bus, take the first road to the left (away from the big cliff overlooking the river). Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [contact us](/?p=contact "Contact" ) or just ask anyone for the "animal place".
 
 ### Plane
 From Gaggal airport take a bus or taxi towards Chambi Pul. At the intersection in Chambi, turn right (do not cross the bridge). If you are taking the bus, get down at Chambi and take a bus uphill towards Chari.
 
-Continue uphill past the Home Guard center. When you see the Dhanotu bus stop on the left (next to the temple) turn right. Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [Contact us](/?p=contact "Contact" ) or just ask anyone for the "animal place".
+Continue uphill past the Home Guard center. When you see the Dhanotu bus stop on the left (next to the temple) turn right. Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [contact us](/?p=contact "Contact" ) or just ask anyone for the "animal place".
 
 
 ### Train
 From the train station in Pathankot, take a taxi towards Dharamsala. You will pass Shahpur and then Rait, then after you cross the next bridge (at Chambi) take the immediate left to go uphill. 
 
-Continue uphill past the Home Guard center. When you see the Dhanotu bus stop on the left (next to the temple) turn right. Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [Contact us](/?p=contact "Contact" ) or just ask anyone for the "animal farm".
+Continue uphill past the Home Guard center. When you see the Dhanotu bus stop on the left (next to the temple) turn right. Follow the road and look for a door with Lord Krishna and a cow painted on it. That is us! If you have any problems you can [contact us](/?p=contact "Contact" ) or just ask anyone for the "animal farm".

@@ -5,6 +5,10 @@ Title: Good Products
 -->
 > <center><i>"Buy less, buy well, make it last!"</i></center>
   <!-- columns should be the immediate child of a .row -->
+  Our best sellers
+  ===
+  Our best sellers
+  ---
   <div class="row">
     <div class="one-third column">
     <p><strong>[Peanut Butter](/?p=peanutbutter)</strong><br/>200gms</p>

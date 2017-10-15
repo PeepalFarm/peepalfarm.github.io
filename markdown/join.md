@@ -9,8 +9,6 @@ Title: Participate
 [Check the weather to see if you can weather it!](https://www.google.co.in/search?q=dhanotu+weather)
 </center>
 
-<div class="youtube-player" data-id="dJL3PWM6Dng"></div>
-
 [Volunteer](/?p=volunteer)
 --
 Got 3 days or more, and want to help animals and get your hands dirty in the farm?

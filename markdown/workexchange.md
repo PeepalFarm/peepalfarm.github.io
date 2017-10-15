@@ -12,7 +12,7 @@ Experteering Projects
 * **Veterinarian** to train our staff new tricks!
 * **Silage setup**
 
-Postions
+Positions
 --
 * **Natural Farmer, Experienced Gardener**  
 * **Culture jammer** Somebody with background in advertising, or managing perception in any other role.

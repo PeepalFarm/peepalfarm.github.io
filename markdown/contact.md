@@ -27,7 +27,7 @@ Anything Else?
 ----------
 > Check the [FAQ](/?p=faq) first!
 
-> **E-mail**  (preferred)
+> **E-mail** (preferred)
 > [peepalfarm@gmail.com](mailto:peepalfarm@gmail.com)
 
 > **Landline**  

@@ -1,3 +1,5 @@
+If you just want to swing by, say hello and play with the animals or get your hands dirty in the farm if you want. We have a lot of manure to be moved and weeding to be done!
+
 Please email us at [peepalfarm@gmail.com](mailto:peepalfarm@gmail.com) at least 24 hours in advance to schedule a visit!
 =====
 <i>Like anyone else, we are sometimes not at home :)</i>

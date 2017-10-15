@@ -32,9 +32,13 @@ If you are looking for a getaway and not for an opportunity to help animals, the
 
 Routine
 -----------
-The farm operates on a schedule and routine. Work happens in three shifts and meals are at specific times. Volunteers should arrive and depart within certain times, and will be expected to follow the schedule while at the farm. We provide shared accommodation and 3 vegan meals for Rs. 500 a night (this fee can be waived for [professionals whom we partner with for a specific project](/?p=workexchange)).
+The farm operates on a schedule and routine. Work happens in three shifts and meals are at specific times. Volunteers should arrive and depart within certain times, and will be expected to follow the schedule while at the farm. We provide shared accommodation and 3 vegan meals. 
 
-If you find the same thing for an extended period boring instead of meditative, or having a routine is not something you like, then this is not a good fit for you.
+* For Rs. 500 a night, if you are volunteering for less than 2 weeks.
+* For Rs. 350 a night, if you commit to 4 hours a day, 6 days a week for 2 weeks.
+* This fee can be waived for vets, film makers and experienced farmers.
+
+If you find doing the same thing for an extended period boring instead of meditative, or having a routine is not something you like, then this is not a good fit for you.
 
 **Please read the ENTIRE [FAQ](/?p=faq) and [Rules](/?p=rules) before applying!**
 

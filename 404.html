@@ -1,15 +1,17 @@
 <html>
     <head>
-        <script>
-          console.log(window.location.href.split("/").pop()); 
+        <script>    
+            u = '//peepalfarm.org/?p=' + window.location.href.split("/").pop();
+            window.location.href=; 
         </script>
     </head>
     <body>    
     <center>
-        <p>This page does not exist.</p>
+         <p>Redirecting. <a href="javascript:window.location.href=u;">Click here if you are not redirected.</a></p>
         <!-- location.assign() -->
         <!-- .search instead of .pathname  -->
-        <p><a href="javascript:window.location.href='//github.com/BadmashPeepal/badmashpeepal.github.io/new/master/markdown?filename='+window.location.search.substr(1)+'.md';">Create this page</a></p>
+        <!-- <p><a href="javascript:window.location.href='//github.com/PeepalFarm/peepalfarm.github.io/new/master/markdown?filename='+window.location.search.substr(1)+'.md';">Create this page</a></p>
+        -->
     </center>
     </body>
 </html>

@@ -11,9 +11,9 @@ Our best sellers
 
 <div class="row">
   <div class="one-third column">
-  <p><strong>[Peanut Butter](/?p=peanutbutter)</strong><br/>200gms</p>
-  [![Peanut Butter](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-9/c0.0.476.476/17861119_1427612810630935_6642541392872603648_n.jpg?oh=a5a4783cb7f7dcc9e0f0c9775adaea27&oe=5A3C344E "Peanut butter")](/?p=peanutbutter)
-  [₹125](/?p=peanutbutter)
+  <p><strong>[Peanut Butter](/?p=pntbtr)</strong><br/>200gms</p>
+  [![Peanut Butter](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-9/c0.0.476.476/17861119_1427612810630935_6642541392872603648_n.jpg?oh=a5a4783cb7f7dcc9e0f0c9775adaea27&oe=5A3C344E "Peanut butter")](/?p=pntbtr)
+  [₹125](/?p=pntbtr)
     <!--<a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2&on0=Do+you+want+it+with+Cacao%3F&os0=Yes%2C+please%21&o1=No+gift+pack" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹125</a>-->
   </div>
   <div class="one-third column">

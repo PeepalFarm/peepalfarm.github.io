@@ -16,5 +16,5 @@ Size:<br>
 <option value="Medium">Medium</option>
 <option value="Large">Large</option>
 </select><br>
-<input type='hidden' name='c' value='cart'><input type='hidden' name='cl' value='328984'><input type='hidden' name='i' value='dlddt1'><input type='hidden' name='ejc' value='2'><input type="button" value="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
+<input type='hidden' name='c' value='cart'><input type='hidden' name='cl' value='328984'><input type='hidden' name='i' value='dlddt1'><input type='hidden' name='ejc' value='2'><input type="button" value="Add to Cart" onClick="return EJEJC_lc(this.parentNode);">
 </form>

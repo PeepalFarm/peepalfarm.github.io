@@ -18,3 +18,4 @@ Size:<br>
 </select><br>
 <input type='hidden' name='c' value='cart'><input type='hidden' name='cl' value='328984'><input type='hidden' name='i' value='dlddt1'><input type='hidden' name='ejc' value='2'><input type="button" value="Add to Cart" onClick="return EJEJC_lc(this.parentNode);">
 </form>
+<p>PS: If you don't like the tee for any reason or it doesn't fit, just send us back and we'll gladly replace it, or refund!</p>

@@ -30,7 +30,7 @@ Our best sellers
     </div>
 </div>
 
-[Click here to view all our products](https://www.e-junkie.com/marketplace)
+[Click here to view all our products](https://www.e-junkie.com/peepalfarm)
 
 <!-- 
 just use a number and class 'column' or 'columns' 

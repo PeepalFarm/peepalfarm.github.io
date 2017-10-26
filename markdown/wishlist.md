@@ -7,7 +7,7 @@ Title: Wishlist
 Wishlist
 ==========
 
-The easiest way to donate is to choose something off of our [Amazon Wishlist]( http://www.amazon.in/registry/wishlist/2B3YNT3ZZYQY2 "amazon" )
+The easiest way to donate is to choose something off of our [Amazon Wishlist]( http://amzn.in/9px3alq "amazon" )
 
 
 Clinic and OT

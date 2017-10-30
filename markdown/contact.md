@@ -14,7 +14,15 @@ Rescues
 	
 > [+91 9999 429 144](tel:0919999429144) (if unable to reach, leave a WhatsApp message)
 
- 
+Product Orders
+----------
+
+> **Phone**  
+> [+91 8352 806 535](tel:08352806535) (if unable to reach, leave a WhatsApp message)
+
+> **E-mail** (preferred)
+> [peepalfarm.products@gmail.com](mailto:peepalfarm.products@gmail.com)
+
 Visiting us or sending supplies?
 ----------
 

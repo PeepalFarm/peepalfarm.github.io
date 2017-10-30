@@ -24,6 +24,6 @@ In case of cancellation before shipment, we process the refund within 24-48 busi
 
 In case of cancellation once the shipment has already been dispatched or if it is being returned, we process the refund once the products have been received and verified at our warehouse.
 
-For payments done through credit/debit cards, net banking, wallets, the refund will be processed to the same account from which the payment was made within 24-48 business hours of us receiving the products back. It may take 2-3 additional business days for the amount to reflect in your account.
+* For payments done through credit/debit cards, net banking, wallets, the refund will be processed to the same account from which the payment was made within 24-48 business hours of us receiving the products back. It may take 2-3 additional business days for the amount to reflect in your account.
 
-For cash on delivery transactions, we will initiate a bank transfer against the refund amount against the billing details shared by you. This process will be completed within 24-48 business hours of us receiving the products back and your bank details on email. It will take an additional 2-3 business days for the amount to reflect in your account.
+* For cash on delivery transactions, we will initiate a bank transfer against the refund amount against the billing details shared by you. This process will be completed within 24-48 business hours of us receiving the products back and your bank details on email. It will take an additional 2-3 business days for the amount to reflect in your account.

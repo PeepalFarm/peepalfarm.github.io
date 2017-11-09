@@ -13,8 +13,10 @@ Love your desi? Show your pride!
 <input type="hidden" name="on0" value="Size">
 Size:<br>
 <select name="os0">
-<option value="Medium">Medium - 40"</option>
-<option value="Large">Large - 44"</option>
+<option value="Small">Small - 36"</option>
+<option value="Medium">Medium - 38"</option>
+<option value="Large">Large - 40"</option>
+<option value="X-Large">X-Large - 44"</option>
 </select><br>
 <input type='hidden' name='c' value='cart'><input type='hidden' name='cl' value='328984'><input type='hidden' name='i' value='dlddt1'><input type='hidden' name='ejc' value='2'><input type="button" value="Add to Cart" onClick="return EJEJC_lc(this.parentNode);">
 </form>

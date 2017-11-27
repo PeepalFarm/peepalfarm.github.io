@@ -34,12 +34,16 @@ Do you want it with Cacao?<br>
 <select name="os0">
 <option value="Yes, please!">Yes, please!</option>
 <option value="No, I will be sharing this with my dog :)">No, I will be sharing this with my dog :)</option>
-</select><br>
+</select>
+<!--
+<br>
 Gift pack?<br>
 <select name="o1">
 <option value="No gift pack">No gift pack</option>
 <option value="Gift pack for Rs. 5 more">Gift pack for Rs. 5 more</option>
-</select><br>
+</select>
+-->
+<br>
 Ready for awesomeness in a jar?<br>
 <input type="button" border="0"  value="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
 </form>

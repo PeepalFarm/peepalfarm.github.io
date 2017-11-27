@@ -18,12 +18,13 @@ This creamy vegan chocolate spread is the instant heart winner. We order the raw
 <input type="hidden" name="cl" value="328984">
 <input type="hidden" name="ejc" value="2">
 <input type="hidden" name="i" value="vgnt150">
-
+<!--
 Gift pack?<br>
 <select name="o1">
 <option value="No gift pack">No gift pack</option>
 <option value="Gift pack for Rs. 5 more">Gift pack for Rs. 5 more</option>
 </select><br>
+-->
 Ready for awesomeness in a jar?<br>
 <input type="button" border="0"  value="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
 </form>

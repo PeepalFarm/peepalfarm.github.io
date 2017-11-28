@@ -44,10 +44,6 @@ Your money will go towards:
 
 > We can't accept foreign donations. Support our work by  <a href='http://buckdrop.com/poetgk5' class='ej_ejc_ithkbx'>buying lemongrass</a>.
 
-<!--
-
-**2) By credit or debit card:**
+**3) By credit or debit card:**
 
 > https://www.payumoney.com/paybypayumoney/#/155241
-
--->

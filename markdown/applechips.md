@@ -8,6 +8,8 @@ Title: Sundried Organic Apple Chips
 Apple Chips (30gms)
 ===
 
+Apple chips make a great snack to munch on when you are craving something sweet with a crunch! We sourced the ladies in red from Chamba where they are grown with only tender love and care. The thinly sliced apples are first sun dried and then placed in our solar oven for extra crispiness. So next time you are looking for a snack while watching a movie or after gym you can grab a bag full of healthy, sweet satisfaction.
+
 
 **Ingredients:** Sundried Organic Apple Chips 
 

@@ -13,7 +13,7 @@ Apple Chips (30gms)
 
 ### Rs. 70
 
-<form action="hhttps://www.e-junkie.com/ecom/gb.php?c=cart&ejc=2&cl=328984&i=1562738" method="POST" target="ej_ejc" accept-charset="UTF-8">
+<form action="https://www.e-junkie.com/ecom/gb.php?c=cart&ejc=2&cl=328984&i=1562738" method="POST" target="ej_ejc" accept-charset="UTF-8">
 <input type="button" border="0"  value="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
 </form>
 

@@ -14,18 +14,18 @@ Our best sellers
   <p><strong>[Peanut Butter](/?p=pntbtr)</strong><br/>200gms</p>
   [![Peanut Butter](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-9/c0.0.476.476/17861119_1427612810630935_6642541392872603648_n.jpg?oh=a5a4783cb7f7dcc9e0f0c9775adaea27&oe=5A3C344E "Peanut butter")](/?p=pntbtr)
   <!-- [₹125](/?p=pntbtr) --->
-    <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2&on0=Do+you+want+it+with+Cacao%3F&os0=Yes%2C+please%21" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">[₹125]</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=pntbtr250&ejc=2&on0=Do+you+want+it+with+Cacao%3F&os0=Yes%2C+please%21" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹125</a>
   </div>
   <div class="one-third column">
   <p><strong>[Vegan Snack](/?p=vegansnack)</strong><br/>200gms</p>
   [![Vegan Snack](https://scontent.fdel2-1.fna.fbcdn.net/v/t45.5328-0/c0.0.540.540/p180x540/18084135_1490473687637674_3291517847364173824_n.jpg?oh=2590a6b8a7d8f0cde6c8ec3db4fa9112&oe=5A42D47B "Vegan Snack")](/?p=vegansnack)
-    <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=vgnsnk&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">[₹70]</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=vgnsnk&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹70</a>
     <!-- [₹70](/?p=vegansnack) -->
   </div>
   <div class="one-third column">
   <p><strong>[Veganutella](/?p=vegantella)</strong><br/>150gms</p>
     [![Veganutella](/images/vegantella_thumb.jpg "Vegantella")](/?p=vegantella)
-    <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=vgnt150&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">[₹200]</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=vgnt150&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹200</a>
     <!-- [₹200](/?p=vegantella)-->
     </div>
 </div>
@@ -34,7 +34,7 @@ Our best sellers
   <p><strong>[Banana Chips](/?p=bananachips)</strong><br/>50gms</p>
   [![Banana Chips](https://lh5.googleusercontent.com/iClKgh6Z-v5oIi07w0H8PWiM3FTwPZHOtmCrcXhTih4R8QfzAAjjuS49OoOtjlatNjZzRXxC-Q=w740 "Banana Chips")](/?p=bananachips)
   
-  <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=1562739&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">[₹50]</a>
+  <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=328984&i=1562739&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);">₹50</a>
   </div>
   <div class="one-third column">
   <p><strong>[Apple Chips](/?p=applechips)</strong><br/>30gms</p>

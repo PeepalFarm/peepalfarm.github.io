@@ -33,14 +33,6 @@ Weight:<br>
 <option value="250 grams">250 grams (Rs. 125)</option>
 <option value="400 grams">400 grams (Rs. 190)</option>
 </select><br/>
-<input type="hidden" name="on0" value="Do you want it with Cacao?">
-Do you want it with Cacao?:<br>
-<select name="os0">
-<option value="Yes, please!">Yes, please!</option>
-<option value="No, I will be sharing this with my dog :)">No, I will be sharing this with my dog :)</option>
-</select><br>
-<input type='hidden' name='c' value='cart'><input type='hidden' name='cl' value='328984'><input type='hidden' name='i' value='pntbtr'><input type='hidden' name='ejc' value='2'><input type="image" src="https://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0"  alt="Add to Cart" class="ec_ejc_thkbx" onClick="return EJEJC_lc(this.parentNode);">
-</form>
 
 <input type="hidden" name="on0" value="Do you want it with Cacao?">
 Do you want it with Cacao?<br>

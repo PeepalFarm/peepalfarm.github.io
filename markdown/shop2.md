@@ -9,13 +9,17 @@ Javascript: var ej = new EJ_Shop(328984, 9);
 <div id="app_container" class="row">
 </div>	
 <div id="listing_template" hidden>
-  <div class="one-half column">
+  <div class="one-full column">
     {form}
-    <p><strong><a>{title}</a></strong><br/>{tagline}</p>
-    <img src="{thumbnail}" alt="{title}" title="{title}">
+    <div style="float: left; max-width: 40%;"> 
+    	<p><strong><a>{title}</a></strong><br/>{tagline}</p>
+    	<img src="{thumbnail}" alt="{title}" title="{title}" style="max-width: 200px">
+    </div>
+    <div style="float: right; max-width: 60%;"> 
     {options_template}
     <p>₹{price}</p>
     <a href="{link}" target="{link_target}" class="{link_class}" onclick="{onclick}">Add To Cart</a>
+    </div>    
     {/form}
   </div>
 </div>

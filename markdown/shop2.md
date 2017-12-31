@@ -6,7 +6,7 @@ Scripts:
 Javascript: var ej = new EJ_Shop(328984, 9);
 
 -->
-<div id="app_container">
+<div id="app_container" class="row">
 </div>	
 <div id="listing_template" hidden>
   <div class="one-half column">

@@ -1,7 +1,6 @@
 <!--
 Title: Contact us
 Scripts: 
-- https://www.e-junkie.com/ecom/box_fb_n.js
 - https://www.e-junkie.com/e-junkie-shop-script.js
 
 Javascript: var ej = new EJ_Shop(328984, 9);

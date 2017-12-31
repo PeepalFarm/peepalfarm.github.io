@@ -50,8 +50,7 @@ this is a test
 			{/form}
 		</div>
 	</div>
-
-	<div id="dropdown_template" hidden>
+<div id="dropdown_template" hidden>
 		<div class="field">
 			<label class="label">{label}</label>
 			{hidden}
@@ -62,8 +61,7 @@ this is a test
 			</div>
 		</div>
 	</div>
-
-	<div id="text_template" hidden>
+<div id="text_template" hidden>
 		<div class="field">
 		  <label class="label">{label}</label>
 			{hidden}

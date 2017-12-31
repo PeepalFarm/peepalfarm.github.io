@@ -5,7 +5,14 @@ Scripts:
 - https://www.e-junkie.com/e-junkie-shop-script.js
 
 Javascript: var ej = new EJ_Shop(328984, 9);
+
 -->
+this is a test
+===
+
+*a
+*b
+*c
 
 <div id="listing_template" hidden>
 		<div class="column is-4">

@@ -9,7 +9,7 @@ Javascript: var ej = new EJ_Shop(328984, 9);
 <div id="app_container">
 </div>	
 <div id="listing_template" hidden>
-  <div class="one-third column">
+  <div class="one-half column">
     {form}
     <p><strong><a>{title}</a></strong><br/>{tagline}</p>
     <img src="{thumbnail}" alt="{title}" title="{title}">
@@ -22,7 +22,7 @@ Javascript: var ej = new EJ_Shop(328984, 9);
 <div id="dropdown_template" hidden>
 	<label class="label">{label}</label>
 	{hidden}
-	<select name="{name}">{options}</select>
+	<select name="{name}" style="max-width: 250px">{options}</select>
 </div>
 <div id="text_template" hidden>
 	<label class="label">{label}</label>

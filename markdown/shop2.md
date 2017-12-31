@@ -7,13 +7,10 @@ Scripts:
 Javascript: var ej = new EJ_Shop(328984, 9);
 
 -->
-this is a test
-===
-
-*a
-*b
-*c
-
+<div class="container">
+		<div class="columns is-multiline" id="app_container">
+		</div>    
+  </div>
 <div id="listing_template" hidden>
 		<div class="column is-4">
 			{form}

@@ -2,7 +2,7 @@
 Title: Shop 2 Beta
 Scripts: 
 - https://www.e-junkie.com/e-junkie-shop-script.js
-Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],pinned_down:['',''],filters:['for your kitchen','breakfast']});
+Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],pinned_down:['x','y'],filters:['for your kitchen','breakfast']});
 -->
 <style>
 .input_div{
@@ -44,6 +44,13 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 }
 </style>
 
+<!-- 
+	* filter kicks in first
+	* then, sorting
+	* then, pinning
+
+	* search (which is sort of a filter) works on whatever is being displayed
+-->
 <div class="input_div" style="margin-top: 10vh">
 	<input class="input" type="text" placeholder="Search Products" id="ej_search_handler">
 	<select id="ej_sort_handler">

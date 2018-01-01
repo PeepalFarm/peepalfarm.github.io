@@ -2,7 +2,7 @@
 Title: Shop 2 Beta
 Scripts: 
 - https://www.e-junkie.com/e-junkie-shop-script.js
-Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],pinned_down:['x','y'],filters:["FOR YOUR KITCHEN", "BREAKFAST"]});
+Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],pinned_down:['x','y'],filters:null});
 -->
 <style>
 .input_div{

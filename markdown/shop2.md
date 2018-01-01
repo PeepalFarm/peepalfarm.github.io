@@ -71,8 +71,8 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
     		<div class="one-half column SndCol"> 
 <!-- 			<quote style="font-size: 12px;">{description}</quote> -->
 			{form}
+			<p>₹{price}</p>
 			{options_template}
-    			<p>₹{price}</p>
     			<a href="{link}" target="{link_target}" class="cart_btn {link_class}" onclick="{onclick}">Add To Cart</a>
 			{/form}
     		</div>    

@@ -2,7 +2,7 @@
 Title: Shop 2 Beta
 Scripts: 
 - https://www.e-junkie.com/e-junkie-shop-script.js
-Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk']});
+Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],pinned_down:['',''],filters:['for your kitchen','breakfast']});
 -->
 <style>
 .input_div{
@@ -31,7 +31,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 	margin-bottom: 0px;
 }
 .SndCol{
-	padding: 20px;
+	/* padding: 20px; */
 }
 @media(max-width: 600px){
 	.one-half{
@@ -51,7 +51,9 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 		<option value="Popular">Popular</option>
 	</select>
 </div>
-<div id="app_container"></div>
+<div id="app_container">
+	<!-- this is what gets populated with products, using the template below -->
+</div>
 <div id="listing_template" hidden>
 	<div class="row" id="{identifier}" style="{style}">
 	 		<div class="one-half column">

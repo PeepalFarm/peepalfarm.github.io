@@ -2,7 +2,6 @@
 Title: Shop 2 Beta
 Scripts: 
 - http://localhost/e-junkie-mystance/shop-listing/e-junkie-shop-script.js
-- https://code.jquery.com/jquery-3.2.1.min.js
 - https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js
 Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],custom_thumbnails:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg','vgnt150':'http://peepalfarm.org/images/vegantella.jpg'}});alert(ej);
 -->
@@ -72,7 +71,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 </style>
 
 <div class="input_div" style="margin-top: 10vh">
-	<input class="input" type="text" placeholder="Search Products" value="ABC" id="ej_search_handler">
+	<input class="input" type="text" placeholder="Search Products" value="ABCDEF" id="ej_search_handler">
 	<select id="ej_sort_handler">
 		<option value="Latest">Latest</option>
 		<option value="Popular">Popular</option>

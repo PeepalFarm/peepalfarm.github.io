@@ -1,8 +1,10 @@
 <!--
 Title: Shop 2 Beta
 Scripts: 
-- https://www.e-junkie.com/e-junkie-shop-script.js
-Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],custom_thumbnails:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg','vgnt150':'http://peepalfarm.org/images/vegantella.jpg'}});
+- http://localhost/e-junkie-mystance/shop-listing/e-junkie-shop-script.js
+- https://code.jquery.com/jquery-3.2.1.min.js
+- https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js
+Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],custom_thumbnails:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg','vgnt150':'http://peepalfarm.org/images/vegantella.jpg'}}); function ej_shop(x){ if(x.pinned){ x.pinned.forEach(function(y){ document.getElementById("row_"+y).onclick = function(e) { e.preventDefault(); confirm("/?p=product&i="+y); window.location.href = "/?p=product&i="+y;  } }) }; var tmp = "<option value=''>All</option>"; if(x.available_filters != null) x.available_filters.forEach(function(y){ tmp += "<option value='"+y+"'>"+y+"</option>" }); document.getElementById("ej_filter_handler").innerHTML = tmp; }
 -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet">
 <style>
@@ -58,9 +60,6 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 	.desktop-friendly{
 		display: none;
 	}
-	.mobile-friendly select{
-	    	max-width: 250px !important;
-	}
 }
 .modal{
 	font-family: 'Raleway';
@@ -74,16 +73,17 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 
 <div class="input_div" style="margin-top: 10vh">
 	<input class="input" type="text" placeholder="Search Products" id="ej_search_handler">
-	<select id="ej_sort_handler">
+	<!-- <select id="ej_sort_handler">
 		<option value="Latest">Latest</option>
 		<option value="Popular">Popular</option>
-	</select>
+	</select> -->
+	<select id="ej_filter_handler"></select>
 </div>
 <div id="app_container"></div>
 <div id="listing_template" hidden>
 	<div class="index">
 		<div class="row" id="{identifier}" style="{style}">
-		 		<div class="one-half column" data-fancybox data-src="#modal_{identifier}">
+		 		<div class="one-half column" id="row_{number}" data-fancybox data-src="#modal_{identifier}">
 					<p><strong>{title}</strong><br/>{tagline}</p>
 					<img src="{thumbnail}" alt="{title}" title="{title}">
 		<!-- 			<p style="font-size: 13px;">{details}</p> -->

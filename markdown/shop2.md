@@ -64,6 +64,7 @@ Javascript: var ej=new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,p
 </div>
 <a href="https://google.com" onclick="return x(this)">Intent Test</a>
 <a href="intent://news.bbc.co.uk/#Intent;scheme=http;action=android.intent.action.SEND;end">android.intent.action.SEND </a>
+<a href="intent://#Intent;action=android.intent.action.SEND;type=text/plain;S.android.intent.extra.TEXT=http://test.com;S.android.intent.extra.SUBJECT=Test;end">Share Link</a>
 <div id="app_container">
 	<!-- this is what gets populated with products, using the template below -->
 </div>

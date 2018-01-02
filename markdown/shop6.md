@@ -58,6 +58,9 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 	.desktop-friendly{
 		display: none;
 	}
+	.mobile-friendly select{
+	    	max-width: 250px !important;
+	}
 }
 .modal{
 	font-family: 'Raleway';

@@ -2,7 +2,7 @@
 Title: Shop 2 Beta
 Scripts: 
 - https://www.e-junkie.com/e-junkie-shop-script.js
-Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],pinned_down:['x','y'],filters:null});
+Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],pinned_down:['x','y'],filters:null});function x(y){var params = {'action': 'http://webintents.org/share','type': 'text/uri-list','data':y.href};var intent=new WebKitIntent(params);window.navigator.webkitStartActivity(intent,function(data){alert("Received from invoked intent: "+data);});}
 -->
 <style>
 .input_div{
@@ -62,7 +62,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 		<option value="Popular">Popular</option>
 	</select>
 </div>
-<a href="intent:#Intent;action=android.intent.action.SEND;type=text/plain;S.android.intent.extra.TEXT=https%3A%2F%2Fpaul.kinlan.me%2F;end">Intent Test</a>
+<a href="https://google.com" onclick="return x(this)">Intent Test</a>
 <div id="app_container">
 	<!-- this is what gets populated with products, using the template below -->
 </div>

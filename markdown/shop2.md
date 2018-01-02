@@ -136,7 +136,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 <div id="dropdown_template" hidden>
 	<label class="label">{label}</label>
 	{hidden}
-	<select name="{name}">{options}</select>
+	<select name="{name}" style="max-width: 250px;">{options}</select>
 </div>
 <div id="text_template" hidden>
 	<label class="label">{label}</label>

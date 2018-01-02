@@ -63,6 +63,7 @@ Javascript: var ej=new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,p
 	</select>
 </div>
 <a href="https://google.com" onclick="return x(this)">Intent Test</a>
+<a href="intent://news.bbc.co.uk/#Intent;scheme=http;action=android.intent.action.SEND;end">android.intent.action.SEND </a>
 <div id="app_container">
 	<!-- this is what gets populated with products, using the template below -->
 </div>

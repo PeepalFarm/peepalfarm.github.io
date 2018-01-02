@@ -77,7 +77,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 			{form}
 			<p>₹{price}</p>
 			{options_template}
-    			<button class="cart_btn {link_class}" onclick="{onclick}">Add To Cart</button>
+    			<button type="button" class="cart_btn {link_class}" onclick="{onclick}">Add To Cart</button>
 			{/form}
     		</div>    
 	</div>

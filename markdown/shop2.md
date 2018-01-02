@@ -23,6 +23,10 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 	margin-top: 15px;
 	display: block;
 	width: fit-content;
+	line-height: 0px;
+}
+.cart_btn:hover{
+	color: white
 }
 .label{
 	margin-top: 10px;
@@ -73,7 +77,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 			{form}
 			<p>₹{price}</p>
 			{options_template}
-    			<a href="{link}" target="{link_target}" class="cart_btn {link_class}" onclick="{onclick}">Add To Cart</a>
+    			<button class="cart_btn {link_class}" onclick="{onclick}">Add To Cart</button>
 			{/form}
     		</div>    
 	</div>

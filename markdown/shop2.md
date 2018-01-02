@@ -1,9 +1,12 @@
 <!--
 Title: Shop 2 Beta
 Scripts: 
-- https://www.e-junkie.com/e-junkie-shop-script.js
-Javascript: var ej=new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],pinned_down:['x','y'],filters:null});function x(y){var params = {'action':'http://webintents.org/share','type':'text/uri-list','data':y.href};var intent=new WebKitIntent(params);window.navigator.webkitStartActivity(intent,function(data){alert("Received from invoked intent:"+data);});}
+- http://localhost/e-junkie-mystance/shop-listing/e-junkie-shop-script.js
+- https://code.jquery.com/jquery-3.2.1.min.js
+- https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js
+Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],custom_thumbnails:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg','vgnt150':'http://peepalfarm.org/images/vegantella.jpg'}});
 -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet">
 <style>
 .input_div{
 	margin-top: 10px;
@@ -35,26 +38,39 @@ Javascript: var ej=new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,p
 	margin-bottom: 0px;
 }
 .SndCol{
-	/* padding: 20px; */
+	padding: 20px;
+}
+.mobile-friendly{
+	display: none;
+}
+.desktop-friendly{
+	display: block;
 }
 @media(max-width: 600px){
-	.one-half{
+	.index{
 		text-align: center;
 	}
-	.cart_btn{ width: auto; }
+	.cart_btn{ width: 100%; }
 	.SndCol{
 		padding: 0px;
 	}
+	.mobile-friendly{
+		display: block;
+	}
+	.desktop-friendly{
+		display: none;
+	}
+}
+.modal{
+	font-family: 'Raleway';
+}
+.modal img{
+    display: block;
+    max-width: 100%;
+    margin: 20px;
 }
 </style>
 
-<!-- 
-	* filter kicks in first
-	* then, sorting
-	* then, pinning
-
-	* search (which is sort of a filter) works on whatever is being displayed
--->
 <div class="input_div" style="margin-top: 10vh">
 	<input class="input" type="text" placeholder="Search Products" id="ej_search_handler">
 	<select id="ej_sort_handler">
@@ -62,29 +78,60 @@ Javascript: var ej=new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,p
 		<option value="Popular">Popular</option>
 	</select>
 </div>
-<a href="https://google.com" onclick="return x(this)">Intent Test</a>
-<a href="intent://news.bbc.co.uk/#Intent;scheme=http;action=android.intent.action.SEND;end">android.intent.action.SEND </a>
-<a href="intent://#Intent;action=android.intent.action.SEND;type=text/plain;S.android.intent.extra.TEXT=http://test.com;S.android.intent.extra.SUBJECT=Test;end">Share Link</a>
-<div id="app_container">
-	<!-- this is what gets populated with products, using the template below -->
-</div>
+<div id="app_container"></div>
 <div id="listing_template" hidden>
-	<div class="row" id="{identifier}" style="{style}">
+	<div class="index">
+		<div class="row" id="{identifier}" style="{style}">
+		 		<div class="one-half column" data-fancybox data-src="#modal_{identifier}">
+					<p><strong>{title}</strong><br/>{tagline}</p>
+					<img src="{thumbnail}" alt="{title}" title="{title}">
+		<!-- 			<p style="font-size: 13px;">{details}</p> -->
+				</div>
+				<div class="one-half column SndCol"> 
+		<!-- 			<quote style="font-size: 12px;">{description}</quote> -->
+				{form}
+				{options_template}
+				<p>₹{price}</p>
+				<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
+		            Add To Cart
+		        </button>	
+				{/form}
+				</div>    
+		</div>
+	</div>
+	<div class="modal" id="modal_{identifier}" style="display: none">
+		<div class="row" style="text-align: left">
 	 		<div class="one-half column">
-    			<p><strong><a>{title}</a></strong><br/>{tagline}</p>
-    			<img src="{thumbnail}" alt="{title}" title="{title}">
-<!-- 			<p style="font-size: 13px;">{details}</p> -->
+    			<p><strong>{title}</strong></p>
+    			<img src="{custom_thumbnail}" alt="{title}" title="{title}">
+				<quote style="font-size: 14px;">{description}</quote>
+				<div class="desktop-friendly">
+					{form}
+					{options_template}
+					<p>₹{price}</p>
+					<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
+			            Add To Cart
+		            </button>
+					{/form}
+				</div>
     		</div>
     		<div class="one-half column SndCol"> 
-<!-- 			<quote style="font-size: 12px;">{description}</quote> -->
-			{form}
-			<p>₹{price}</p>
-			{options_template}
-    			<button type="button" class="cart_btn {link_class}" onclick="{onclick}">Add To Cart</button>
-			{/form}
+				<p style="font-size: 14px;">{details}</p>
+				<div class="mobile-friendly">
+					{form}
+					{options_template}
+					<p>₹{price}</p>
+					<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
+			            Add To Cart
+		            </button>
+					{/form}
+				</div>
     		</div>    
+		</div>
 	</div>
+
 </div>
+
 <div id="dropdown_template" hidden>
 	<label class="label">{label}</label>
 	{hidden}

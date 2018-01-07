@@ -11,11 +11,10 @@ Join our mailing list
 ==================
 
 <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup" class="container">
+<div id="mc_embed_signup" >
 <form action="https://peepalfarm.us12.list-manage.com/subscribe/post?u=061933e842c04beafb3a09132&amp;id=28785f917c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-
 <div class="row">
-	<div class="one-half column">Email Address  <span class="asterisk">(required)</div>
+	<div class="one-half column">Email Address  <span class="asterisk">(required)</span></div>
 	<div class="one-half column"><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div>
 </div>
 <div class="row">

@@ -97,7 +97,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 </div>
 <div id="listing_template" hidden>
     <div class="index" id="{identifier}" style="{style}">
-        <div id="row_{number}" data-fancybox data-src="#modal_{identifier}">
+        <div id="row_{number}" style="padding: 5px;" data-fancybox data-src="#modal_{identifier}">
             <p><strong>{title}</strong><br/>{tagline}</p>
 	    <div class="thumbnail_holder" style="background-image: url('{thumbnail}');height: 180px;background-size: cover;width: 100%;"></div>
 	    <!--<img src="{thumbnail}" alt="{title}" title="{title}">-->

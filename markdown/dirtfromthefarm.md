@@ -2,13 +2,14 @@
 
 Scripts:
 - //downloads.mailchimp.com/js/signup-forms/popup/embed.js
+- //s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js
 
-Javascript: require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"061933e842c04beafb3a09132","lid":"28785f917c"}) })
+Javascript: require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"061933e842c04beafb3a09132","lid":"28785f917c"}) }); (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);
+
 -->
 
 Dirt from the Farm
 ==================
-5
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -18,9 +19,9 @@ Dirt from the Farm
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="//peepalfarm.us12.list-manage.com/subscribe/post?u=061933e842c04beafb3a09132&amp;id=28785f917c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://peepalfarm.us12.list-manage.com/subscribe/post?u=061933e842c04beafb3a09132&amp;id=28785f917c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe for Monthly Updates from Peepal Farm:</h2>
+	<h2>Subscribe to our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -35,6 +36,10 @@ Dirt from the Farm
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
+<div class="mc-field-group size1of2">
+	<label for="mce-MMERGE3">Phone Number </label>
+	<input type="text" name="MMERGE3" class="" value="" id="mce-MMERGE3">
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -44,5 +49,4 @@ Dirt from the Farm
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->

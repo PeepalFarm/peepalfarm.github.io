@@ -71,7 +71,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
     margin: 20px;
 }
 </style>
-> <center><i>"Buy less, buy well, make it last!"</i></center>
+<center><i>"Buy less, buy well, make it last!"</i></center>
 
 <div class="input_div" style="margin-top: 10vh">
 	<input class="input" type="text" placeholder="Search Products" id="ej_search_handler">
@@ -88,8 +88,8 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 </div>
 <div id="listing_template" hidden>
 	<div class="index">
-		<div id="{identifier}" style="{style}">
-		 		<div class="my-column" id="row_{number}" data-fancybox data-src="#modal_{identifier}">
+		<div id="{identifier}" style="{style}" class="my-column">
+		 		<div id="row_{number}" data-fancybox data-src="#modal_{identifier}">
 					<p><strong>{title}</strong><br/>{tagline}</p>
 					<img src="{thumbnail}" alt="{title}" title="{title}">
 				  {form}

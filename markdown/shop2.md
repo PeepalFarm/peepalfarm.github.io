@@ -46,9 +46,16 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 .desktop-friendly{
 	display: block;
 }
+.index{
+    width: 30%;
+    display: inline-block;
+    margin: 10px;
+}
 @media(max-width: 600px){
 	.index{
-		text-align: center;
+		width: 90%;
+		margin: 0 auto;
+		margin-bottom: 10px;
 	}
 	.cart_btn{ width: 100%; }
 	.SndCol{
@@ -87,19 +94,17 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
   </div>
 </div>
 <div id="listing_template" hidden>
-	<div class="index">
-		<div id="{identifier}" style="{style}" class="my-column">
-		 		<div id="row_{number}" data-fancybox data-src="#modal_{identifier}">
-					<p><strong>{title}</strong><br/>{tagline}</p>
-					<img src="{thumbnail}" alt="{title}" title="{title}">
-				  {form}
-				  <p>₹{price}</p>
-				  <button type="button" id="button_element_{id}" class="cart_btn {button_class}" onclick="{onclick}">
+	<div class="index" id="{identifier}" style="{style}">
+		<div id="row_{number}" data-fancybox data-src="#modal_{identifier}">
+			<p><strong>{title}</strong><br/>{tagline}</p>
+			<img src="{thumbnail}" alt="{title}" title="{title}">
+			{form}
+		  	<p>₹{price}</p>
+			<button type="button" id="button_element_{id}" class="cart_btn {button_class}" onclick="{onclick}">
 		        Add To Cart
-		      </button>	
-				  {/form}
-				</div>    
-		</div>
+		      	</button>	
+		  	{/form}
+		</div>    
 	</div>
 	<div class="modal" id="modal_{identifier}" style="display: none">
 		<div class="row" style="text-align: left">
@@ -137,7 +142,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 <div id="dropdown_template" hidden>
 	<label class="label">{label}</label>
 	{hidden}
-	<select name="{name}">{options}</select>
+	<select name="{name}" style="max-width: 250px">{options}</select>
 </div>
 <div id="text_template" hidden>
 	<label class="label">{label}</label>

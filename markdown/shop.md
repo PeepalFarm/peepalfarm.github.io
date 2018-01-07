@@ -61,7 +61,8 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 		display: none;
 	}
 }
-.modal{
+.modal {
+	max-width: 800px;
 	font-family: 'Raleway';
 }
 .modal img{
@@ -107,7 +108,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 		<div class="row" style="text-align: left">
 	 		<div class="one-half column">
     			<p><strong>{title}</strong></p>
-    			<img src="{custom_thumbnail}" alt="{title}" title="{title}">
+    			<!-- <img src="{custom_thumbnail}" alt="{title}" title="{title}">-->
 				<quote style="font-size: 14px;">{description}</quote>
 				<div class="desktop-friendly">
 					{form}

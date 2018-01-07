@@ -94,6 +94,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.locatio
 			            Add To Cart
 			        </button>	
 					{/form}
+					
 					<p style="color: #009900;"><strong>Related Products</strong></p>
 					{related_products}
 				</div>
@@ -101,7 +102,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.locatio
 	</div>
 </div>
 <div id="related_product_template" hidden>
-	<div class="row" style="text-align: center">
+	<div class="row" style="text-align: left">
 		<a href="/?p=product&i={number}" style="color: black;text-decoration: none;">
 			<p><strong>{title}</strong><br/>{tagline}</p>
 			<img style="width: auto; max-width: 60%" src="{thumbnail}" alt="{title}" title="{title}">

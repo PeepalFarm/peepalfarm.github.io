@@ -126,7 +126,9 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:0,p
                 </div>
             </div>
             <div class="one-half column SndCol"> 
-                <p style="font-size: 14px;">{details}</p>
+                <p style="font-size: 14px;">
+			{details}
+		</p>
                 <div class="mobile-friendly">
                     {form}
                     {options_template}

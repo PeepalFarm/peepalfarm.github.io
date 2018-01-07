@@ -59,6 +59,7 @@ marked.setOptions({
 
 		console.log("req:"+req);
 		console.log("pushstate:"+pushstate);
+		console.log("firstload:"+firstload);
 		console.log("lastPushed:"+lastPushed);
 		
 		

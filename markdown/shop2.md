@@ -46,10 +46,9 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 .desktop-friendly{
 	display: block;
 }
-.index{
-    width: 30%;
+.index{    
+    width: 32%;
     display: inline-block;
-    margin: 10px;
 }
 @media(max-width: 600px){
 	.index{
@@ -108,35 +107,33 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 	</div>
 	<div class="modal" id="modal_{identifier}" style="display: none">
 		<div class="row" style="text-align: left">
-	 		<div class="one-half column">
+			<div class="one-half column">
     			<p><strong>{title}</strong></p>
     			<!-- <img src="{custom_thumbnail}" alt="{title}" title="{title}">-->
-				<quote style="font-size: 14px;">{description}</quote>
-				<div class="desktop-friendly">
-					{form}
-					{options_template}
-					<p>₹{price}</p>
-					<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
-			            Add To Cart
-		            </button>
-					{/form}
-				</div>
+			<quote style="font-size: 14px;">{description}</quote>
+			<div class="desktop-friendly">
+				{form}
+				{options_template}
+				<p>₹{price}</p>
+				<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
+			    	Add To Cart
+		            	</button>
+				{/form}
+			</div>
     		</div>
     		<div class="one-half column SndCol"> 
-				<p style="font-size: 14px;">{details}</p>
-				<div class="mobile-friendly">
-					{form}
-					{options_template}
-					<p>₹{price}</p>
-					<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
-			            Add To Cart
-		            </button>
-					{/form}
-				</div>
+			<p style="font-size: 14px;">{details}</p>
+			<div class="mobile-friendly">
+				{form}
+				{options_template}
+				<p>₹{price}</p>
+				<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
+			    	Add To Cart
+		    		</button>
+				{/form}
+			</div>
     		</div>    
-		</div>
 	</div>
-
 </div>
 
 <div id="dropdown_template" hidden>

@@ -147,9 +147,16 @@ marked.setOptions({
 	function processClicks(obj) {
 		
 		var req=$(obj).attr("href");		
-					
+				
+				  // no slashes after first (if that) and p is present 
 		if (req==="/" || (req.indexOf("/",1)<0 && getURLParameter("p",req)!=null )  ) { 
 		// so it is within app link
+			if (req.substring(0, 1)!="/") {
+			// make sure the req is uniform and not like /?p= sometimes and just ?p other times
+			// so the lastPushed thing above works
+				req = "/" + req;
+			}	
+			
 			window.event.preventDefault ? window.event.preventDefault() : window.event.returnValue = false;
 			loadContent(req,true,false);
 			

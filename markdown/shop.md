@@ -7,13 +7,9 @@ Scripts:
 Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk','1566554','1562738','1564515','1564515'],pinned_down:['1556436', '1556552', '1556556','1566570','1566568','1566569','1566571']}); function ej_shop(x){ var pg=['pntbtr']; if(true) { pg.forEach(function(y){ document.getElementById('row_'+y).onclick = function(e) { e.preventDefault(); window.location.href = "/?p=product&i="+y; } }); } var tmp = "<option value=''>All</option>"; if(x.available_filters != null) x.available_filters.forEach(function(y){ tmp += "<option value='"+y+"'>"+y+"</option>" }); document.getElementById("ej_filter_handler").innerHTML = tmp; }
 -->
 
-<!--
 
-,custom_thumbnails:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg','vgnt150':'http://peepalfarm.org/images/vegantella.jpg'}
 
--->
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet">
 <style>
 .input_div{
 	margin-top: 10px;

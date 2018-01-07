@@ -65,7 +65,8 @@ marked.setOptions({
 			if (lastPushed!=req) {
 				window.history.pushState({ url: req }, "", req);
 			}
-			lastPushed=req;
+			lastPushed=req; // this is pontless as the page refresh will wipe this value. eh.
+			Cookies.set('lastPushed', req);
 		}
 		
 		if (req=="/") {

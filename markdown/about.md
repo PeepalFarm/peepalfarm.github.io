@@ -1,5 +1,11 @@
 <!--
 Title: About us
+
+Scripts:
+- //downloads.mailchimp.com/js/signup-forms/popup/embed.js
+
+Javascript: require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"061933e842c04beafb3a09132","lid":"28785f917c"}) });
+
 -->
 
 <!--

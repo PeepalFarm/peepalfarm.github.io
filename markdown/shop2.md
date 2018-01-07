@@ -47,7 +47,9 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 	display: block;
 }
 .index{    
-    width: 33%;
+    width: 32%;
+    min-width: 32%;
+    max-width: 32%;
     display: inline-flex;
 }
 @media(max-width: 600px){

@@ -3,7 +3,7 @@
 Scripts:
 - //downloads.mailchimp.com/js/signup-forms/popup/embed.js
 
-Javascript:  require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"061933e842c04beafb3a09132","lid":"28785f917c"}) }); (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE3';ftypes[2]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);
+Javascript:  require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"061933e842c04beafb3a09132","lid":"28785f917c"}) })
 
 -->
 

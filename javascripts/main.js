@@ -1,6 +1,7 @@
 
 
-var marked = require('marked');
+//var marked = require('marked');
+
 marked.setOptions({
   renderer: new marked.Renderer(),
   gfm: true,

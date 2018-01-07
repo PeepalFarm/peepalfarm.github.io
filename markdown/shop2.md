@@ -93,47 +93,48 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
   </div>
 </div>
 <div id="listing_template" hidden>
-	<div class="index" id="{identifier}" style="{style}">
-		<div id="row_{number}" data-fancybox data-src="#modal_{identifier}">
-			<p><strong>{title}</strong><br/>{tagline}</p>
-			<img src="{thumbnail}" alt="{title}" title="{title}">
-			{form}
-		  	<p>₹{price}</p>
-			<button type="button" id="button_element_{id}" class="cart_btn {button_class}" onclick="{onclick}">
-		        Add To Cart
-		      	</button>	
-		  	{/form}
-		</div>    
-	</div>
-	<div class="modal" id="modal_{identifier}" style="display: none">
-		<div class="row" style="text-align: left">
-			<div class="one-half column">
-    			<p><strong>{title}</strong></p>
-    			<!-- <img src="{custom_thumbnail}" alt="{title}" title="{title}">-->
-			<quote style="font-size: 14px;">{description}</quote>
-			<div class="desktop-friendly">
-				{form}
-				{options_template}
-				<p>₹{price}</p>
-				<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
-			    	Add To Cart
-		            	</button>
-				{/form}
-			</div>
-    		</div>
-    		<div class="one-half column SndCol"> 
-			<p style="font-size: 14px;">{details}</p>
-			<div class="mobile-friendly">
-				{form}
-				{options_template}
-				<p>₹{price}</p>
-				<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
-			    	Add To Cart
-		    		</button>
-				{/form}
-			</div>
-    		</div>    
-	</div>
+    <div class="index" id="{identifier}" style="{style}">
+        <div id="row_{number}" data-fancybox data-src="#modal_{identifier}">
+            <p><strong>{title}</strong><br/>{tagline}</p>
+            <img src="{thumbnail}" alt="{title}" title="{title}">
+            {form}
+            <p>₹{price}</p>
+            <button type="button" id="button_element_{id}" class="cart_btn {button_class}" onclick="{onclick}">
+                Add To Cart
+                </button>   
+            {/form}
+        </div>    
+    </div>
+    <div class="modal" id="modal_{identifier}" style="display: none">
+        <div class="row" style="text-align: left">
+            <div class="one-half column">
+                <p><strong>{title}</strong></p>
+                <!-- <img src="{custom_thumbnail}" alt="{title}" title="{title}">-->
+                <quote style="font-size: 14px;">{description}</quote>
+                <div class="desktop-friendly">
+                    {form}
+                    {options_template}
+                    <p>₹{price}</p>
+                    <button type="button" class="cart_btn {button_class}" onclick="{onclick}">
+                    Add To Cart
+                    </button>
+                    {/form}
+                </div>
+            </div>
+            <div class="one-half column SndCol"> 
+                <p style="font-size: 14px;">{details}</p>
+                <div class="mobile-friendly">
+                    {form}
+                    {options_template}
+                    <p>₹{price}</p>
+                    <button type="button" class="cart_btn {button_class}" onclick="{onclick}">
+                    Add To Cart
+                    </button>
+                    {/form}
+                </div>
+            </div>    
+        </div>
+    </div>
 </div>
 
 <div id="dropdown_template" hidden>

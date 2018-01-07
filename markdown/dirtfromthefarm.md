@@ -1,9 +1,9 @@
 <!--
 
 Scripts:
-- //downloads.mailchimp.com/js/signup-forms/popup/embed.js
-
-Javascript:  require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"061933e842c04beafb3a09132","lid":"28785f917c"}) })
+- //s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js
+	
+Javascript: (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE2';ftypes[2]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);
 
 -->
 
@@ -13,10 +13,9 @@ Subscribe to our mailing list
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://peepalfarm.us12.list-manage.com/subscribe/post?u=061933e842c04beafb3a09132&amp;id=28785f917c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">(required)</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>

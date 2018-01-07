@@ -17,13 +17,10 @@ Rescues
 Product Orders
 ----------
 
-> **Phone**  
-> [+91 8352 806 535](tel:08352806535) (if unable to reach, leave a WhatsApp message)
-
-> **E-mail** (preferred)
+> **E-mail** 
 > [peepalfarm.products@gmail.com](mailto:peepalfarm.products@gmail.com)
 
-Visiting us or sending supplies?
+Visiting us, sending supplies or mailing us a check?
 ----------
 
 > [Peepal Farm](/?p=directions)  
@@ -39,7 +36,7 @@ Anything Else?
 > [peepalfarm@gmail.com](mailto:peepalfarm@gmail.com)
 
 > **Landline**  
-> [+91 1892 277009](tel:0911892277009) (Call between 9:30am and 12:30pm)
+> [+91 1892 277009](tel:0911892277009) (Call between 9:00am and 1:00pm, or 2:00pm to 5:00pm)
 
 
 	

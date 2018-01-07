@@ -67,6 +67,7 @@ marked.setOptions({
 				window.history.pushState({ url: req }, "", req);
 			}
 			Cookies.set('lastPushed', req);
+			
 		}
 		
 		if (req=="/") {

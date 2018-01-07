@@ -1,10 +1,10 @@
 <!--
 Title: Shop 2 Beta
-Scripts: 
+Scripts: 	
 - https://www.e-junkie.com/e-junkie-shop-script.js
 - https://code.jquery.com/jquery-3.2.1.min.js
 - https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js
-Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],custom_thumbnails:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg','vgnt150':'http://peepalfarm.org/images/vegantella.jpg'}}); function ej_shop(x){ if(x.pinned){ x.pinned.forEach(function(y){ document.getElementById("row_"+y).onclick = function(e) { e.preventDefault(); confirm("/?p=product&i="+y); window.location.href = "/?p=product&i="+y;  } }) }; var tmp = "<option value=''>All</option>"; if(x.available_filters != null) x.available_filters.forEach(function(y){ tmp += "<option value='"+y+"'>"+y+"</option>" }); document.getElementById("ej_filter_handler").innerHTML = tmp; }
+Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400,pinned:['pntbtr', 'vgnt150', 'vgnsnk'],custom_thumbnails:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg','vgnt150':'http://peepalfarm.org/images/vegantella.jpg'}}); function ej_shop(x){ if(x.pinned) { x.pinned.forEach(function(y){ document.getElementById('row_'+y).onclick = function(e) { e.preventDefault(); window.location.href = "/?p=product&i="+y; } }); } var tmp = "<option value=''>All</option>"; if(x.available_filters != null) x.available_filters.forEach(function(y){ tmp += "<option value='"+y+"'>"+y+"</option>" }); document.getElementById("ej_filter_handler").innerHTML = tmp; }
 -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet">
 <style>
@@ -79,7 +79,9 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 	</select> -->
 	<select id="ej_filter_handler"></select>
 </div>
-<div id="app_container"></div>
+<div id="app_container">
+	<img src="http://migyeongsophialim.com/img/loadinganimation.gif" style="max-width: 200px;margin: 0 auto;margin-top: 15vh;display: block;">
+</div>
 <div id="listing_template" hidden>
 	<div class="index">
 		<div class="row" id="{identifier}" style="{style}">
@@ -136,7 +138,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 <div id="dropdown_template" hidden>
 	<label class="label">{label}</label>
 	{hidden}
-	<select name="{name}" style="max-width: 250px;">{options}</select>
+	<select name="{name}">{options}</select>
 </div>
 <div id="text_template" hidden>
 	<label class="label">{label}</label>

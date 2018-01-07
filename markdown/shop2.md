@@ -47,8 +47,8 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 	display: block;
 }
 .index{    
-    width: 32%;
-    display: inline-block;
+    width: 33%;
+    display: inline-flex;
 }
 @media(max-width: 600px){
 	.index{
@@ -96,7 +96,8 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
     <div class="index" id="{identifier}" style="{style}">
         <div id="row_{number}" data-fancybox data-src="#modal_{identifier}">
             <p><strong>{title}</strong><br/>{tagline}</p>
-            <img src="{thumbnail}" alt="{title}" title="{title}">
+	    <div class="thumbnail_holder" style="background-image: url('{thumbnail}')"></div>
+	    <!--<img src="{thumbnail}" alt="{title}" title="{title}">-->
             {form}
             <p>₹{price}</p>
             <button type="button" id="button_element_{id}" class="cart_btn {button_class}" onclick="{onclick}">

@@ -82,7 +82,7 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading:false,l
 </style>
 <center><i>"Buy less, buy well, make it last!"</i></center>
 
-<div class="input_div" style="margin-top: 10vh">
+<div class="input_div" style="margin-top: 5vh">
 	<input class="input" type="text" placeholder="Search Products" id="ej_search_handler">
 	<!-- <select id="ej_sort_handler">
 		<option value="Latest">Latest</option>

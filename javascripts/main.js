@@ -55,6 +55,11 @@ marked.setOptions({
 
 	function loadContent(req,pushstate,firstload) {
 		
+		Console.log("req:"+req);
+		Console.log("pushstate:"+pushstate);
+		Console.log("firstload:"+firstload);
+		
+		
 		if (pushstate) {
 			// lastPushed is a global state maintained so that we don't push things in history in case of page refresh
 			if (lastPushed!=req) {

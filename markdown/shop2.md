@@ -55,9 +55,9 @@ Javascript: var ej = new EJ_Shop({client_id:328984,offset:8,lazy_loading_eff:400
 }
 @media(max-width: 600px){
 	.index{
-		width: 90%;
+		min-width: 100%;
 		margin: 0 auto;
-		margin-bottom: 10px;
+		margin-bottom: -10px;
 	}
 	.cart_btn{ width: 100%; }
 	.SndCol{

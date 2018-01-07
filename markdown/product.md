@@ -80,21 +80,20 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.locatio
 <div id="listing_template" hidden>
 	<div class="index">
 		<div class="row" id="{identifier}" style="{style}">
-		 		<div class="one-half column" id="row_{number}">
+		 		<div class="two-thirds column" id="row_{number}">
 					<p><strong>{title}</strong><br/>{description}</p>
 					<img style="width: auto; max-width: 100%" id="thumbnail_element" src="{thumbnail}" alt="{title}" title="{title}">
 					<img style="width: auto; max-width: 100%" id="custom_thumbnail_element" src="{custom_thumbnail}" alt="{title}" title="{title}">
 					<p>{details}</p>
 				</div>
-				<div class="one-half column">
+				<div class="one-third column">
 					{form}
 					{options_template}
 					<p>₹{price}</p>
 					<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
-			            Add To Cart
-			        </button>	
+			            	Add To Cart
+			        	</button>	
 					{/form}
-					
 					<p style="color: #009900;"><strong>Related Products</strong></p>
 					{related_products}
 				</div>
@@ -112,7 +111,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.locatio
 <div id="dropdown_template" hidden>
 	<label class="label">{label}</label>
 	{hidden}
-	<select name="{name}">{options}</select>
+	<select name="{name}" style="max-width:250px;">{options}</select>
 </div>
 <div id="text_template" hidden>
 	<label class="label">{label}</label>

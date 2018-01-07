@@ -2,4 +2,4 @@
 
 -->
 
-<p><center>[This page has moved](/?p=pntbtr).</center></p>
+<p><center>[This page has moved](/?p=product&i=pntbtr).</center></p>

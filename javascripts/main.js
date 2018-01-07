@@ -55,9 +55,9 @@ marked.setOptions({
 
 	function loadContent(req,pushstate,firstload) {
 		
-		Console.log("req:"+req);
-		Console.log("pushstate:"+pushstate);
-		Console.log("firstload:"+firstload);
+		console.log("req:"+req);
+		console.log("pushstate:"+pushstate);
+		console.log("firstload:"+firstload);
 		
 		
 		if (pushstate) {

@@ -210,7 +210,9 @@
 			loadContent ("/"+window.location.search,true,true);
 			
 			$(window).on("popstate", function (e) {
+			  console.log("popstate!");
 			  if (e.originalEvent.state) {
+				  console.log("condition met!");
 				loadContent(e.originalEvent.state.url,false,false);
 			  }
 			});

@@ -2,9 +2,8 @@
 
 Scripts:
 - //downloads.mailchimp.com/js/signup-forms/popup/embed.js
-- //s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js
 
-Javascript: require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"061933e842c04beafb3a09132","lid":"28785f917c"}) }); (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);
+Javascript:  (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MMERGE3';ftypes[2]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);
 
 -->
 
@@ -31,10 +30,6 @@ Dirt from the Farm
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-	<label for="mce-LNAME">Last Name </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group size1of2">
 	<label for="mce-MMERGE3">Phone Number </label>

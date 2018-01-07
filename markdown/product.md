@@ -1,10 +1,10 @@
 <!--
-Title: Product Beta
+Title: Shop 2 Beta
 Scripts: 
 - https://www.e-junkie.com/e-junkie-shop-script.js
 - https://code.jquery.com/jquery-3.2.1.min.js
 - https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js
-Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.location.search.split('i=')[1],custom_thumbnail:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'}});
+Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.location.search.split('i=')[1],custom_thumbnail:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'},show_related:true}); function ej_shop(x){ if(x.custom_thumbnail[x.itemNumber]) $('#thumbnail_element').remove(); else $('#custom_thumbnail_element').remove(); }
 -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet">
 <style>
@@ -69,6 +69,10 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.locatio
     max-width: 100%;
     margin: 20px;
 }
+#app_container img{
+	max-width: 100%;
+    width: auto;
+}
 </style>
 <div id="app_container">
 	<img src="http://migyeongsophialim.com/img/loadinganimation.gif" style="max-width: 200px;margin: 0 auto;margin-top: 15vh;display: block;">
@@ -76,23 +80,32 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.locatio
 <div id="listing_template" hidden>
 	<div class="index">
 		<div class="row" id="{identifier}" style="{style}">
-		 		<div class="one-half column" id="row_{number}" data-fancybox data-src="#modal_{identifier}">
-					<p><strong>{title}</strong><br/>{tagline}</p>
-					<img src="{thumbnail}" alt="{title}" title="{title}">
-					<img src="{custom_thumbnail}" alt="{title}" title="{title}">
-					<p style="font-size: 13px;">{details}</p>
+		 		<div class="one-half column" id="row_{number}">
+					<p><strong>{title}</strong><br/>{description}</p>
+					<img style="width: auto; max-width: 100%" id="thumbnail_element" src="{thumbnail}" alt="{title}" title="{title}">
+					<img style="width: auto; max-width: 100%" id="custom_thumbnail_element" src="{custom_thumbnail}" alt="{title}" title="{title}">
+					<p>{details}</p>
 				</div>
-				<div class="one-half column SndCol"> 
-					<quote style="font-size: 12px;">{description}</quote>
-				{form}
-				{options_template}
-				<p>₹{price}</p>
-				<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
-		            Add To Cart
-		        </button>	
-				{/form}
-				</div>    
+				<div class="one-half column">
+					{form}
+					{options_template}
+					<p>₹{price}</p>
+					<button type="button" class="cart_btn {button_class}" onclick="{onclick}">
+			            Add To Cart
+			        </button>	
+					{/form}
+					<p style="color: #009900;"><strong>Related Products</strong></p>
+					{related_products}
+				</div>
 		</div>
+	</div>
+</div>
+<div id="related_product_template" hidden>
+	<div class="row" style="text-align: center">
+		<a href="/?p=product&i={number}" style="color: black;text-decoration: none;">
+			<p><strong>{title}</strong><br/>{tagline}</p>
+			<img style="width: auto; max-width: 60%" src="{thumbnail}" alt="{title}" title="{title}">
+		</a>
 	</div>
 </div>
 <div id="dropdown_template" hidden>

@@ -47,9 +47,6 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.locatio
 	display: block;
 }
 @media(max-width: 600px){
-	.index{
-		text-align: center;
-	}
 	.cart_btn{ width: 100%; }
 	.SndCol{
 		padding: 0px;
@@ -104,7 +101,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.locatio
 	<div class="row" style="text-align: left">
 		<a href="/?p=product&i={number}" style="color: black;text-decoration: none;">
 			<p><strong>{title}</strong><br/>{tagline}</p>
-			<img style="width: auto; max-width: 60%" src="{thumbnail}" alt="{title}" title="{title}">
+			<img style="width: auto; max-width: 100%" src="{thumbnail}" alt="{title}" title="{title}">
 		</a>
 	</div>
 </div>

@@ -1,10 +1,10 @@
 <!--
-Title: Shop 2 Beta
+Title: Product Beta
 Scripts: 
-- http://localhost/e-junkie-mystance/shop-listing/e-junkie-shop-script.js
+- https://www.e-junkie.com/e-junkie-shop-script.js
 - https://code.jquery.com/jquery-3.2.1.min.js
 - https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js
-Javascript: var ej = new EJ_Product({client_id:328984,item_id:window.location.search.split('i=')[1],custom_thumbnail:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'}});
+Javascript: var ej = new EJ_Product({client_id:328984,item_number:window.location.search.split('i=')[1],custom_thumbnail:{'pntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'}});
 -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet">
 <style>
@@ -79,6 +79,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,item_id:window.location.se
 		 		<div class="one-half column" id="row_{number}" data-fancybox data-src="#modal_{identifier}">
 					<p><strong>{title}</strong><br/>{tagline}</p>
 					<img src="{thumbnail}" alt="{title}" title="{title}">
+					<img src="{custom_thumbnail}" alt="{title}" title="{title}">
 					<p style="font-size: 13px;">{details}</p>
 				</div>
 				<div class="one-half column SndCol"> 

@@ -34,7 +34,6 @@ Join our mailing list
  
  <input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button">
 
-    </div>
 </form>
 </div>
 <!--End mc_embed_signup-->

@@ -54,18 +54,18 @@ marked.setOptions({
 
 
 	function loadContent(req,pushstate,firstload) {
-		
+		var lastPushed=Cookies.get('lastPushed');
+
 		console.log("req:"+req);
 		console.log("pushstate:"+pushstate);
 		console.log("lastPushed:"+lastPushed);
 		
 		
 		if (pushstate) {
-			// lastPushed is a global state maintained so that we don't push things in history in case of page refresh
+			// lastPushed is used so that we don't push things in history in case of page refresh
 			if (lastPushed!=req) {
 				window.history.pushState({ url: req }, "", req);
 			}
-			lastPushed=req; // this is pontless as the page refresh will wipe this value. eh.
 			Cookies.set('lastPushed', req);
 		}
 		

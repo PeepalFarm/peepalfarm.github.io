@@ -54,6 +54,7 @@ marked.setOptions({
 
 
 	function loadContent(req,pushstate,firstload) {
+		
 		var lastPushed=Cookies.get('lastPushed');
 
 		console.log("req:"+req);
@@ -64,9 +65,11 @@ marked.setOptions({
 		if (pushstate) {
 			// lastPushed is used so that we don't push things in history in case of page refresh
 			if (lastPushed!=req) {
-				window.history.pushState({ url: req }, "", req);
+				window.history.pushState({ url: req }, "", req)
+				console.log("pushed in history":+req);
+				Cookies.set('lastPushed', req);
+
 			}
-			Cookies.set('lastPushed', req);
 			
 		}
 		

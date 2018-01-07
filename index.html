@@ -211,8 +211,10 @@
 			
 			$(window).on("popstate", function (e) {
 			  console.log("popstate!");
+			  console.log(e.originalEvent.state);
+				  // !== null
 			  if (e.originalEvent.state) {
-				  console.log("condition met!");
+				console.log("condition met!");
 				loadContent(e.originalEvent.state.url,false,false);
 			  }
 			});

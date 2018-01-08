@@ -71,8 +71,7 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
 	}
 	.thumbnail_holder{
 		max-height: 350px;
-		height: auto;
-		min-height: 250px;
+		min-height: 350px;
 	}
 }
 .modal {

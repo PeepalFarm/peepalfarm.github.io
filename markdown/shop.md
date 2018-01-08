@@ -103,8 +103,8 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
     <div class="index" id="{identifier}" style="{style}">
         <div id="row_{number}" style="padding: 5px;" data-fancybox data-src="#modal_{identifier}">
             <p><strong>{title}</strong><br/>{tagline}</p>
-	    <div class="thumbnail_holder" style="background-image: url('{thumbnail}');height: 180px;background-size: cover;width: 100%;"></div>
-	    <!--<img src="{thumbnail}" alt="{title}" title="{title}">-->
+	    <div class="desktop-friendly thumbnail_holder" style="background-image: url('{thumbnail}');height: 180px;background-size: cover;width: 100%;"></div>
+	    <img class="mobile-friendly" src="{thumbnail}" alt="{title}" title="{title}">
             {form}
             <p>₹{price}</p>
             <button type="button" id="button_element_{id}" class="cart_btn {button_class}" onclick="{onclick}">

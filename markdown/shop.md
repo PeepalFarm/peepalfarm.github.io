@@ -66,6 +66,10 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
 	.mobile-friendly{
 		display: block;
 	}
+	img.mobile-friendly{
+		width: auto;
+		height: auto;
+	}
 	.desktop-friendly{
 		display: none;
 	}

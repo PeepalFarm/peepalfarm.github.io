@@ -67,8 +67,9 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
 		display: block;
 	}
 	img.mobile-friendly{
-		width: auto;
-		height: auto;
+		width: auto !important;
+    		max-width: 100%;
+    		height: auto;
 	}
 	.desktop-friendly{
 		display: none;

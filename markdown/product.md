@@ -116,6 +116,6 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_related_max:4,item_nu
 	{hidden}
 </div>
 
-**All our products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our [village](https://en.wikipedia.org/wiki/Dhanotu) and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **
+**All "Peepal Farm" products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our [village](https://en.wikipedia.org/wiki/Dhanotu) and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **
 
 [&laquo; Back to shop](/?p=shop)

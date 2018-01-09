@@ -81,7 +81,7 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
 }
 .modal {
 	max-width: 800px;
-	font-family: 'Raleway';
+	font-family: Raleway;
 }
 .modal img{
     display: block;

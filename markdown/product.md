@@ -127,9 +127,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_tags:true,show_relate
 	{hidden}
 </div>
 <div id="tags_template" hidden>
-	<a href="/?p=shop&cat={html_name}">
-		<div class="tag">{name}</div>
-	</a>
+	<a class="tag" href="/?p=shop&cat={html_name}">{name}</a>
 </div>
 
 **All "Peepal Farm" products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our [village](https://en.wikipedia.org/wiki/Dhanotu) and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **

@@ -88,6 +88,11 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
     max-width: 100%;
     margin: 20px;
 }
+.product_title{
+    margin: 0;
+    margin-bottom: -10px;
+    text-indent: 5px;
+}
 </style>
 <center><i>"Buy less, buy well, make it last!"</i></center>
 
@@ -106,7 +111,7 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
 </div>
 <div id="listing_template" hidden>
     <div class="index" id="{identifier}" style="{style}">
-	<p><a href="/?p=product&i={number}"><strong>{title}</strong></a></p>
+	<p class="product_title"><a href="/?p=product&i={number}"><strong>{title}</strong></a></p>
         <div id="row_{number}" style="padding: 5px;" data-fancybox data-src="#modal_{identifier}">
             <p>{tagline}</p>
 	    <div class="desktop-friendly thumbnail_holder" style="background-image: url('{thumbnail}');height: 180px;background-size: cover;width: 100%;"></div>

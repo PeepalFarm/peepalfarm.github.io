@@ -91,7 +91,7 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
 .product_title{
     margin: 0;
     margin-bottom: -10px;
-    text-indent: 5px;
+    padding-left: 5px;
 }
 </style>
 <center><i>"Buy less, buy well, make it last!"</i></center>

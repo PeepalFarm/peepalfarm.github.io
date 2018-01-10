@@ -71,7 +71,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_tags:true,show_relate
     width: auto;
 }
 .tag{
-    background-color: #bbb6b6;
+    background-color: #ffcc00;
     border-radius: 0px;
     color: #060606;
     padding: 5px 10px;

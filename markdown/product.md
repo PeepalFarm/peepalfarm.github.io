@@ -83,7 +83,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_tags:true,show_relate
     margin-bottom: 10px;
 }
 </style>
-<div id="app_container">
+<div id="app_container" style="margin-top: 30px;">
 	<img src="http://migyeongsophialim.com/img/loadinganimation.gif" style="max-width: 200px;margin: 0 auto;margin-top: 15vh;display: block;">
 </div>
 <div id="listing_template" hidden>

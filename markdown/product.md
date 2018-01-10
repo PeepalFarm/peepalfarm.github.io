@@ -70,6 +70,16 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_related_max:4,item_nu
 	max-width: 100%;
     width: auto;
 }
+.tag{
+    background-color: #bbb6b6;
+    border-radius: 0px;
+    color: #060606;
+    padding: 5px 10px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 2px 0px #444;
+    text-decoration: none;
+    font-size: 14px;
+}
 </style>
 <div id="app_container">
 	<img src="http://migyeongsophialim.com/img/loadinganimation.gif" style="max-width: 200px;margin: 0 auto;margin-top: 15vh;display: block;">
@@ -77,6 +87,7 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_related_max:4,item_nu
 <div id="listing_template" hidden>
 	<div class="index">
 		<div class="row" id="{identifier}" style="{style}">
+				{tags}
 		 		<div class="two-thirds column" id="row_{number}">
 					<p><strong>{title}</strong><br/>{description}</p>
 					<img style="width: auto; max-width: 100%" id="thumbnail_element" src="{thumbnail}" alt="{title}" title="{title}">
@@ -114,6 +125,11 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_related_max:4,item_nu
 	<label class="label">{label}</label>
 	<input class="input" type="text" placeholder="{placeholder}" name="{name}">
 	{hidden}
+</div>
+<div id="tags_template" hidden>
+	<a href="/?p=shop&cat={html_name}">
+		<div class="tag">{name}</div>
+	</a>
 </div>
 
 **All "Peepal Farm" products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our [village](https://en.wikipedia.org/wiki/Dhanotu) and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **

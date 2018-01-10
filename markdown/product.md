@@ -79,6 +79,8 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_tags:true,show_relate
     box-shadow: 0px 0px 2px 0px #444;
     text-decoration: none;
     font-size: 14px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 </style>
 <div id="app_container">
@@ -87,8 +89,8 @@ Javascript: var ej = new EJ_Product({client_id:328984,show_tags:true,show_relate
 <div id="listing_template" hidden>
 	<div class="index">
 		<div class="row" id="{identifier}" style="{style}">
-				{tags}
 		 		<div class="two-thirds column" id="row_{number}">
+					{tags}
 					<p><strong>{title}</strong><br/>{description}</p>
 					<img style="width: auto; max-width: 100%" id="thumbnail_element" src="{thumbnail}" alt="{title}" title="{title}">
 					<img style="width: auto; max-width: 100%" id="custom_thumbnail_element" src="{custom_thumbnail}" alt="{title}" title="{title}">

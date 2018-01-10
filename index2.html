@@ -163,7 +163,7 @@
 	
 	<script src="/javascripts/js-yaml.js"></script>
 	<script src="/javascripts/marked.js"></script>
-	<script src="/javascripts/main.js"></script>
+	<script src="/javascripts/main2.js"></script>
 	<script src="/javascripts/Cookies.js"></script>
 
 	<script>
@@ -220,16 +220,14 @@
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
-	  gtag('config', analytics_id);
 	  gtag('config','linker': {
 	    'domains': ['e-junkie.com'],
 	     'decorate_forms': true
 	   }
 	  });
-		
+	  // one of the event fires in main.js when content is loaded
 	</script>
-
-	
+		
 	<!-- Facebook Pixel Code -->
 	<script>
 	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -238,12 +236,8 @@
 	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 	document,'script','https://connect.facebook.net/en_US/fbevents.js');
 	fbq('init', '1746073432273976');
-	fbq('track', 'PageView');
+	// one of the event fires in main.js when content is loaded
 	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	src="https://www.facebook.com/tr?id=1746073432273976&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- DO NOT MODIFY -->
 	<!-- End Facebook Pixel Code -->
 
 	
@@ -269,6 +263,9 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+	
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1746073432273976&ev=PageView&noscript=1"/></noscript>
+	
 	<header>
 			
 			<center>

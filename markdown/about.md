@@ -63,4 +63,5 @@ We believe that every action for survival has a suffering footprint, especially 
 *non-organization structure - mother's definition of work?
 -->
 
-<a href='http://www.e-junkie.com/'>...</a>
+<a href='http://www.e-junkie.com/'>.</a><form action='http://e-junkie.com/ecom/gb.php'><input type='submit' name='submit' value='*'/></form>
+

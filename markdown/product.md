@@ -1,5 +1,5 @@
 <!--
-Title: Shop 2 Beta
+Title: Product details
 Scripts: 
 - https://www.e-junkie.com/e-junkie-shop-script.js
 - https://code.jquery.com/jquery-3.2.1.min.js

@@ -26,4 +26,16 @@ new1
   size="standard">
 </div>
 
+
+new 2
+<div class="fb-messenger-checkbox"
+  origin="https://peepalfarm.org"
+  messenger_app_id="100106846859332" 
+  page_id="1504767806516890" 
+  user_ref="pg4"
+  prechecked="true"
+  allow_login="true"
+  size="standard">
+</div>
+
 ---------------------------------------------------------

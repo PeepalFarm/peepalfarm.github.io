@@ -5,7 +5,7 @@
 [https://m.me/peepalfarm?ref=pg2]
 
 ---------------------------------------------------------
-<!--
+
 <div class="fb-send-to-messenger" 
   messenger_app_id="100106846859332" 
   page_id="1504767806516890" 
@@ -13,7 +13,7 @@
   color="white" 
   size="standard">
 </div>
--->
+
 ---------------------------------------------------------
 
 <div class="fb-messenger-checkbox"  

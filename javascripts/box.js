@@ -2032,9 +2032,21 @@ if (typeof EJEJC_IGNORECONFLICT != 'undefined') {
     ejejc_jQuery = jQuery.noConflict();
 }
 
-if (EJV1_loadFlag===undefined) {
-	var EJV1_loadFlag = true; // this is as box.js is loaded in iframe and there we set it to false
-} 
+try () {
+	if (typeof EJV1_loadFlag=="undefined") {
+		var EJV1_loadFlag = true; // this is as box.js is loaded in iframe and there we set it to false
+	} 
+} catch (e) {
+	console.log(e);
+}
+
+try () {
+	if (typeof EJV1_Script=="undefined") {
+		var EJV1_Script="/checkStatus.php?cl="+cl;
+	}
+} catch (e) {
+	console.log(e);
+}
 
 var EJV1_cartUrl = null;
 
@@ -2049,8 +2061,6 @@ var EJV1_Server = "https://www.e-junkie.com";
 var EJV1_Location = "/ecom/restified";
 
 var EJV1_th_cache = null;
-
-var EJV1_Script="/checkStatus.php?cl="+cl;
 
 jQuery( document ).ready(function() {
     var found_cart_btns = false;

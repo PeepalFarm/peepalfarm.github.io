@@ -2040,26 +2040,21 @@ try () {
 	console.log(e);
 }
 
+var EJV1_Server = "https://www.e-junkie.com";
+var EJV1_Location = "/ecom/restified";
+
 try () {
 	if (typeof EJV1_Script=="undefined") {
-		var EJV1_Script="/checkStatus.php?cl="+cl;
+		var EJV1_Script=EJV1_Server+EJV1_Location+"/checkStatus.php";
 	}
 } catch (e) {
 	console.log(e);
 }
 
 var EJV1_cartUrl = null;
-
 var EJV1_cartInitialized = false;
-
 var EJV1_script_loaded = false;
-
 var EJV1_cart_version = null;
-
-var EJV1_Server = "https://www.e-junkie.com";
-
-var EJV1_Location = "/ecom/restified";
-
 var EJV1_th_cache = null;
 
 jQuery( document ).ready(function() {
@@ -2168,8 +2163,10 @@ jQuery( document ).ready(function() {
 
 
 function EJV1_injectBoxScript(cl){
-    var url = EJV1_Server+EJV1_Location+EJV1_Script;
+    var url = EJV1_Script+"?cl="+cl;
 
+	console.log(url);
+	
     d = document;
     var t=d.createElement('script');
     t.setAttribute('src', url);

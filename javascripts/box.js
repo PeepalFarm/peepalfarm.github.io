@@ -2032,7 +2032,7 @@ if (typeof EJEJC_IGNORECONFLICT != 'undefined') {
     ejejc_jQuery = jQuery.noConflict();
 }
 
-try () {
+try {
 	if (typeof EJV1_loadFlag=="undefined") {
 		var EJV1_loadFlag = true; // this is as box.js is loaded in iframe and there we set it to false
 	} 
@@ -2043,7 +2043,7 @@ try () {
 var EJV1_Server = "https://www.e-junkie.com";
 var EJV1_Location = "/ecom/restified";
 
-try () {
+try {
 	if (typeof EJV1_Script=="undefined") {
 		var EJV1_Script=EJV1_Server+EJV1_Location+"/checkStatus.php";
 	}

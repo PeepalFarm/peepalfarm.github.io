@@ -2032,7 +2032,9 @@ if (typeof EJEJC_IGNORECONFLICT != 'undefined') {
     ejejc_jQuery = jQuery.noConflict();
 }
 
+
 try {
+	
 	if (typeof EJV1_loadFlag=="undefined") {
 		var EJV1_loadFlag = true; // this is as box.js is loaded in iframe and there we set it to false
 	} 

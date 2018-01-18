@@ -2053,13 +2053,30 @@ try {
 	console.log(e);
 }
 
+try {
+	if (typeof EJV1_cart_version=="undefined") {
+		var EJV1_cart_version = null;
+	}
+} catch (e) {
+	console.log(e);
+}
 var EJV1_cartUrl = null;
 var EJV1_cartInitialized = false;
 var EJV1_script_loaded = false;
-var EJV1_cart_version = null;
 var EJV1_th_cache = null;
 
 jQuery( document ).ready(function() {
+console.log(EJV1_cart_version);
+console.log(EJV1_loadFlag);
+console.log(EJV1_cart_version===0);
+
+
+if (EJV1_cart_version===0 || EJV1_cart_version===1) {
+console.log("we made it");
+	// we have been summoned from box_fb_n or _o
+	EJV1_injectBoxScript(EJV1_cart_version);
+} else {
+
     var found_cart_btns = false;
     var cl = null;
     var cartLoaded = false;
@@ -2160,6 +2177,7 @@ jQuery( document ).ready(function() {
             	EJV1_injectBoxScript(0);
         }
     }
+}
 }); 
 
 

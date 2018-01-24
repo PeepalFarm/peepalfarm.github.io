@@ -112,12 +112,14 @@ Javascript: var cat=window.location.search.split('&c=')[1]; if (!cat) cat=''; el
 <div id="listing_template" hidden>
     <div class="index" id="{identifier}" style="{style}">
 	<p class="product_title"><a href="/?p=product&i={number}"><strong>{title}</strong></a></p>
-        <div id="row_{number}" style="padding: 5px;" data-fancybox data-src="#modal_{identifier}">
-            <p>{tagline}</p>
-	    <div class="desktop-friendly thumbnail_holder" style="background-image: url('{thumbnail}');height: 180px;background-size: cover;width: 100%; background-position: center; "></div>
-	    <img class="mobile-friendly" src="{thumbnail}" alt="{title}" title="{title}">
+        <div id="row_{number}" style="padding: 5px;">
+	    <div data-fancybox data-src="#modal_{identifier}">
+            	<p>{tagline}</p>
+	    	<div class="desktop-friendly thumbnail_holder" style="background-image: url('{thumbnail}');height: 180px;background-size: cover;width: 100%; background-position: center; "></div>
+	    	<img class="mobile-friendly" src="{thumbnail}" alt="{title}" title="{title}">
+		<p>₹{price}</p>
+	    </div>
             {form}
-            <p>₹{price}</p>
             <button type="button" id="button_element_{id}" class="cart_btn {button_class}" onclick="{onclick}">
                 Add To Cart
                 </button>   

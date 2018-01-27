@@ -552,7 +552,7 @@ function EJEJC_lc(th) { return false; };
 			pinned_down:['1556436', '1556552', '1556556','1566570','1566568','1566569','1566571','1556435']
 		}); 
 		function ej_shop(x){
-			Products = x;
+			Products = x.products;
 			console.log(Products)
 			x.products.forEach(function(y){
 				if((y.needs_options == "true" || y.needs_advance_options == "true") && document.getElementById("button_element_"+y.id))

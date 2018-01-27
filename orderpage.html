@@ -451,12 +451,11 @@
 					<p>{tagline}</p>
 					<div class="desktop-friendly thumbnail_holder" style="background-image: url('{thumbnail}');height: 180px;background-size: cover;width: 100%; background-position: center; "></div>
 					<img class="mobile-friendly" src="{thumbnail}" alt="{title}" title="{title}">
-					<p>â‚¹{price}</p>
+					<p>{price}</p>
 				    </div>
 				    {form}
-				    <button type="button" id="button_element_{id}" class="cart_btn {button_class}" onclick="{onclick}">
-					Add To Cart
-					</button>   
+					{options_template}
+					<p>Quantity <input type="number" value="0" id="quantity_element_{id}_1"></p>
 				    {/form}
 				</div>    
 			    </div>
@@ -467,27 +466,13 @@
 					<!-- <img src="{custom_thumbnail}" alt="{title}" title="{title}">-->
 					<quote style="font-size: 14px;">{description}</quote>
 					<div class="desktop-friendly">
-					    {form}
-					    {options_template}
-					    <p>â‚¹{price}</p>
-					    <span class='option_title' style='text-transform: capitalize'>Quantity</span>
-					    <input type='number' name='item_quantity_{id}' value='1'></div>
-				            <input type='checkbox' id='item_checkbox_{id}'>
-					    {/form}
+					    <p>{price}</p>
 					</div>
 				    </div>
 				    <div class="one-half column SndCol"> 
-					<p style="font-size: 14px;">
-						{details}
-					</p>
+					<p style="font-size: 14px;">{details}</p>
 					<div class="mobile-friendly">
-					    {form}
-					    {options_template}
-					    <p>â‚¹{price}</p>
-					    <button type="button" class="cart_btn {button_class}" onclick="{onclick}">
-					    Add To Cart
-					    </button>
-					    {/form}
+					    <p>{price}</p>					    
 					</div>
 				    </div>    
 				</div>

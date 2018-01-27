@@ -605,13 +605,14 @@ function EJEJC_lc(th) { return false; };
 							url += "&"+inputTags[i].name+"="+encodeURIComponent(inputTags[i].value);
 					}
 				}
+			url = url+"&custom=pos_2"
 			url_arr.push(url)					            		
 			}
 		}
             	console.log(url_arr)
 		if(url_arr.length != 0)
            		EJEJC_multiAdd(url_arr);
-		else EJEJC_multiAdd(['https://www.e-junkie.com/ecom/gb_pos.php?c=cart&ejc=2&cl=328984']);
+		else EJEJC_multiAdd(['https://www.e-junkie.com/ecom/gb.php?c=cart&ejc=2&cl=328984']);
             }
 	</script>
 </body>

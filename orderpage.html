@@ -457,7 +457,7 @@
 				    {form}
 					{options_template}
 					<label class="label">Quantity</label>
-					<input class="input" type="number" value="0" id="quantity_field_{id}">
+					<input class="input" type="number" name="quantity" value="0" id="quantity_field_{number}">
 				    {/form}
 				</div>    
 			    </div>
@@ -538,6 +538,7 @@ function EJEJC_lc(th) { return false; };
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
 	<script>
+		var Products = null;
 		var cat=window.location.search.split('&c=')[1]; 
 		if (!cat) cat=''; 
 		else cat=decodeURIComponent(cat); 
@@ -550,7 +551,9 @@ function EJEJC_lc(th) { return false; };
 			pinned:['pntbtr','vgnt150', 'vgnsnk','1566554','1562738','1562739','1564515','dlddt1','1556547',],
 			pinned_down:['1556436', '1556552', '1556556','1566570','1566568','1566569','1566571','1556435']
 		}); 
-		function ej_shop(x){ 
+		function ej_shop(x){
+			Products = x;
+			console.log(Products)
 			x.products.forEach(function(y){
 				if((y.needs_options == "true" || y.needs_advance_options == "true") && document.getElementById("button_element_"+y.id))
 				{
@@ -575,6 +578,31 @@ function EJEJC_lc(th) { return false; };
 				}); 
 			document.getElementById("ej_filter_handler").innerHTML = tmp;  
 		}
+	</script>
+	<script>
+	function addToCart(){
+            	var url_arr = [];
+            	for(var x in Products){
+            		if(parseInt(document.getElementById('quantity_field_'+Products[x].number).value) > 0){
+            			var x = document.getElementById['row_'+Products[x].number].getElementsByTagName('form')
+            			var url = x.action;
+			            var selectTags = x.getElementsByTagName('select');
+			            for(var i = 0; i < selectTags.length; i++)
+			                url += "&"+selectTags[i].name+"="+encodeURIComponent(selectTags[i].value);
+
+			            var inputTags = x.getElementsByTagName('input');
+			            for(var i = 0; i < inputTags.length; i++){
+			                if (inputTags[i].value) {
+			                    if (inputTags[i].type == 'radio' && inputTags[i].checked != true && inputTags[i].name != "") continue;
+			                    url += "&"+inputTags[i].name+"="+encodeURIComponent(inputTags[i].value);
+			                }
+			            }
+				url_arr.push(url)					            		
+            		}
+            	}
+            	console.log(url_arr)
+//            	EJEJC_multiAdd(url_arr);
+            }
 	</script>
 </body>
 </html>

@@ -410,7 +410,7 @@
 				.index{
 					min-width: 100%;
 					margin: 0 auto;
-					margin-bottom: -10px;
+					margin-bottom: 15px;
 				}
 				.cart_btn{ width: 100%; }
 				.SndCol{
@@ -464,7 +464,7 @@
 			</div>
 			<div id="listing_template" hidden>
 			    <div class="index" id="{identifier}" style="{style}">
-				<p class="product_title"><a href="/?p=product&i={number}"><strong>{title}</strong></a></p>
+				<p class="product_title"><strong>{title}</strong></p>
 				<div id="row_{number}" style="padding: 5px;">
 				    <div data-fancybox data-src="#modal_{identifier}">
 					<p>{tagline}</p>
@@ -483,17 +483,10 @@
 				<div class="row" style="text-align: left">
 				    <div class="one-half column">
 					<p><strong>{title}</strong></p>
-					<!-- <img src="{custom_thumbnail}" alt="{title}" title="{title}">-->
 					<quote style="font-size: 14px;">{description}</quote>
-					<div class="desktop-friendly">
-					    <p>{price}</p>
-					</div>
 				    </div>
 				    <div class="one-half column SndCol"> 
 					<p style="font-size: 14px;">{details}</p>
-					<div class="mobile-friendly">
-					    <p>{price}</p>					    
-					</div>
 				    </div>    
 				</div>
 			    </div>
@@ -617,7 +610,9 @@ function EJEJC_lc(th) { return false; };
 			}
 		}
             	console.log(url_arr)
-           	EJEJC_multiAdd(url_arr);
+		if(url_arr.length == 0)
+           		EJEJC_multiAdd(url_arr);
+		else EJEJC_multiAdd(['https://www.e-junkie.com/ecom/gb_pos.php?c=cart&ejc=2&cl=328984']);
             }
 	</script>
 </body>

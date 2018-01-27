@@ -381,11 +381,12 @@
 				display: block;
 			}
 			.index{        
-			    width: 32%;
-			    max-width: 32%;
-			    min-width: 32%;
-			    display: inline-block;
-			    vertical-align: bottom;
+				width: 32%;
+				max-width: 49%;
+				min-width: 49%;
+				display: inline-block;
+				vertical-align: top;
+				margin-top: 10px;
 			}
 			@media(max-width: 600px){
 				.index{
@@ -455,7 +456,8 @@
 				    </div>
 				    {form}
 					{options_template}
-					<p>Quantity <input type="number" value="0" id="quantity_element_{id}_1"></p>
+					<label class="label">Quantity</label>
+					<input class="input" type="number" value="0" id="quantity_field_{id}">
 				    {/form}
 				</div>    
 			    </div>

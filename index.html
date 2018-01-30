@@ -190,7 +190,9 @@
       
 		// Hide Header on on scroll down
 		$(document).ready(function() {
-				
+			
+			console.log("loc:"+window.location.href);
+			
 			loadContent ("/"+window.location.search,true,true);
 			
 			$(window).on("popstate", function (e) {

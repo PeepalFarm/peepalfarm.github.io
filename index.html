@@ -190,21 +190,26 @@
       
 		// Hide Header on on scroll down
 		$(document).ready(function() {
-			
-			console.log("loc:"+window.location.pathname);
-			
-			loadContent ("/"+window.location.search,true,true);
-			
-			$(window).on("popstate", function (e) {
-			  console.log("popstate!");
-			  console.log(e.originalEvent.state);
-				  // !== null
-			  if (e.originalEvent.state) {
-				console.log("condition met!");
-				loadContent(e.originalEvent.state.url,false,false);
-			  }
-			});
 
+			
+			console.log("loc path:"+window.location.pathname);
+			
+			if (window.location.pathname=="/") {
+
+				loadContent ("/"+window.location.search,true,true);
+
+				
+			}
+				$(window).on("popstate", function (e) {
+				  console.log("popstate!");
+				  console.log(e.originalEvent.state);
+					  // !== null
+				  if (e.originalEvent.state) {
+					console.log("condition met!");
+					loadContent(e.originalEvent.state.url,false,false);
+				  }
+				});
+			
 			$(window).scroll(function(event){
 				didScroll = true;
 			});

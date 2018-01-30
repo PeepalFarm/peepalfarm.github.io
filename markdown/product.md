@@ -4,7 +4,7 @@ Scripts:
 - https://www.e-junkie.com/ecom/e-junkie-shop-script.js
 - https://code.jquery.com/jquery-3.2.1.min.js
 - https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js
-Javascript: var item_number=getURLParameter("i"); var ej = new EJ_Product({client_id:328984,show_tags:true,show_related_max:4,item_number:item_number,custom_thumbnail:{'xpntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'},show_related:true}); function ej_shop(x){ if(x.custom_thumbnail[x.itemNumber]) $('#thumbnail_element').remove(); else $('#custom_thumbnail_element').remove(); }
+Javascript: var item_number=getURLParameter("i",window.location.search); var ej = new EJ_Product({client_id:328984,show_tags:true,show_related_max:4,item_number:item_number,custom_thumbnail:{'xpntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'},show_related:true}); function ej_shop(x){ if(x.custom_thumbnail[x.itemNumber]) $('#thumbnail_element').remove(); else $('#custom_thumbnail_element').remove(); }
 -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet">
 <style>

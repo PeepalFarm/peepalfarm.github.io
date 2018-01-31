@@ -6,7 +6,6 @@ Scripts:
 Javascript: var item_number=getURLParameter("i",window.location.search); var ej = new EJ_Product({client_id:328984,show_tags:true,show_related_max:4,item_number:item_number,custom_thumbnail:{'xpntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'},show_related:true}); function ej_shop(x){ if(x.custom_thumbnail[x.itemNumber]) $('#thumbnail_element').remove(); else $('#custom_thumbnail_element').remove(); }; console.log("new");
 
 -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet">
 <style>
 .input_div{
 	margin-top: 10px;
@@ -84,7 +83,7 @@ Javascript: var item_number=getURLParameter("i",window.location.search); var ej 
 }
 </style>
 <div id="app_container" style="margin-top: 30px;">
-	<img src="http://migyeongsophialim.com/img/loadinganimation.gif" style="max-width: 200px;margin: 0 auto;margin-top: 15vh;display: block;">
+	<img src="/images/loadinganimation.gif" style="max-width: 200px;margin: 0 auto;margin-top: 15vh;display: block;">
 </div>
 <div id="listing_template" hidden>
 	<div class="index">
@@ -132,6 +131,11 @@ Javascript: var item_number=getURLParameter("i",window.location.search); var ej 
 	<a class="tag" href="/?p=shop&c={html_name}">{name}</a>
 </div>
 
-**All "Peepal Farm" products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our [village](https://en.wikipedia.org/wiki/Dhanotu) and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **
+**All "Peepal Farm" food products are made fresh with whole ingredients, are Vegan friendly, help generate employment in our [village](https://en.wikipedia.org/wiki/Dhanotu) and 100% profits are used to support our [stray animal recovery center](/?p=recovery). **
 
 [&laquo; Back to shop](/?p=shop)
+
+
+<!-- facebook messenger plugin -->
+<div class="fb-customerchat" page_id="1504767806516890" ref="shop"></div>
+

@@ -3,7 +3,7 @@ Title: Product details
 Scripts: 
 - https://www.e-junkie.com/ecom/e-junkie-shop-script.js
 
-Javascript: var item_number=getURLParameter("i",window.location.search); var ej = new EJ_Product({client_id:328984,show_tags:true,show_related_max:4,item_number:item_number,custom_thumbnail:{'xpntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'},show_related:true}); function ej_shop(x){ if(x.custom_thumbnail[x.itemNumber]) $('#thumbnail_element').remove(); else $('#custom_thumbnail_element').remove(); }; console.log("new");
+Javascript: var item_number=getURLParameter("i",window.location.search); var ej = new EJ_Product({client_id:328984,show_tags:true,show_related_max:4,item_number:item_number,custom_thumbnail:{'xpntbtr':'http://peepalfarm.org/images/pnt_btr_joey01_600.jpg'},show_related:true}, ej_shop); function ej_shop(x){ if(x.custom_thumbnail[x.itemNumber]) $('#thumbnail_element').remove(); else $('#custom_thumbnail_element').remove(); }; console.log("new");
 
 -->
 <style>

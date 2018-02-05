@@ -379,16 +379,16 @@ function EJ_Shop(params, callback){
 	}
 
 	this.filterProducts = function(x){
-		if(x.target.value == "")
+		if(x.target.value == "" || x.target.value == null)
 			self.filters = null
 		else
 			self.filters = [x.target.value.toUpperCase()]
-		self.refreshListings()
+		self.fetchItems()
 	}
 
 	this.sortProducts = function(x){
 		self.sort = x.target.value
-		self.refreshListings()
+		self.fetchItems()
 	}
 
 	this.refreshListings = function(){
@@ -416,6 +416,8 @@ function EJ_Shop(params, callback){
 
 		//filter the products first
 		if(self.filters){
+			
+			console.log("Filters : "+self.filters)
 
 			var tmp = []
 			self.filters.forEach(function(y){
@@ -423,6 +425,8 @@ function EJ_Shop(params, callback){
 				tmp.push(y.toUpperCase())
 			})
 			self.filters = tmp
+			
+			console.log("Filters 2 : "+self.filters)
 
 			var tmpArr = []
 			self.products.forEach(function(x){
@@ -476,14 +480,17 @@ function EJ_Shop(params, callback){
 		self.renderItems()
 	};
 
-	EJ_FetchItems(self.clientId, function(response){
-		if(response){
-			self.products = response.items
-			self.client = response.client
-			self.totalCount = response.count
-			self.refreshListings()
-		}
-	})
+
+	this.fetchItems = function(){
+		EJ_FetchItems(self.clientId, function(response){
+			if(response){
+				self.products = response.items
+				self.client = response.client
+				self.totalCount = response.count
+				self.refreshListings()
+			}
+		})
+	}
 
 	if(document.getElementById('ej_search_handler')){
 		var el=document.getElementById("ej_search_handler");

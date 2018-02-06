@@ -6,7 +6,7 @@ Please email us at [peepalfarm@gmail.com](mailto:peepalfarm@gmail.com) at least 
 
 ## Timings
 
-**Monday** to **Saturday**
+**Saturday** to **Thursday**
 > 9:30 AM - 12:00 PM
 
 <!-- > 04:00 PM - 06:00 PM -->

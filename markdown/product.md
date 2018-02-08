@@ -136,6 +136,6 @@ Javascript: var item_number=getURLParameter("i",window.location.search); var ej 
 [&laquo; Back to shop](/?p=shop)
 
 
-<!-- facebook messenger plugin -->
-<div class="fb-customerchat" page_id="1504767806516890" ref="shop"></div>
+<!-- facebook messenger plugin
+<div class="fb-customerchat" page_id="1504767806516890" ref="shop"></div> -->
 

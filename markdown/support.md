@@ -32,18 +32,17 @@ Your money will go towards:
 > IFS Code: UTIB0002501<br/>
 > <div style="background-color:rgba(255, 255, 0, .75); text-align:center; vertical-align: middle; padding:5px 0;">Please enter your email, name and phone in the note!</div>
 
-<!--
 **2) By PayTM**
 
 > Send money to +91 9999 429144
 > <div style="background-color:rgba(255, 255, 0, .75); text-align:center; vertical-align: middle; padding:5px 0;">Please enter your email, name and phone in the note!</div>
 
--->
 
-**2) By PayPal**
+
+**3) By PayPal**
 
 > We can't accept foreign donations. Support our work by  <a href='http://buckdrop.com/poetgk5' class='ej_ejc_ithkbx'>buying lemongrass</a>.
 
-**3) By credit or debit card:**
+**4) By credit or debit card:**
 
 > https://www.payumoney.com/paybypayumoney/#/155241

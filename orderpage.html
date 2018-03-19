@@ -564,6 +564,10 @@ function EJEJC_lc(th) { return false; };
 		function ej_shop(x){
 			Products = x.products;
 			console.log(Products)
+			if(x.filters.length > 0)
+                                cat = x.filters[0]
+                        else
+                                cat = ""
 			x.products.forEach(function(y){
 				if((y.needs_options == "true" || y.needs_advance_options == "true") && document.getElementById("button_element_"+y.id))
 				{

@@ -26,7 +26,7 @@ One to one
 
 One to many 
 --
-Our current approach is to piggyback on interests of masses (food, fashion and entertainment) and align the packaging of our message with the interest of providers of food, fashion and entertainment.
+Our current approach is to piggyback on interests of many (food, fashion and entertainment) and align the packaging of our message with the interest of providers of food, fashion and entertainment.
 
 * We started a product line (peanut butter, vegantella, snack etc.) and people now pay us to have our message being displayed in their stores and consumers are paying to read our message :)
 

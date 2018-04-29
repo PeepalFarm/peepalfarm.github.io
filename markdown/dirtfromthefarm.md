@@ -9,6 +9,7 @@ Javascript: (function($) {window.fnames = new Array(); window.ftypes = new Array
 
 Join our mailing list
 ==================
+Once a month we send an update on the activities at the farm along with How-Tos, cute videos, and more! Don't miss out!
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup" >

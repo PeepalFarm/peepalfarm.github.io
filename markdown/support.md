@@ -49,6 +49,8 @@ Your money will go towards:
 
 > * Purchasing a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a> for our <a href="https://peepalfarm.threadless.com" target="_blank">T-shirt designs</a> available at a <a href="https://en.wikipedia.org/wiki/Pay_what_you_want" target="_blank">Pay-What-You-Want</a> pricing.<br/><br/><form method="get" action="https://www.e-junkie.com/ecom/gb.php"><input type="hidden" name="c" value="single"/><input type="hidden" name="cl" value="328984"/><input type="hidden" name="i" value="1579572"/>$<input type="text" name="amount" value="20">USD <input type="submit" name="submit" value="Purchase"/></form>
 
+> * Purchasing a <a href="https://en.wikipedia.org/wiki/Pay_what_you_want" target="_blank">Pay-What-You-Want</a> monthly membership to our vegan recipe of the month club. Please e-mail us at <a href="mailto:peepalfarm@gmail.com">peepalfarm@email.com</a>, and we'll send you the payment link!
+
 <!--
 > * Purchasing a subscription to our recipe of the month club. We will pick and select
 <form method="get" action="https://www.e-junkie.com/ecom/gb.php">

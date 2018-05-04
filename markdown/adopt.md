@@ -21,7 +21,7 @@ OUR DOGS FOR ADOPTION
 
 <div id="flickrembed">
  <center>
-  <img title="Loading animation" alt="Loading..." src="/images/loadinganimation.gif" style="width:200px; height:200px;"/>
+  <img title="Loading animation" alt="Loading..." src="https://peepalfarm.github.io/images/loadinganimation.gif" style="width:200px; height:200px;"/>
  </center>
 </div>
 

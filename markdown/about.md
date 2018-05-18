@@ -32,7 +32,7 @@ About us
 
 We are a group of people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. So for us, good work is helping alleviate suffering of those who can't help themselves. 
 
-Our **[farm]( /?p=farm)** is the home we have built in Himalayan Foothills to accommodate recovering injured stray animals, people who want to do good work, and an organic garden to provide a little bit for for all of us.
+Our **[farm]( /farm)** is the home we have built in Himalayan Foothills to accommodate recovering injured stray animals, people who want to do good work, and an organic garden to provide a little bit for for all of us.
 
 ## Vision
 
